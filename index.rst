@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to ET:Legacy assets's documentation!
+Welcome to ET: Legacy's asset documentation!
 ============================================
 
 .. toctree::
