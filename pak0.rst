@@ -33,6 +33,26 @@ Contents
    ui
    weapons
 
+animations
+==========
+
+human
+-----
+
+base
+""""
+* test_base
+
+heads
+"""""
+* test_heads
+
+scripts
+-------
+* human_base.script
+
+human_base.anim
+
 
 
 Indices and tables
