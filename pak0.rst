@@ -23,6 +23,7 @@ File                          Status   Author   Resources
 ============================= ======== ======== ============
 akimbo.aninc                  missing  N/A      resource1
                                                 resource2
+                                                resource3
 akimbo.mdx
 binocs.aninc                   
 binocs.mdx
