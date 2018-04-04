@@ -18,34 +18,30 @@ human
 
 base
 ^^^^
-============================= ======== ======== =========== ========   ======    ======   ======   ======
-File                          Status   Author   Resources   Origin     TEST      TEST     TEST     TEST
-============================= ======== ======== =========== ========   ======    ======   ======   ======
-akimbo.aninc                  missing  N/A      resource1   ET
-                                                resource2
-                                                resource3
-akimbo.mdx                                                  ETL
-                                                            RTCW
-binocs.aninc                   
-binocs.mdx
-body.aninc                                                  ET
-                                                            RTCW
-body.mdx
-mortar.aninc
-mortar.mdx
-no_juice.aninc
-no_juice.mdx
-prone_dual_pistols.aninc
-prone_dual_pistols.mdx
-prone_mortar.aninc
-prone_mortar.mdx
-prone_pistol.aninc
-prone_pistol.mdx
-prone_rifle.aninc
-prone_rifle.mdx
-swim.aninc
-swim.mdx              
-============================= ======== ======== =========== ========   ======    ======   ======   ======
+============================= ======== ======== =========== ========
+File                          Status   Author   Resources   Origin
+============================= ======== ======== =========== ========
+akimbo.aninc                  missing
+akimbo.mdx                    missing
+binocs.aninc                  missing
+binocs.mdx                    missing
+body.aninc                    missing
+body.mdx                      missing                
+mortar.aninc                  missing
+mortar.mdx                    missing
+no_juice.aninc                missing
+no_juice.mdx                  missing
+prone_dual_pistols.aninc      missing
+prone_dual_pistols.mdx        missing
+prone_mortar.aninc            missing
+prone_mortar.mdx              missing
+prone_pistol.aninc            missing
+prone_pistol.mdx              missing
+prone_rifle.aninc             missing
+prone_rifle.mdx               missing
+swim.aninc                    missing
+swim.mdx                      missing
+============================= ======== ======== =========== ========
 
 
 heads
