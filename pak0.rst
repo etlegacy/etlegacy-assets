@@ -30,6 +30,9 @@ scripts
 
 human_base.anim
 
+botfiles
+========
+
 
 
 Indices and tables
