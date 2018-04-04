@@ -10,29 +10,6 @@ pak0
 **pak0.pk3** is the main pak, containing the majority of assets.
 Below you will find an overview of its contents.
 
-Contents
-========
-.. toctree::
-   :maxdepth: 1
-   
-   animations
-   botfiles
-   characters
-   fonts
-   gfx
-   icons
-   levelshots
-   maps
-   menu
-   models
-   scripts
-   sound
-   sprites
-   text
-   textures
-   ui
-   weapons
-
 animations
 ==========
 
