@@ -3,11 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-=========
-pak0
-=========
+===================
+asset documentation
+===================
 
-**pak0.pk3** is the main pak, containing the majority of assets.
 Below you will find an overview of its contents.
 
 
