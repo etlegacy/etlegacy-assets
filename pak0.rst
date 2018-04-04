@@ -15,8 +15,10 @@ animations
 
 human
 -----
+
 base
 ^^^^
+
 ============================= ======== ======== =========== ========
 File                          Status   Author   Resources   Origin
 ============================= ======== ======== =========== ========
@@ -44,6 +46,7 @@ swim.mdx                      missing
 
 heads
 ^^^^^
+
 ============================= ======== ======== =========== ========
 File                          Status   Author   Resources   Origin
 ============================= ======== ======== =========== ========
@@ -53,6 +56,7 @@ base.anim                     missing
 
 scripts
 -------
+
 human_base.script
 
 human_base.anim
