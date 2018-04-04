@@ -10,6 +10,7 @@ pak0
 **pak0.pk3** is the main pak, containing the majority of assets.
 Below you will find an overview of its contents.
 
+
 animations
 ==========
 
@@ -77,11 +78,33 @@ human_base.script             missing
 botfiles
 ========
 
+============================= ======== ======== =========== ========
+File                          Status   Author   Resources   Origin
+============================= ======== ======== =========== ========
+botnames.txt                  missing
+chars.h                       missing
+fw_items.c                    missing
+fw_weap.c                     missing
+inv.h                         missing
+items.c                       missing
+match.c                       missing
+match.h                       missing
+rchat.c                       missing
+rnd.c                         missing
+syn.c                         missing
+syn.h                         missing
+teamplay.h                    missing
+weapons.c                     missing
+============================= ======== ======== =========== ========
 
+bots
+----
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+============================= ======== ======== =========== ========
+File                          Status   Author   Resources   Origin
+============================= ======== ======== =========== ========
+default_c.c                   missing
+default_i.c                   missing
+default_t.c                   missing
+default_w.c                   missing
+============================= ======== ======== =========== ========
