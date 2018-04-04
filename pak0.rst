@@ -35,6 +35,7 @@ scripts
 * human_base.script
 
 human_base.anim
+---------------
 
 botfiles
 ========
