@@ -15,7 +15,6 @@ animations
 
 human
 -----
-
 base
 ^^^^
 ============================= ======== ======== =========== ========
@@ -26,7 +25,7 @@ akimbo.mdx                    missing
 binocs.aninc                  missing
 binocs.mdx                    missing
 body.aninc                    missing
-body.mdx                      missing                
+body.mdx                      missing
 mortar.aninc                  missing
 mortar.mdx                    missing
 no_juice.aninc                missing
@@ -43,18 +42,18 @@ swim.aninc                    missing
 swim.mdx                      missing
 ============================= ======== ======== =========== ========
 
-
 heads
 ^^^^^
+============================= ======== ======== =========== ========
+File                          Status   Author   Resources   Origin
+============================= ======== ======== =========== ========
+base.anim                     missing
+============================= ======== ======== =========== ========
 
-* test_heads
-* test_heads
-* test_heads
-* test_heads
 
 scripts
 -------
-* human_base.script
+human_base.script
 
 human_base.anim
 ---------------
