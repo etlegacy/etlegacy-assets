@@ -18,16 +18,16 @@ human
 
 base
 ^^^^
-============================= ======== ======== ============
-File                          Status   Author   Resources
-============================= ======== ======== ============
-akimbo.aninc                  missing  N/A      resource1
+============================= ======== ======== =========== ========
+File                          Status   Author   Resources   Origin     
+============================= ======== ======== =========== ========
+akimbo.aninc                  missing  N/A      resource1   ET
                                                 resource2
                                                 resource3
-akimbo.mdx
+akimbo.mdx                                                  ETL; RTCW
 binocs.aninc                   
 binocs.mdx
-body.aninc
+body.aninc                                                  ET; RTCW
 body.mdx
 mortar.aninc
 mortar.mdx
