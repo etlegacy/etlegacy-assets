@@ -1404,31 +1404,565 @@ light.jpg                           missing                       pak0
 =================================== ======== ======== =========== ======== =============
 
 
+multiplayer
+-----------
 
 
+adrenaline
+^^^^^^^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+adrenaline.md3                      missing                       pak0
+adrenaline_allied.skin              missing                       pak0
+adrenaline_axis.skin                missing                       pak0
+v_adrenaline.md3                    missing                       pak0
+v_adrenaline_hand.md3               missing                       pak0
+weapon.cfg                          missing                       pak0
+=================================== ======== ======== =========== ======== =============
 
 
+ammopack
+^^^^^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+ammopack.md3                        missing                       pak0
+ammopack_pickup.md3                 missing                       pak0
+ammopack_pickup_s.md3               missing                       pak0
+v_ammopack.md3                      missing                       pak0
+v_ammopack_hand.md3                 missing                       pak0
+weapon.cfg                          missing                       pak0
+=================================== ======== ======== =========== ======== =============
 
 
+binocs
+^^^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+binocs.md3                          missing                       pak0
+binoculars.tga                      missing                       pak0
+v_binocs.md3                        missing                       pak0
+v_binocs_hand.md3                   missing                       pak0
+weapon.cfg                          missing                       pak0
+=================================== ======== ======== =========== ======== =============
 
 
+browning
+^^^^^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+barrel.tga                          missing                       pak0
+browning.tga                        missing                       pak0
+tankmounted.md3                     missing                       pak0
+thirdperson.md3                     missing                       pak0
+=================================== ======== ======== =========== ======== =============
 
 
+dynamite
+^^^^^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+dynamite.md3                        missing                       pak0
+dynamite_3rd.md3                    missing                       pak0
+=================================== ======== ======== =========== ======== =============
 
 
+flagpole
+^^^^^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+american.jpg                        missing                       pak0
+flagpole.md3                        missing                       pak0
+flag_clouds.tga                     missing                       pak0
+flag_waypoint.md3                   missing                       pak0
+german.jpg                          missing                       pak0
+waypoint.tga                        missing                       pak0
+=================================== ======== ======== =========== ======== =============
 
 
+gold
+^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+gold.tga                            missing                       pak0
+=================================== ======== ======== =========== ======== =============
 
 
+kar98
+^^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+gpg40.tga                           missing                       pak0
+kar98_3rd.md3                       missing                       pak0
+kar98_3rd_flash.mdc                 missing                       pak0
+kar98_allied.skin                   missing                       pak0
+kar98_att.md3                       missing                       pak0
+kar98_axis.skin                     missing                       pak0
+kar98_gren_pickup.md3               missing                       pak0
+kar98_scope_pickup.md3              missing                       pak0
+kar98_scp.md3                       missing                       pak0
+v_kar98.mdc                         missing                       pak0
+v_kar98_barrel.mdc                  missing                       pak0
+v_kar98_barrel2.mdc                 missing                       pak0
+v_kar98_barrel3.mdc                 missing                       pak0
+v_kar98_barrel4.mdc                 missing                       pak0
+v_kar98_barrel5.mdc                 missing                       pak0
+v_kar98_barrel6.mdc                 missing                       pak0
+v_kar98_flash.mdc                   missing                       pak0
+v_kar98_hand.md3                    missing                       pak0
+v_kar98_hand2.md3                   missing                       pak0
+v_kar98_scope.md3                   missing                       pak0
+v_kar98_scope2.mdc                  missing                       pak0
+v_kar98_silencer.md3                missing                       pak0
+weapon.cfg                          missing                       pak0
+weapon2.cfg                         missing                       pak0
+=================================== ======== ======== =========== ======== =============
 
 
+knife
+^^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+knife.mdc                           missing                       pak0
+knife_allied.skin                   missing                       pak0
+knife_axis.skin                     missing                       pak0
+v_knife.md3                         missing                       pak0
+v_knife_barrel.md3                  missing                       pak0
+v_knife_hand.md3                    missing                       pak0
+weapon.cfg                          missing                       pak0
+=================================== ======== ======== =========== ======== =============
 
 
+landmine
+^^^^^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+landmine.jpg                        missing                       pak0
+landmine.md3                        missing                       pak0
+v_landmine.md3                      missing                       pak0
+v_landmine_hand.md3                 missing                       pak0
+weapon.cfg                          missing                       pak0
+=================================== ======== ======== =========== ======== =============
 
 
+m1_garand
+^^^^^^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+m1garandscope_yd.tga                missing                       pak0
+m1garandsilencer_yd.tga             missing                       pak0
+m1_garand_3rd.md3                   missing                       pak0
+m1_garand_3rd_flash.mdc             missing                       pak0
+m1_garand_att.md3                   missing                       pak0
+m1_garand_gren_pickup.md3           missing                       pak0
+m1_garand_prj.md3                   missing                       pak0
+m1_garand_scope_pickup.md3          missing                       pak0
+m1_garand_scp.md3                   missing                       pak0
+m1_garand_yd.tga                    missing                       pak0
+rifle2.jpg                          missing                       pak0
+s_grenade.tga                       missing                       pak0
+s_grenadelauncher.tga               missing                       pak0
+v_m1_garand.md3                     missing                       pak0
+v_m1_garand_barrel.md3              missing                       pak0
+v_m1_garand_barrel2.md3             missing                       pak0
+v_m1_garand_barrel3.md3             missing                       pak0
+v_m1_garand_barrel4.md3             missing                       pak0
+v_m1_garand_barrel5.md3             missing                       pak0
+v_m1_garand_barrel6.md3             missing                       pak0
+v_m1_garand_flash.mdc               missing                       pak0
+v_m1_garand_hand.md3                missing                       pak0
+v_m1_garand_hand2.md3               missing                       pak0
+v_m1_garand_scope.md3               missing                       pak0
+v_m1_garand_scope2.md3              missing                       pak0
+v_m1_garand_silencer.md3            missing                       pak0
+weapon.cfg                          missing                       pak0
+weapon2.cfg                         missing                       pak0
+=================================== ======== ======== =========== ======== =============
 
 
+medpack
+^^^^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+medpack.md3                         missing                       pak0
+medpack_pickup.md3                  missing                       pak0
+v_medpack.md3                       missing                       pak0
+v_medpack_hand.md3                  missing                       pak0
+weapon.cfg                          missing                       pak0
+=================================== ======== ======== =========== ======== =============
 
 
+mg42
+^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+biped.tga                           missing                       pak0
+bullet_yd.tga                       missing                       pak0
+mg42.md3                            missing                       pak0
+mg42_3rd.md3                        missing                       pak0
+mg42_3rd_bipod.md3                  missing                       pak0
+mg42_3rd_flash.mdc                  missing                       pak0
+mg42_allied.skin                    missing                       pak0
+mg42_axis.skin                      missing                       pak0
+mg42_pickup.md3                     missing                       pak0
+s_mg42.tga                          missing                       pak0
+v_mg42.md3                          missing                       pak0
+v_mg42_barrel.md3                   missing                       pak0
+v_mg42_barrel2.md3                  missing                       pak0
+v_mg42_barrel3.md3                  missing                       pak0
+v_mg42_barrel4.md3                  missing                       pak0
+v_mg42_barrel5.md3                  missing                       pak0
+v_mg42_barrel6.md3                  missing                       pak0
+v_mg42_flash.mdc                    missing                       pak0
+v_mg42_hand.md3                     missing                       pak0
+weapon.cfg                          missing                       pak0
+=================================== ======== ======== =========== ======== =============
 
 
+mine_marker
+^^^^^^^^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+allied_marker.jpg                   missing                       pak0
+allied_marker.md3                   missing                       pak0
+axis_marker.jpg                     missing                       pak0
+axis_marker.md3                     missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+mortar
+^^^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+mortar_3rd.md3                      missing                       pak0
+mortar_3rda.md3                     missing                       pak0
+mortar_allied.skin                  missing                       pak0
+mortar_axis.skin                    missing                       pak0
+mortar_pickup.md3                   missing                       pak0
+mortar_sd.tga                       missing                       pak0
+mortar_shell.md3                    missing                       pak0
+mortar_shell_sd.jpg                 missing                       pak0
+v_mortar.md3                        missing                       pak0
+v_mortar_barrel.md3                 missing                       pak0
+v_mortar_barrel2.md3                missing                       pak0
+v_mortar_barrel3.md3                missing                       pak0
+v_mortar_barrel4.md3                missing                       pak0
+v_mortar_barrel5.md3                missing                       pak0
+v_mortar_barrel6.md3                missing                       pak0
+v_mortar_barrel7.md3                missing                       pak0
+v_mortar_hand.md3                   missing                       pak0
+weapon.cfg                          missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+panzerfaust
+^^^^^^^^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+multi_pf.md3                        missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+pliers
+^^^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+pliers.md3                          missing                       pak0
+pliers.tga                          missing                       pak0
+pliers_allied.skin                  missing                       pak0
+pliers_axis.skin                    missing                       pak0
+v_pliers.md3                        missing                       pak0
+v_pliers_hand.md3                   missing                       pak0
+weapon.cfg                          missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+satchel
+^^^^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+light.md3                           missing                       pak0
+lightgreen.tga                      missing                       pak0
+lightoff.tga                        missing                       pak0
+lightred.tga                        missing                       pak0
+needle.md3                          missing                       pak0
+radio.md3                           missing                       pak0
+radio.tga                           missing                       pak0
+satchel.md3                         missing                       pak0
+satchel_allied.skin                 missing                       pak0
+satchel_allied.tga                  missing                       pak0
+satchel_axis.skin                   missing                       pak0
+satchel_axis.tga                    missing                       pak0
+satchel_world.md3                   missing                       pak0
+v_satchel.md3                       missing                       pak0
+v_satchel_barrel.md3                missing                       pak0
+v_satchel_barrel2.md3               missing                       pak0
+v_satchel_hand.md3                  missing                       pak0
+weapon.cfg                          missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+secretdocs
+^^^^^^^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+clipboard.tga                       missing                       pak0
+paperstack.tga                      missing                       pak0
+paperstack2.jpg                     missing                       pak0
+secretdocs.md3                      missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+silencedcolt
+^^^^^^^^^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+v_silencedcolt.mdc                  missing                       pak0
+v_silencedcolt_barrel.mdc           missing                       pak0
+v_silencedcolt_barrel2.mdc          missing                       pak0
+v_silencedcolt_barrel3.mdc          missing                       pak0
+v_silencedcolt_barrel4.mdc          missing                       pak0
+v_silencedcolt_barrel5.mdc          missing                       pak0
+v_silencedcolt_barrel6.md3          missing                       pak0
+v_silencedcolt_barrel6.mdc          missing                       pak0
+v_silencedcolt_barrel7.mdc          missing                       pak0
+v_silencedcolt_hand.md3             missing                       pak0  
+weapon.cfg                          missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+smokebomb
+^^^^^^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+smokebomb.mdc                       missing                       pak0
+smoke_bomb.tga                      missing                       pak0
+v_smokebomb.mdc                     missing                       pak0
+v_smokebomb_hand.mdc                missing                       pak0
+weapon.cfg                          missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+smokegrenade
+^^^^^^^^^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+smokegrenade.md3                    missing                       pak0
+smoke_grenade.tga                   missing                       pak0
+v_smokegrenade.md3                  missing                       pak0
+v_smokegrenade_hand.md3             missing                       pak0
+weapon.cfg                          missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+supplies
+^^^^^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+ammobox.tga                         missing                       pak0
+ammobox_2.tga                       missing                       pak0
+ammobox_wm.md3                      missing                       pak0
+healthbox.tga                       missing                       pak0
+healthbox_wm.md3                    missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+syringe
+^^^^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+fluid.tga                           missing                       pak0
+fluid2.tga                          missing                       pak0
+fluid3.tga                          missing                       pak0
+plunger.tga                         missing                       pak0
+syringe.md3                         missing                       pak0
+syringe.tga                         missing                       pak0
+syringe_allied.skin                 missing                       pak0
+syringe_axis.skin                   missing                       pak0
+syringe_reflections.tga             missing                       pak0
+v_syringe.md3                       missing                       pak0
+v_syringe_barrel.md3                missing                       pak0
+v_syringe_hand.md3                  missing                       pak0
+weapon.cfg                          missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+players
+-------
+
+
+hud
+^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+allied_cvops.skin                   missing                       pak0
+allied_cvops.tga                    missing                       pak0
+allied_engineer.skin                missing                       pak0
+allied_engineer.tga                 missing                       pak0
+allied_field.skin                   missing                       pak0
+allied_field.tga                    missing                       pak0
+allied_medic.skin                   missing                       pak0
+allied_medic.tga                    missing                       pak0
+allied_soldier.skin                 missing                       pak0
+allied_soldier.tga                  missing                       pak0
+axis_cvops.skin                     missing                       pak0
+axis_cvops.tga                      missing                       pak0
+axis_engineer.skin                  missing                       pak0
+axis_engineer.tga                   missing                       pak0
+axis_field.skin                     missing                       pak0
+axis_field.tga                      missing                       pak0
+axis_medic.skin                     missing                       pak0
+axis_medic.tga                      missing                       pak0
+axis_soldier.skin                   missing                       pak0
+axis_soldier.tga                    missing                       pak0
+eye01.tga                           missing                       pak0
+eye02.tga                           missing                       pak0
+eye03.tga                           missing                       pak0
+head.md3                            missing                       pak0
+head_1.md3                          missing                       pak0
+teeth01.tga                         missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+damagedskins
+""""""""""""
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+blood01.skin                        missing                       pak0
+blood01.tga                         missing                       pak0
+blood02.skin                        missing                       pak0
+blood02.tga                         missing                       pak0
+blood03.skin                        missing                       pak0
+blood03.tga                         missing                       pak0
+blood04.skin                        missing                       pak0
+blood04.tga                         missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+temparate
+^^^^^^^^^
+
+
+allied
+""""""
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+cap.md3                             missing                       pak0
+cap_cvops.skin                      missing                       pak0
+helmet.md3                          missing                       pak0
+helmet_1.md3                        missing                       pak0
+helmet_2.md3                        missing                       pak0
+helmet_engineer.skin                missing                       pak0
+helmet_fieldops.skin                missing                       pak0
+helmet_medic.skin                   missing                       pak0
+helmet_soldier.skin                 missing                       pak0
+inside.tga                          missing                       pak0
+leg01.tga                           missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+axis
+^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+body01.jpg                          missing                       pak0
+cap.md3                             missing                       pak0
+cap_cvops.skin                      missing                       pak0
+helmet.md3                          missing                       pak0
+helmet_1.md3                        missing                       pak0
+helmet_engineer.skin                missing                       pak0
+helmet_fieldops.skin                missing                       pak0
+helmet_medic.skin                   missing                       pak0
+helmet_soldier.skin                 missing                       pak0
+inside.tga                          missing                       pak0
+legs01.tga                          missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+common
+""""""
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+bare_legs.jpg                       missing                       pak0
+bare_legs_2.jpg                     missing                       pak0
+naked.mdm                           missing                       pak0
+naked_allied_cvops.skin             missing                       pak0
+naked_allied_engineer.skin          missing                       pak0
+naked_allied_fieldops.skin          missing                       pak0
+naked_allied_medic.skin             missing                       pak0
+naked_allied_soldier.skin           missing                       pak0
+naked_axis_cvops.skin               missing                       pak0
+naked_axis_engineer.skin            missing                       pak0
+naked_axis_fieldops.skin            missing                       pak0
+naked_axis_medic.skin               missing                       pak0
+naked_axis_soldier.skin             missing                       pak0
+rank2.tga                           missing                       pak0
+rank3.tga                           missing                       pak0
+rank4.tga                           missing                       pak0
+rank5.tga                           missing                       pak0
+rank6.tga                           missing                       pak0
+rank7.tga                           missing                       pak0
+rank8.tga                           missing                       pak0
+rank9.tga                           missing                       pak0
+rank10.tga                          missing                       pak0
+rank11.tga                          missing                       pak0
+rank_cap.md3                        missing                       pak0
+rank_helmet.md3                     missing                       pak0
+=================================== ======== ======== =========== ======== =============
