@@ -525,22 +525,169 @@ noammo.tga                          missing                       pak0
 =================================== ======== ======== =========== ========
 
 
+levelshots
+==========
+
+=================================== ======== ======== =========== ========
+File                                Status   Author   Resources   Origin
+=================================== ======== ======== =========== ========
+battery.tga                         missing                       pak0
+battery_cc.tga                      missing                       pak0
+fueldump.tga                        missing                       pak0
+fueldump_cc.tga                     missing                       pak0
+goldrush.tga                        missing                       pak0
+goldrush_cc.tga                     missing                       pak0
+oasis.tga                           missing                       pak0
+oasis_cc.tga                        missing                       pak0
+radar.tga                           missing                       pak0
+radar_cc.tga                        missing                       pak0
+railgun.tga                         missing                       pak0
+railgun_cc.tga                      missing                       pak0
+unknownmap.tga                      missing                       pak0
+=================================== ======== ======== =========== ========
 
 
+maps
+====
 
+=================================== ======== ======== =========== ========
+File                                Status   Author   Resources   Origin
+=================================== ======== ======== =========== ========
+battery.bsp                         missing                       pak0
+battery.objdata                     missing                       pak0
+battery.script                      missing                       pak0
+battery_lms.objdata                 missing                       pak0
+battery_lms.script                  missing                       pak0
+battery_tracemap.tga                missing                       pak0
+fueldump.bsp                        missing                       pak0
+fueldump.objdata                    missing                       pak0
+fueldump.script                     missing                       pak0
+fueldump_lms.objdata                missing                       pak0
+fueldump_lms.script                 missing                       pak0
+fueldump_tracemap.tga               missing                       pak0
+goldrush.bsp                        missing                       pak0
+goldrush.objdata                    missing                       pak0
+goldrush.script                     missing                       pak0
+goldrush_lms.objdata                missing                       pak0
+goldrush_lms.script                 missing                       pak0
+goldrush_tracemap.tga               missing                       pak0
+oasis.bsp                           missing                       pak0
+oasis.objdata                       missing                       pak0
+oasis.script                        missing                       pak0
+oasis_lms.objdata                   missing                       pak0
+oasis_lms.script                    missing                       pak0
+oasis_tracemap.tga                  missing                       pak0
+radar.bsp                           missing                       pak0
+radar.objdata                       missing                       pak0
+radar.script                        missing                       pak0
+radar_lms.objdata                   missing                       pak0
+radar_lms.script                    missing                       pak0
+radar_tracemap.tga                  missing                       pak0
+railgun.bsp                         missing                       pak0
+railgun.objdata                     missing                       pak0
+railgun.script                      missing                       pak0
+railgun_lms.objdata                 missing                       pak0
+railgun_lms.script                  missing                       pak0
+railgun_tracemap.tga                missing                       pak0
+=================================== ======== ======== =========== ========
 
+battery
+-------
 
+=================================== ======== ======== =========== ========
+File                                Status   Author   Resources   Origin
+=================================== ======== ======== =========== ========
+lm_0000.tga                         missing                       pak0
+lm_0001.tga                         missing                       pak0
+lm_0002.tga                         missing                       pak0
+lm_0003.tga                         missing                       pak0
+lm_0004.tga                         missing                       pak0
+lm_0005.tga                         missing                       pak0
+lm_0006.tga                         missing                       pak0
+=================================== ======== ======== =========== ========
 
+fueldump
+--------
 
+=================================== ======== ======== =========== ========
+File                                Status   Author   Resources   Origin
+=================================== ======== ======== =========== ========
+lm_0000.tga                         missing                       pak0
+lm_0001.tga                         missing                       pak0
+lm_0002.tga                         missing                       pak0
+lm_0003.tga                         missing                       pak0
+lm_0004.tga                         missing                       pak0
+lm_0005.tga                         missing                       pak0
+lm_0006.tga                         missing                       pak0
+lm_0007.tga                         missing                       pak0
+=================================== ======== ======== =========== ========
 
+goldrush
+--------
 
+=================================== ======== ======== =========== ========
+File                                Status   Author   Resources   Origin
+=================================== ======== ======== =========== ========
+lm_0000.tga                         missing                       pak0
+lm_0001.tga                         missing                       pak0
+lm_0002.tga                         missing                       pak0
+lm_0003.tga                         missing                       pak0
+lm_0004.tga                         missing                       pak0
+lm_0005.tga                         missing                       pak0
+lm_0006.tga                         missing                       pak0
+lm_0007.tga                         missing                       pak0
+lm_0008.tga                         missing                       pak0
+lm_0009.tga                         missing                       pak0
+lm_00010.tga                         missing                       pak0
+lm_00011.tga                         missing                       pak0
+lm_00012.tga                         missing                       pak0
+lm_00013.tga                         missing                       pak0
+lm_00014.tga                         missing                       pak0
+=================================== ======== ======== =========== ========
 
+oasis
+-----
 
+=================================== ======== ======== =========== ========
+File                                Status   Author   Resources   Origin
+=================================== ======== ======== =========== ========
+lm_0000.tga                         missing                       pak0
+lm_0001.tga                         missing                       pak0
+lm_0002.tga                         missing                       pak0
+lm_0003.tga                         missing                       pak0
+lm_0004.tga                         missing                       pak0
+lm_0005.tga                         missing                       pak0
+lm_0006.tga                         missing                       pak0
+lm_0007.tga                         missing                       pak0
+=================================== ======== ======== =========== ========
 
+radar
+-----
 
+=================================== ======== ======== =========== ========
+File                                Status   Author   Resources   Origin
+=================================== ======== ======== =========== ========
+lm_0000.tga                         missing                       pak0
+lm_0001.tga                         missing                       pak0
+lm_0002.tga                         missing                       pak0
+lm_0003.tga                         missing                       pak0
+lm_0004.tga                         missing                       pak0
+lm_0005.tga                         missing                       pak0
+lm_0006.tga                         missing                       pak0
+lm_0007.tga                         missing                       pak0
+lm_0008.tga                         missing                       pak0
+=================================== ======== ======== =========== ========
 
+railgun
+-------
 
-
-
-
+=================================== ======== ======== =========== ========
+File                                Status   Author   Resources   Origin
+=================================== ======== ======== =========== ========
+lm_0000.tga                         missing                       pak0
+lm_0001.tga                         missing                       pak0
+lm_0002.tga                         missing                       pak0
+lm_0003.tga                         missing                       pak0
+lm_0004.tga                         missing                       pak0
+=================================== ======== ======== =========== ========
 
