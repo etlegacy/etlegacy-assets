@@ -473,4 +473,62 @@ tracer2.jpg                   missing                       pak0
 ============================= ======== ======== =========== ========
 
 
+icons
+=====
+
+============================= ======== ======== =========== ========
+File                          Status   Author   Resources   Origin
+============================= ======== ======== =========== ========
+iconw_ammopack_1_select.tga   missing                       pak0
+iconw_binoculars_1_select.tga
+iconw_browning_1_select.tga
+iconw_colt_1_select.tga
+iconw_dynamite_1_select.tga
+iconw_fg42_1_select.tga
+iconw_flamethrower_1_select.tga
+iconw_grenade_1_select.tga
+iconw_kar98_1_select.tga
+iconw_knife_1_select.tga
+iconw_landmine_1_select.tga
+iconw_luger_1_select.tga
+iconw_m1_garand_1_select.tga
+iconw_m1_garand_gren_1_select.tga
+iconw_mauser_1_select.tga
+iconw_medheal_select.tga
+iconw_mg42_1_select.tga
+iconw_mortar_1_select.tga
+iconw_MP40_1_select.tga
+iconw_panzerfaust_1_select.tga
+iconw_pineapple_1_select.tga
+iconw_pliers_1_select.tga
+iconw_radio_1_select.tga
+iconw_satchel_1_select.tga
+iconw_silencer_1_select.tga
+iconw_smokegrenade_1_select.tga
+iconw_sten_1_select.tga
+iconw_syringe2_1_select.tga
+iconw_syringe_1_select.tga
+iconw_thompson_1_select.tga
+noammo.tga
+============================= ======== ======== =========== ========
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
