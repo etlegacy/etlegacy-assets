@@ -1063,11 +1063,77 @@ portable_radar_top.md3              missing                       pak0
 portable_radar_t_sd.tga             missing                       pak0
 =================================== ======== ======== =========== ========
 
+props_sd
+^^^^^^^^
 
+=================================== ======== ======== =========== ========
+File                                Status   Author   Resources   Origin
+=================================== ======== ======== =========== ========
+basket.tga                          missing                       pak0
+basketsand_empty.md3                missing                       pak0
+fuel_can.tga                        missing                       pak0
+fuel_can_s.tga                      missing                       pak0
+lid.tga                             missing                       pak0
+vase.tga                            missing                       pak0
+vase_broken_1.md3                   missing                       pak0
+xlight_fg2_oasis.md3                missing                       pak0
+=================================== ======== ======== =========== ========
 
+pump_sd
+^^^^^^^
 
+=================================== ======== ======== =========== ========
+File                                Status   Author   Resources   Origin
+=================================== ======== ======== =========== ========
+bottom.tga                          missing                       pak0
+pump_animated.md3                   missing                       pak0
+pump_base.md3                       missing                       pak0
+top.tga                             missing                       pak0
+=================================== ======== ======== =========== ========
 
+radios_sd
+^^^^^^^^^
 
+=================================== ======== ======== =========== ========
+File                                Status   Author   Resources   Origin
+=================================== ======== ======== =========== ========
+allied_sign.tga                     missing                       pak0
+axis_sign.tga                       missing                       pak0
+beep_blue.tga                       missing                       pak0
+beep_gold.tga                       missing                       pak0
+beep_green.tga                      missing                       pak0
+beep_red.tga                        missing                       pak0
+command1.tga                        missing                       pak0
+command1a.tga                       missing                       pak0
+command2.tga                        missing                       pak0
+command3.tga                        missing                       pak0
+command4.tga                        missing                       pak0
+command5.tga                        missing                       pak0
+command6.tga                        missing                       pak0
+command7.tga                        missing                       pak0
+compostalliedclosed.md3             missing                       pak0
+compostalliedclosed.skin            missing                       pak0
+compostallieddamaged.md3            missing                       pak0
+compostallieddamaged.skin           missing                       pak0
+compostalliedopened.md3             missing                       pak0
+compostalliedopened.skin            missing                       pak0
+compostaxisclosed.md3               missing                       pak0
+compostaxisclosed.skin              missing                       pak0
+compostaxisdamaged.md3              missing                       pak0
+compostaxisdamaged.skin             missing                       pak0
+compostaxisopened.md3               missing                       pak0
+compostaxisopened.skin              missing                       pak0
+compostneutralclosed.md3            missing                       pak0
+compostneutralclosed.skin           missing                       pak0
+crate.tga                           missing                       pak0
+grid.tga                            missing                       pak0
+iron.tga                            missing                       pak0
+neutral_sign.tga                    missing                       pak0
+radio_scroll1.jpg                   missing                       pak0
+radio_scroll2.jpg                   missing                       pak0
+screen_circle.tga                   missing                       pak0
+screen_square.tga                   missing                       pak0
+=================================== ======== ======== =========== ========
 
 
 
