@@ -2201,3 +2201,139 @@ temparate
       rank_cap.md3                        missing                       pak0
       rank_helmet.md3                     missing                       pak0
       =================================== ======== ======== =========== ======== =============
+
+
+powerups
+--------
+
+
+ammo
+^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+am792mm.jpg                         missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+health
+^^^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+food.jpg                            missing                       pak0
+health_t1.mdc                       missing                       pak0
+health_t2.mdc                       missing                       pak0
+health_t3.mdc                       missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+holdable
+^^^^^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+binoc.jpg                           missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+shards
+------
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+fabric1.mdc                         missing                       pak0
+fabric2.mdc                         missing                       pak0
+fabric3.mdc                         missing                       pak0
+glass1.mdc                          missing                       pak0
+glass2.mdc                          missing                       pak0
+metal.jpg                           missing                       pak0
+metal1.mdc                          missing                       pak0
+metal2.mdc                          missing                       pak0
+wood1.mdc                           missing                       pak0
+wood2.mdc                           missing                       pak0
+woodshard.jpg                       missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+weaphits
+--------
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+blood201.tga                        missing                       pak0
+blood202.tga                        missing                       pak0
+blood203.tga                        missing                       pak0
+blood204.tga                        missing                       pak0
+blood205.tga                        missing                       pak0
+bullet.mdc                          missing                       pak0
+bullet1.tga                         missing                       pak0
+bullet2.tga                         missing                       pak0
+bullet3.tga                         missing                       pak0
+sand_splash.tga                     missing                       pak0
+splash2_1.tga                       missing                       pak0
+splash2_2.tga                       missing                       pak0
+splash2_3.tga                       missing                       pak0
+splash2_4.tga                       missing                       pak0
+water_splash.tga                    missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+weapons2
+--------
+
+
+akimbo_colt
+^^^^^^^^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+v_akimbo_colt.md3                   missing                       pak0
+v_akimbo_colt_barrel.md3            missing                       pak0
+v_akimbo_colt_barrel2.md3           missing                       pak0
+v_akimbo_colt_barrel3.md3           missing                       pak0
+v_akimbo_colt_barrel4.md3           missing                       pak0
+v_akimbo_colt_barrel5.md3           missing                       pak0
+v_akimbo_colt_flash.mdc             missing                       pak0
+v_akimbo_colt_hand.md3              missing                       pak0
+weapon.cfg                          missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+akimbo_luger
+^^^^^^^^^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+v_akimbo_luger.md3                  missing                       pak0
+v_akimbo_luger_barrel.md3           missing                       pak0
+v_akimbo_luger_barrel2.md3          missing                       pak0
+v_akimbo_luger_barrel3.md3          missing                       pak0
+v_akimbo_luger_barrel4.md3          missing                       pak0
+v_akimbo_luger_barrel5.md3          missing                       pak0
+v_akimbo_luger_flash.mdc            missing                       pak0
+v_akimbo_luger_hand.md3             missing                       pak0
+v_akimbo_luger_silencer.md3         missing                       pak0
+weapon.cfg                          missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+arms
+^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+arm_allied.jpg                      missing                       pak0
+arm_axis.jpg                        missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+
