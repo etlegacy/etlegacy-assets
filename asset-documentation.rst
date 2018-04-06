@@ -1364,7 +1364,7 @@ wood_m02a.jpg                       missing                       pak0
 
 
 wagon
-#####
+.....
 
 =================================== ======== ======== =========== ======== =============
 File                                Status   Author   Resources   Origin   Last Updated
@@ -1874,7 +1874,7 @@ teeth01.tga                         missing                       pak0
 
 
 damagedskins
-############
+............
 
 =================================== ======== ======== =========== ======== =============
 File                                Status   Author   Resources   Origin   Last Updated
@@ -1895,7 +1895,7 @@ temparate
 
 
 allied
-######
+......
 
 =================================== ======== ======== =========== ======== =============
 File                                Status   Author   Resources   Origin   Last Updated
@@ -1941,7 +1941,7 @@ helmet.tga                          missing                       pak0
 
 
 acc
-...
+***
 
 =================================== ======== ======== =========== ======== =============
 File                                Status   Author   Resources   Origin   Last Updated
@@ -1966,7 +1966,7 @@ helmet.tga                          missing                       pak0
 
 
 acc
-...
+***
 
 =================================== ======== ======== =========== ======== =============
 File                                Status   Author   Resources   Origin   Last Updated
@@ -1990,7 +1990,7 @@ helmet.tga                          missing                       pak0
 
 
 acc
-...
+***
 
 =================================== ======== ======== =========== ======== =============
 File                                Status   Author   Resources   Origin   Last Updated
@@ -2015,7 +2015,7 @@ helmet.tga                          missing                       pak0
 
 
 acc
-...
+***
 
 =================================== ======== ======== =========== ======== =============
 File                                Status   Author   Resources   Origin   Last Updated
@@ -2026,7 +2026,7 @@ backpack.md3                        missing                       pak0
 
 
 axis
-####
+....
 
 =================================== ======== ======== =========== ======== =============
 File                                Status   Author   Resources   Origin   Last Updated
@@ -2059,7 +2059,7 @@ cap.tga                             missing                       pak0
 
 
 acc
-...
+***
 
 =================================== ======== ======== =========== ======== =============
 File                                Status   Author   Resources   Origin   Last Updated
@@ -2084,7 +2084,7 @@ helmet.tga                          missing                       pak0
 
 
 acc
-...
+***
 
 =================================== ======== ======== =========== ======== =============
 File                                Status   Author   Resources   Origin   Last Updated
@@ -2109,7 +2109,7 @@ helmet.tga                          missing                       pak0
 
 
 acc
-...
+***
 
 =================================== ======== ======== =========== ======== =============
 File                                Status   Author   Resources   Origin   Last Updated
@@ -2134,7 +2134,7 @@ legs_medic.jpg                      missing                       pak0
 
 
 acc
-...
+***
 
 =================================== ======== ======== =========== ======== =============
 File                                Status   Author   Resources   Origin   Last Updated
@@ -2159,7 +2159,7 @@ helmet.tga                          missing                       pak0
 
 
 acc
-...
+***
 
 =================================== ======== ======== =========== ======== =============
 File                                Status   Author   Resources   Origin   Last Updated
@@ -2170,7 +2170,7 @@ backpack.md3                        missing                       pak0
 
 
 common
-######
+......
 
 =================================== ======== ======== =========== ======== =============
 File                                Status   Author   Resources   Origin   Last Updated
