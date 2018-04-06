@@ -2336,4 +2336,450 @@ arm_axis.jpg                        missing                       pak0
 =================================== ======== ======== =========== ======== =============
 
 
+c4_dynamite
+^^^^^^^^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+dynomite1a.tga                      missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+colt
+^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+colt_flash.mdc                      missing                       pak0
+colt_stand.mdc                      missing                       pak0
+colt_yd.tga                         missing                       pak0
+silenced.md3                        missing                       pak0
+ss_colt.mdc                         missing                       pak0
+v_colt.mdc                          missing                       pak0
+v_colt_barrel.mdc                   missing                       pak0
+v_colt_barrel2.mdc                  missing                       pak0
+v_colt_barrel3.mdc                  missing                       pak0
+v_colt_barrel4.mdc                  missing                       pak0
+v_colt_barrel5.mdc                  missing                       pak0
+v_colt_flash.mdc                    missing                       pak0
+v_colt_hand.mdc                     missing                       pak0
+weapon.cfg                          missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+dynamite
+^^^^^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+v_dynamite.mdc                      missing                       pak0
+v_dynamite_barrel.mdc               missing                       pak0
+v_dynamite_hand.mdc                 missing                       pak0
+weapon.cfg                          missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+fg42
+^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+fg42.md3                            missing                       pak0
+fg42_allied.skin                    missing                       pak0
+fg42_axis.skin                      missing                       pak0
+fg42_barrel.mdc                     missing                       pak0
+fg42_flash.mdc                      missing                       pak0
+fg42_yd.tga                         missing                       pak0
+v_fg42.mdc                          missing                       pak0
+v_fg42_barrel2.mdc                  missing                       pak0
+v_fg42_barrel3.mdc                  missing                       pak0
+v_fg42_barrel4.mdc                  missing                       pak0
+v_fg42_flash.mdc                    missing                       pak0
+v_fg42_hand.mdc                     missing                       pak0
+weapon.cfg                          missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+flamethrower
+^^^^^^^^^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+flame1_yd.tga                       missing                       pak0
+flamethrower_flash.mdc              missing                       pak0
+flash.jpg                           missing                       pak0
+pu_flamethrower.mdc                 missing                       pak0
+ss_flamethrower.mdc                 missing                       pak0
+v_flamethrower.mdc                  missing                       pak0
+v_flamethrower_hand.mdc             missing                       pak0
+weapon.cfg                          missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+grenade
+^^^^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+grenade.jpg                         missing                       pak0
+grenade_us.tga                      missing                       pak0
+grenade_yd.tga                      missing                       pak0
+pineapple.mdc                       missing                       pak0
+ss_grenade.mdc                      missing                       pak0
+ss_pineapple.mdc                    missing                       pak0
+v_grenade.mdc                       missing                       pak0
+v_grenade_barrel.mdc                missing                       pak0
+v_grenade_hand.mdc                  missing                       pak0
+v_pineapple.mdc                     missing                       pak0
+v_pineapple_barrel.mdc              missing                       pak0
+v_pineapple_hand.mdc                missing                       pak0
+weapon.cfg                          missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+knife
+^^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+arm2.jpg                            missing                       pak0
+knife_yd.tga                        missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+luger
+^^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+luger7_yd.tga                       missing                       pak0
+luger_flash.mdc                     missing                       pak0
+luger_stand.mdc                     missing                       pak0
+silncer.jpg                         missing                       pak0
+ss_luger.mdc                        missing                       pak0
+v_luger.mdc                         missing                       pak0
+v_luger_barrel.mdc                  missing                       pak0  
+v_luger_barrel2.mdc                 missing                       pak0
+v_luger_barrel3.mdc                 missing                       pak0
+v_luger_barrel4.mdc                 missing                       pak0
+v_luger_flash.mdc                   missing                       pak0
+v_luger_hand.mdc                    missing                       pak0
+weapon.cfg                          missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+machinegun
+^^^^^^^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+f_machinegun.tga                    missing                       pak0
+f_machinegun1.tga                   missing                       pak0
+mg42_flash.mdc                      missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+mauser
+^^^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+mauser3_yd.tga                      missing                       pak0
+mauserif5.jpg                       missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+mp40
+^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+gun11_yd.tga                        missing                       pak0
+hand16.jpg                          missing                       pak0
+mp40.mdc                            missing                       pak0
+mp40_allied.skin                    missing                       pak0
+mp40_axis.skin                      missing                       pak0
+mp40_flash.mdc                      missing                       pak0
+mp40_stand.mdc                      missing                       pak0
+ss_mp40.mdc                         missing                       pak0
+v_mp40.mdc                          missing                       pak0
+v_mp40_barrel.mdc                   missing                       pak0
+v_mp40_barrel2.mdc                  missing                       pak0
+v_mp40_barrel3.mdc                  missing                       pak0
+v_mp40_flash.mdc                    missing                       pak0
+v_mp40_hand.mdc                     missing                       pak0
+weapon.cfg                          missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+panzerfaust
+^^^^^^^^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+panzerfast1a.jpg                    missing                       pak0
+panzerfaust_yd.tga                  missing                       pak0
+pf.mdc                              missing                       pak0
+pf_flash.mdc                        missing                       pak0
+pf_stand.mdc                        missing                       pak0
+v_pf.mdc                            missing                       pak0
+v_pf_barrel.mdc                     missing                       pak0
+v_pf_barrel2.mdc                    missing                       pak0
+v_pf_barrel3.mdc                    missing                       pak0
+v_pf_barrel4.mdc                    missing                       pak0
+v_pf_barrel5.mdc                    missing                       pak0
+v_pf_flash.mdc                      missing                       pak0
+v_pf_hand.mdc                       missing                       pak0
+weapon.cfg                          missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+rocketl
+^^^^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+f_rocketl.jpg                       missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+shells
+^^^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+M_shell.jpg                         missing                       pak0
+m_shell.mdc                         missing                       pak0
+pf_shell.mdc                        missing                       pak0
+sm_shell.mdc                        missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+silencer
+^^^^^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+silencer.mdc                        missing                       pak0
+silencer_stand.mdc                  missing                       pak0
+v_silencer.mdc                      missing                       pak0
+v_silencer_barrel.mdc               missing                       pak0
+v_silencer_barrel2.mdc              missing                       pak0
+v_silencer_barrel3.mdc              missing                       pak0
+v_silencer_barrel4.mdc              missing                       pak0
+v_silencer_barrel5.mdc              missing                       pak0
+v_silencer_barrel6.mdc              missing                       pak0
+v_silencer_hand.mdc                 missing                       pak0
+weapon.cfg                          missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+sten
+^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+ss_sten.mdc                         missing                       pak0
+sten.mdc                            missing                       pak0
+sten1_yd.tga                        missing                       pak0
+sten_stand.mdc                      missing                       pak0
+v_sten.mdc                          missing                       pak0
+v_sten_barrel.mdc                   missing                       pak0
+v_sten_barrel2.mdc                  missing                       pak0
+v_sten_barrel3.mdc                  missing                       pak0
+v_sten_hand.mdc                     missing                       pak0
+weapon.cfg                          missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+thompson
+^^^^^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+thompson.mdc                        missing                       pak0
+thompson_allied.skin                missing                       pak0
+thompson_axis.skin                  missing                       pak0
+thompson_flash.mdc                  missing                       pak0
+thompson_la_yd.tga                  missing                       pak0
+thompson_stand.mdc                  missing                       pak0
+v_thompson.mdc                      missing                       pak0
+v_thompson_barrel.mdc               missing                       pak0
+v_thompson_barrel2.mdc              missing                       pak0
+v_thompson_barrel3.mdc              missing                       pak0
+v_thompson_flash.mdc                missing                       pak0
+v_thompson_hand.mdc                 missing                       pak0
+weapon.cfg                          missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+scripts
+=======
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+alpha.shader                        missing                       pak0
+alpha_sd.shader                     missing                       pak0
+assault.shader                      missing                       pak0
+assault_rock.shader                 missing                       pak0
+awf_props.shader                    missing                       pak0
+battery.arena                       missing                       pak0
+battery.shader                      missing                       pak0
+battery_wall.shader                 missing                       pak0
+bbmodels_mapobjects.shader          missing                       pak0
+blimp.shader                        missing                       pak0
+bots.txt                            missing                       pak0
+bunker_sd.shader                    missing                       pak0
+castle_door.shader                  missing                       pak0
+castle_floor.shader                 missing                       pak0
+castle_window.shader                missing                       pak0
+castle_wood.shader                  missing                       pak0
+centraleurope.campaign              missing                       pak0
+chat.shader                         missing                       pak0
+chateau.shader                      missing                       pak0
+chat_window.shader                  missing                       pak0
+chat_wood.shader                    missing                       pak0
+common.shader                       missing                       pak0
+decals.shader                       missing                       pak0
+doors.shader                        missing                       pak0
+eerie.shader                        missing                       pak0
+egypt_door_sd.shader                missing                       pak0
+egypt_floor_sd.shader               missing                       pak0
+egypt_props_sd.shader               missing                       pak0
+egypt_rock_sd.shader                missing                       pak0
+egypt_trim_sd.shader                missing                       pak0
+egypt_walls_sd.shader               missing                       pak0
+egypt_windows_sd.shader             missing                       pak0
+egypt_wood_sd.shader                missing                       pak0
+factory_sd.shader                   missing                       pak0
+fueldump.arena                      missing                       pak0
+fueldump.shader                     missing                       pak0
+gfx_2d.shader                       missing                       pak0
+gfx_clipboard.shader                missing                       pak0
+gfx_damage.shader                   missing                       pak0
+gfx_hud.shader                      missing                       pak0
+gfx_limbo.shader                    missing                       pak0
+gfx_misc.shader                     missing                       pak0
+goldrush.arena                      missing                       pak0
+goldrush.shader                     missing                       pak0
+icons.shader                        missing                       pak0
+levelshots.shader                   missing                       pak0
+lights.shader                       missing                       pak0
+liquids.shader                      missing                       pak0
+liquids_sd.shader                   missing                       pak0
+mapfx.shader                        missing                       pak0
+metals_sd.shader                    missing                       pak0
+metal_misc.shader                   missing                       pak0
+miltary_door.shader                 missing                       pak0
+miltary_trim.shader                 missing                       pak0
+miltary_wall.shader                 missing                       pak0
+models_ammo.shader                  missing                       pak0
+models_foliage.shader               missing                       pak0
+models_furniture.shader             missing                       pak0
+models_mapobjects.shader            missing                       pak0
+models_multiplayer.shader           missing                       pak0
+models_players.shader               missing                       pak0
+models_shards.shader                missing                       pak0
+models_weapons2.shader              missing                       pak0
+mp_goldrush.shader                  missing                       pak0
+mp_guns.shader                      missing                       pak0
+mp_railgun.shader                   missing                       pak0
+mp_rocket.shader                    missing                       pak0
+mp_seawall.shader                   missing                       pak0
+mp_siwa.shader                      missing                       pak0
+mp_wurzburg.shader                  missing                       pak0
+northafrican.campaign               missing                       pak0
+oasis.arena                         missing                       pak0
+props.shader                        missing                       pak0
+props_sd.shader                     missing                       pak0
+radar.arena                         missing                       pak0
+radar.shader                        missing                       pak0
+railgun.arena                       missing                       pak0
+railgun_props.shader                missing                       pak0
+railway_sd.shader                   missing                       pak0
+rock.shader                         missing                       pak0
+rubble.shader                       missing                       pak0
+seawall_wall.shader                 missing                       pak0
+sfx.shader                          missing                       pak0
+shadows.shader                      missing                       pak0
+siwa_fx_sd.shader                   missing                       pak0
+siwa_props_sd.shader                missing                       pak0
+siwa_skyboxes_sd.shader             missing                       pak0
+skies.shader                        missing                       pak0
+snow.shader                         missing                       pak0
+snow_sd.shader                      missing                       pak0
+sprites.shader                      missing                       pak0
+stone.shader                        missing                       pak0
+swf.shader                          missing                       pak0
+temperate_sd.shader                 missing                       pak0
+terrain.shader                      missing                       pak0
+textures.shader                     missing                       pak0
+tobruk_wall_sd.shader               missing                       pak0
+tobruk_windows_sd.shader            missing                       pak0
+town_props.shader                   missing                       pak0
+town_roof.shader                    missing                       pak0
+town_wall.shader                    missing                       pak0
+town_window.shader                  missing                       pak0
+town_wood.shader                    missing                       pak0
+tree.shader                         missing                       pak0
+ui_assets.shader                    missing                       pak0
+ui_assets2.shader                   missing                       pak0
+village.shader                      missing                       pak0
+villa_sd.shader                     missing                       pak0
+wm_allies_chat.voice                missing                       pak0
+wm_axis_chat.voice                  missing                       pak0
+wood.shader                         missing                       pak0
+xlab_door.shader                    missing                       pak0
+xlab_props.shader                   missing                       pak0
+xlab_wall.shader                    missing                       pak0
+_unsorted.shader                    missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+sound
+=====
+
+
+chat
+----
+
+
+allies
+^^^^^^
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
