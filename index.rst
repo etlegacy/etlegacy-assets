@@ -12,7 +12,7 @@ The original assets included in pak0, pak1 and pak2 unfortunately weren't includ
 Contents
 ========
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 6
    
    asset-documentation
 
