@@ -9,9 +9,9 @@ asset documentation
 
 Below you will find an overview of its contents.
 
-**********
+----------
 animations
-**********
+----------
 
 =================================== ======== ======== =========== ======== =============
 File                                Status   Author   Resources   Origin   Last Updated
