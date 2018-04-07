@@ -3628,6 +3628,365 @@ hq_truckrep_b.wav                   missing                       pak0
 =================================== ======== ======== =========== ======== =============
 
 
+axis
+++++
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+hq_2minutes.wav                     missing                       pak0
+hq_5minutes.wav                     missing                       pak0
+hq_30seconds.wav                    missing                       pak0
+hq_airabort.wav                     missing                       pak0
+hq_airdenied.wav                    missing                       pak0
+hq_airstrike_a.wav                  missing                       pak0
+hq_airstrike_b.wav                  missing                       pak0
+hq_artabort.wav                     missing                       pak0
+hq_artdenied_a.wav                  missing                       pak0
+hq_artdenied_b.wav                  missing                       pak0
+hq_artillery_a.wav                  missing                       pak0
+hq_artillery_b.wav                  missing                       pak0
+hq_conconst_a.wav                   missing                       pak0
+hq_conconst_b.wav                   missing                       pak0
+hq_condest_a.wav                    missing                       pak0
+hq_confail_b.wav                    missing                       pak0
+hq_cpconst2_a.wav                   missing                       pak0
+hq_cpconst2_b.wav                   missing                       pak0
+hq_cpconst_a.wav                    missing                       pak0
+hq_cpconst_b.wav                    missing                       pak0
+hq_cpcon_a.wav                      missing                       pak0
+hq_cpcon_b.wav                      missing                       pak0
+hq_cpdam.wav                        missing                       pak0
+hq_cprep.wav                        missing                       pak0
+hq_dyndefused2_a.wav                missing                       pak0
+hq_dyndefused2_b.wav                missing                       pak0
+hq_dyndefused_a.wav                 missing                       pak0
+hq_dyndefused_b.wav                 missing                       pak0
+hq_dynplanted2_a.wav                missing                       pak0
+hq_dynplanted2_b.wav                missing                       pak0
+hq_dynplanted_a.wav                 missing                       pak0
+hq_dynplanted_b.wav                 missing                       pak0
+hq_minesspot.wav                    missing                       pak0
+hq_needcos_a.wav                    missing                       pak0
+hq_needcos_b.wav                    missing                       pak0
+hq_needeng_a.wav                    missing                       pak0
+hq_needeng_b.wav                    missing                       pak0
+hq_needfos_a.wav                    missing                       pak0
+hq_needfos_b.wav                    missing                       pak0
+hq_needmedic_a.wav                  missing                       pak0
+hq_needmedic_b.wav                  missing                       pak0
+hq_needsoldier_a.wav                missing                       pak0
+hq_needsoldier_b.wav                missing                       pak0
+hq_objcap.wav                       missing                       pak0
+hq_objdest.wav                      missing                       pak0
+hq_objlost.wav                      missing                       pak0
+hq_objsec.wav                       missing                       pak0
+hq_objtaken.wav                     missing                       pak0
+hq_promocol.wav                     missing                       pak0
+hq_promocpl.wav                     missing                       pak0
+hq_promocpt.wav                     missing                       pak0
+hq_promogen.wav                     missing                       pak0
+hq_promogenlt.wav                   missing                       pak0
+hq_promogenmaj.wav                  missing                       pak0
+hq_promolt.wav                      missing                       pak0
+hq_promomaj.wav                     missing                       pak0
+hq_promopfc.wav                     missing                       pak0
+hq_promosgt.wav                     missing                       pak0
+hq_tankdam_a.wav                    missing                       pak0
+hq_tankdam_b.wav                    missing                       pak0
+hq_tankrep_a.wav                    missing                       pak0
+hq_tankrep_b.wav                    missing                       pak0
+hq_tankstop_a.wav                   missing                       pak0
+hq_tankstop_b.wav                   missing                       pak0
+hq_truckdam_a.wav                   missing                       pak0
+hq_truckdam_b.wav                   missing                       pak0
+hq_truckrep_a.wav                   missing                       pak0
+hq_truckrep_b.wav                   missing                       pak0
+hq_truckstop_a.wav                  missing                       pak0
+hq_truckstop_b.wav                  missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+goldrush
+^^^^^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+news_goldrush.wav                   missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+allies
+++++++
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+hq_bankyard.wav                     missing                       pak0
+hq_gold1lost.wav                    missing                       pak0
+hq_gold1ret.wav                     missing                       pak0
+hq_gold1sec.wav                     missing                       pak0
+hq_gold1taken.wav                   missing                       pak0
+hq_gold2lost.wav                    missing                       pak0
+hq_gold2ret.wav                     missing                       pak0
+hq_gold2sec.wav                     missing                       pak0
+hq_gold2taken.wav                   missing                       pak0
+hq_goldget.wav                      missing                       pak0
+hq_tankbank.wav                     missing                       pak0
+hq_tankbar1.wav                     missing                       pak0
+hq_tankbar2.wav                     missing                       pak0
+hq_tankbardest.wav                  missing                       pak0
+hq_tankbardyn.wav                   missing                       pak0
+hq_tankbarsdyn.wav                  missing                       pak0
+hq_tanksteal.wav                    missing                       pak0
+hq_tankstolen.wav                   missing                       pak0
+hq_truckbar1.wav                    missing                       pak0
+hq_truckbar2.wav                    missing                       pak0
+hq_truckbardest.wav                 missing                       pak0
+hq_truckbardyn.wav                  missing                       pak0
+hq_truckbarsdyn.wav                 missing                       pak0
+hq_trucksteal.wav                   missing                       pak0
+hq_truckstolen.wav                  missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+axis
+++++
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+hq_bankbroken.wav                   missing                       pak0
+hq_bankyard.wav                     missing                       pak0
+hq_gold1lost.wav                    missing                       pak0
+hq_gold1ret.wav                     missing                       pak0
+hq_gold1sec.wav                     missing                       pak0
+hq_gold1taken.wav                   missing                       pak0
+hq_gold2lost.wav                    missing                       pak0
+hq_gold2ret.wav                     missing                       pak0
+hq_gold2sec.wav                     missing                       pak0
+hq_gold2taken.wav                   missing                       pak0
+hq_golddef.wav                      missing                       pak0
+hq_tankbar1.wav                     missing                       pak0
+hq_tankbar2.wav                     missing                       pak0
+hq_tankbarcon.wav                   missing                       pak0
+hq_tankbarconst.wav                 missing                       pak0
+hq_tankbardest.wav                  missing                       pak0
+hq_tankbarscon.wav                  missing                       pak0
+hq_tankstolen.wav                   missing                       pak0
+hq_truckbar1.wav                    missing                       pak0
+hq_truckbar2.wav                    missing                       pak0
+hq_truckbarcon.wav                  missing                       pak0
+hq_truckbarconst.wav                missing                       pak0
+hq_truckbardest.wav                 missing                       pak0
+hq_truckbarscon.wav                 missing                       pak0
+hq_trucksteal.wav                   missing                       pak0
+hq_truckstolen.wav                  missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+oasis
+^^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+news_oasis.wav                      missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+allies
+++++++
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+hq_cavesdrain.wav                   missing                       pak0
+hq_cavesflood.wav                   missing                       pak0
+hq_citycap.wav                      missing                       pak0
+hq_citycapd.wav                     missing                       pak0
+hq_cityrecl.wav                     missing                       pak0
+hq_paknorthdest.wav                 missing                       pak0
+hq_paknorthdyn.wav                  missing                       pak0
+hq_paksdyn.wav                      missing                       pak0
+hq_paksouthdest.wav                 missing                       pak0
+hq_paksouthdyn.wav                  missing                       pak0
+hq_pumpdis.wav                      missing                       pak0
+hq_pumprep.wav                      missing                       pak0
+hq_pumprepd.wav                     missing                       pak0
+hq_pumpscon.wav                     missing                       pak0
+hq_pumpsrep.wav                     missing                       pak0
+hq_walldest.wav                     missing                       pak0
+hq_walldyn.wav                      missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+axis
+++++
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+hq_cavesdrain.wav                   missing                       pak0
+hq_cavesflood.wav                   missing                       pak0
+hq_citydef.wav                      missing                       pak0
+hq_citylost.wav                     missing                       pak0
+hq_cityrecl.wav                     missing                       pak0
+hq_paknorthdef.wav                  missing                       pak0
+hq_paknorthdest.wav                 missing                       pak0
+hq_paksdef.wav                      missing                       pak0
+hq_paksouthdef.wav                  missing                       pak0
+hq_paksouthdest.wav                 missing                       pak0
+hq_pumpdis.wav                      missing                       pak0
+hq_pumprep.wav                      missing                       pak0
+hq_pumpsstop.wav                    missing                       pak0
+hq_pumpstop.wav                     missing                       pak0
+hq_walldef.wav                      missing                       pak0
+hq_walldest.wav                     missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+radar
+^^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+news_radar.wav                      missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+allies
+++++++
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+hq_bunkercap.wav                    missing                       pak0
+hq_bunkercapd.wav                   missing                       pak0
+hq_bunkerrecl.wav                   missing                       pak0
+hq_entrance1dest.wav                missing                       pak0
+hq_entrance1dyn.wav                 missing                       pak0
+hq_entrance2dest.wav                missing                       pak0
+hq_entrance2dyn.wav                 missing                       pak0
+hq_entrancesdyn.wav                 missing                       pak0
+hq_radarelost.wav                   missing                       pak0
+hq_radareret.wav                    missing                       pak0
+hq_radaresec.wav                    missing                       pak0
+hq_radaresteal.wav                  missing                       pak0
+hq_radaretaken.wav                  missing                       pak0
+hq_radarssteal.wav                  missing                       pak0
+hq_radarwlost.wav                   missing                       pak0
+hq_radarwret.wav                    missing                       pak0
+hq_radarwsec.wav                    missing                       pak0
+hq_radarwsteal.wav                  missing                       pak0
+hq_radarwtaken.wav                  missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+axis
+++++
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+hq_bunkercapd.wav                   missing                       pak0
+hq_bunkerrecl.wav                   missing                       pak0
+hq_bunkerstop.wav                   missing                       pak0
+hq_entrance1def.wav                 missing                       pak0
+hq_entrance1dest.wav                missing                       pak0
+hq_entrance1stop.wav                missing                       pak0
+hq_entrance2def.wav                 missing                       pak0
+hq_entrance2dest.wav                missing                       pak0
+hq_entrance2stop.wav                missing                       pak0
+hq_entrancesdef.wav                 missing                       pak0
+hq_radaredef.wav                    missing                       pak0
+hq_radarelost.wav                   missing                       pak0
+hq_radareret.wav                    missing                       pak0
+hq_radaresec.wav                    missing                       pak0
+hq_radaretaken.wav                  missing                       pak0
+hq_radarsdef.wav                    missing                       pak0
+hq_radarwdef.wav                    missing                       pak0
+hq_radarwlost.wav                   missing                       pak0
+hq_radarwret.wav                    missing                       pak0
+hq_radarwsec.wav                    missing                       pak0
+hq_radarwtaken.wav                  missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+railgun
+^^^^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+news_railgun.wav                    missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+allies
+++++++
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+hq_depotcap.wav                     missing                       pak0
+hq_depotcapd.wav                    missing                       pak0
+hq_depotrecl.wav                    missing                       pak0
+hq_gunctrldest.wav                  missing                       pak0
+hq_gunctrldyn.wav                   missing                       pak0
+hq_gunctrlrep.wav                   missing                       pak0
+hq_gunfirestop.wav                  missing                       pak0
+hq_switchlower.wav                  missing                       pak0
+hq_switchlowered.wav                missing                       pak0
+hq_switchraise.wav                  missing                       pak0
+hq_switchraised.wav                 missing                       pak0
+hq_tug1depot.wav                    missing                       pak0
+hq_tug1loaded.wav                   missing                       pak0
+hq_tug1north.wav                    missing                       pak0
+hq_tug2loaded.wav                   missing                       pak0
+hq_tug2railgun.wav                  missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+axis
+++++
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+hq_depotcap.wav                     missing                       pak0
+hq_depotcapd.wav                    missing                       pak0
+hq_depotrecl.wav                    missing                       pak0
+hq_gunctrlcon.wav                   missing                       pak0
+hq_gunctrldef.wav                   missing                       pak0
+hq_gunctrldest.wav                  missing                       pak0
+hq_gunfire.wav                      missing                       pak0
+hq_gunloaded.wav                    missing                       pak0
+hq_switchlower.wav                  missing                       pak0
+hq_switchraise.wav                  missing                       pak0
+hq_switchraised.wav                 missing                       pak0
+hq_tug1allies.wav                   missing                       pak0
+hq_tug1depot.wav                    missing                       pak0
+hq_tug1loaded.wav                   missing                       pak0
+hq_tug1north.wav                    missing                       pak0
+hq_tug2allies.wav                   missing                       pak0
+hq_tug2loaded.wav                   missing                       pak0
+hq_tug2railgun.wav                  missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
