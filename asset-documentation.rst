@@ -4620,3 +4620,134 @@ credit_id.txt                       missing                       pak0
 =================================== ======== ======== =========== ======== =============
 
 
+textures
+========
+
+
+alpha
+-----
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+barb_wire.tga                       missing                       pak0
+bars_m01.tga                        missing                       pak0
+bel_orn_m01.tga                     missing                       pak0
+chateau_c06a.tga                    missing                       pak0
+chateau_c07.tga                     missing                       pak0
+chateau_c08.tga                     missing                       pak0
+chateau_c11.tga                     missing                       pak0
+fence_c10.tga                       missing                       pak0
+fence_c11.tga                       missing                       pak0
+fence_c14.tga                       missing                       pak0
+fence_m01.tga                       missing                       pak0
+fence_m06.tga                       missing                       pak0
+fence_m06b.tga                      missing                       pak0
+ladder.tga                          missing                       pak0
+mesh_c02.tga                        missing                       pak0
+mesh_c03.tga                        missing                       pak0
+truss_m03.tga                       missing                       pak0
+truss_m06.tga                       missing                       pak0
+truss_m06a.tga                      missing                       pak0
+truss_m06r.tga                      missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+assault
+-------
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+atool_m02.jpg                       missing                       pak0
+atruss_m06a.tga                     missing                       pak0
+awall_m01.jpg                       missing                       pak0
+machine_c01b.jpg                    missing                       pak0
+machine_c05b.jpg                    missing                       pak0
+metal_c06.jpg                       missing                       pak0
+metal_c07a.jpg                      missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+assault_rock
+------------
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+concrete_m02.jpg                    missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+awf
+---
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+awf_w_m10.jpg                       missing                       pak0
+awf_w_m11.tga                       missing                       pak0
+floor_m4.jpg                        missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+awf_props
+---------
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+tool_m01.jpg                        missing                       pak0
+tool_m02.jpg                        missing                       pak0
+tool_m06.jpg                        missing                       pak0
+tool_m07.tga                        missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+battery_wall
+------------
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+metal_trim1.tga                     missing                       pak0
+wall01_mid.tga                      missing                       pak0
+wall01_top.tga                      missing                       pak0
+wall01_trench.tga                   missing                       pak0
+wall02_bot.jpg                      missing                       pak0
+wall02_mid.jpg                      missing                       pak0
+wall02_top.jpg                      missing                       pak0
+wall03_bot.tga                      missing                       pak0
+wall03_mid.tga                      missing                       pak0
+wall03_top.tga                      missing                       pak0
+wall03_trench.tga                   missing                       pak0
+wall04_mid.tga                      missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+broken_castle
+-------------
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+wall_c03d.jpg                       missing                       pak0
+wall_c04.jpg                        missing                       pak0
+wall_c05.jpg                        missing                       pak0
+wall01_trench.tga                   missing                       pak0
+wall02_bot.jpg                      missing                       pak0
+wall02_mid.jpg                      missing                       pak0
+wall02_top.jpg                      missing                       pak0
+wall03_bot.tga                      missing                       pak0
+wall03_mid.tga                      missing                       pak0
+wall03_top.tga                      missing                       pak0
+wall03_trench.tga                   missing                       pak0
+wall04_mid.tga                      missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+
+
+
+
+
