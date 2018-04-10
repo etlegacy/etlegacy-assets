@@ -4744,10 +4744,3 @@ wall03_top.tga                      missing                       pak0
 wall03_trench.tga                   missing                       pak0
 wall04_mid.tga                      missing                       pak0
 =================================== ======== ======== =========== ======== =============
-
-
-
-
-
-
-
