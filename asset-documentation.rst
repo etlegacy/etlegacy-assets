@@ -3977,6 +3977,462 @@ hq_tug2railgun.wav                  missing                       pak0
 =================================== ======== ======== =========== ======== =============
 
 
+weapons
+-------
+
+
+airstrike
+^^^^^^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+airstrike_expl_1.wav                missing                       pak0
+airstrike_expl_2.wav                missing                       pak0
+airstrike_expl_3.wav                missing                       pak0
+airstrike_expl_far.wav              missing                       pak0
+airstrike_plane.wav                 missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+artillery
+^^^^^^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+artillery_expl_1.wav                missing                       pak0
+artillery_expl_2.wav                missing                       pak0
+artillery_expl_3.wav                missing                       pak0
+artillery_expl_far.wav              missing                       pak0
+artillery_fly_1.wav                 missing                       pak0
+artillery_fly_2.wav                 missing                       pak0
+artillery_fly_3.wav                 missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+browning
+^^^^^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+browning_far.wav                    missing                       pak0
+browning_fire.wav                   missing                       pak0
+browning_heat.wav                   missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+colt
+^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+colt_far.wav                        missing                       pak0
+colt_fire.wav                       missing                       pak0
+colt_reload.wav                     missing                       pak0
+colt_reload_akimbo.wav              missing                       pak0
+colt_reload_fast.wav                missing                       pak0
+colt_silence.wav                    missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+dynamite
+^^^^^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+dynamite_bounce.wav                 missing                       pak0
+dynamite_expl.wav                   missing                       pak0
+dynamite_expl_far.wav               missing                       pak0
+dynamite_timer.wav                  missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+fg42
+^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+fg42_far.wav                        missing                       pak0
+fg42_fire.wav                       missing                       pak0
+fg42_reload.wav                     missing                       pak0
+fg42_reload_fast.wav                missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+flamethrower
+^^^^^^^^^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+flame_burn.wav                      missing                       pak0
+flame_fire.wav                      missing                       pak0
+flame_pilot.wav                     missing                       pak0
+flame_up.wav                        missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+garand
+^^^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+m1_far.wav                          missing                       pak0
+m1_fire.wav                         missing                       pak0
+m1_fire_grenade.wav                 missing                       pak0
+m1_fire_last.wav                    missing                       pak0
+m1_fire_silence.wav                 missing                       pak0
+m1_fire_silence_last.wav            missing                       pak0
+m1_grenade_fly.wav                  missing                       pak0
+m1_grenade_off.wav                  missing                       pak0
+m1_grenade_on.wav                   missing                       pak0
+m1_reload.wav                       missing                       pak0
+m1_reload_grenade.wav               missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+grenade
+^^^^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+bounce_hard1.wav                    missing                       pak0
+bounce_hard2.wav                    missing                       pak0
+bounce_metal1.wav                   missing                       pak0
+bounce_metal2.wav                   missing                       pak0
+bounce_soft1.wav                    missing                       pak0
+bounce_soft2.wav                    missing                       pak0
+bounce_wood1.wav                    missing                       pak0
+bounce_wood2.wav                    missing                       pak0
+gren_expl.wav                       missing                       pak0
+gren_expl_far.wav                   missing                       pak0
+gren_expl_water.wav                 missing                       pak0
+gren_smoke.wav                      missing                       pak0
+gren_throw.wav                      missing                       pak0
+gren_timer1.wav                     missing                       pak0
+gren_timer2.wav                     missing                       pak0
+gren_timer3.wav                     missing                       pak0
+gren_timer4.wav                     missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+impact
+^^^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+flesh1.wav                          missing                       pak0
+flesh2.wav                          missing                       pak0
+flesh3.wav                          missing                       pak0
+flesh4.wav                          missing                       pak0
+flesh5.wav                          missing                       pak0
+glass1.wav                          missing                       pak0
+glass2.wav                          missing                       pak0
+glass3.wav                          missing                       pak0
+glass4.wav                          missing                       pak0
+glass5.wav                          missing                       pak0
+metal1.wav                          missing                       pak0
+metal2.wav                          missing                       pak0
+metal3.wav                          missing                       pak0
+metal4.wav                          missing                       pak0
+metal5.wav                          missing                       pak0
+stone1.wav                          missing                       pak0
+stone2.wav                          missing                       pak0
+stone3.wav                          missing                       pak0
+stone4.wav                          missing                       pak0
+stone5.wav                          missing                       pak0
+water1.wav                          missing                       pak0
+water2.wav                          missing                       pak0
+water3.wav                          missing                       pak0
+water4.wav                          missing                       pak0
+water5.wav                          missing                       pak0
+wood1.wav                           missing                       pak0
+wood2.wav                           missing                       pak0
+wood3.wav                           missing                       pak0
+wood4.wav                           missing                       pak0
+wood5.wav                           missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+k43
+^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+k43_far.wav                         missing                       pak0
+k43_fire.wav                        missing                       pak0
+k43_fire_grenade.wav                missing                       pak0
+k43_fire_silence.wav                missing                       pak0
+k43_grenade_fly.wav                 missing                       pak0
+k43_grenade_off.wav                 missing                       pak0
+k43_grenade_on.wav                  missing                       pak0
+k43_reload.wav                      missing                       pak0
+k43_reload_grenade.wav              missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+knife
+^^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+knife_hit1.wav                      missing                       pak0
+knife_hit2.wav                      missing                       pak0
+knife_hit3.wav                      missing                       pak0
+knife_hit4.wav                      missing                       pak0
+knife_hitwall1.wav                  missing                       pak0
+knife_slash1.wav                    missing                       pak0
+knife_slash2.wav                    missing                       pak0
+knife_slash3.wav                    missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+landmine
+^^^^^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+mine_bounce.wav                     missing                       pak0
+mine_expl.wav                       missing                       pak0
+mine_expl_far.wav                   missing                       pak0
+mine_on.wav                         missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+luger
+^^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+luger_far.wav                       missing                       pak0
+luger_fire.wav                      missing                       pak0
+luger_reload.wav                    missing                       pak0
+luger_reload_akimbo.wav             missing                       pak0
+luger_reload_fast.wav               missing                       pak0
+luger_silence.wav                   missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+mg42
+^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+mg42_far.wav                        missing                       pak0
+mg42_fire.wav                       missing                       pak0
+mg42_heat.wav                       missing                       pak0
+mg42_reload.wav                     missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+misc
+^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+change.wav                          missing                       pak0
+fire_dry.wav                        missing                       pak0
+fire_water.wav                      missing                       pak0
+shell_metal1.wav                    missing                       pak0
+shell_metal2.wav                    missing                       pak0
+shell_metal3.wav                    missing                       pak0
+shell_soft1.wav                     missing                       pak0
+shell_soft2.wav                     missing                       pak0
+shell_soft3.wav                     missing                       pak0
+shell_stone1.wav                    missing                       pak0
+shell_stone2.wav                    missing                       pak0
+shell_stone3.wav                    missing                       pak0
+shell_wood1.wav                     missing                       pak0
+shell_wood2.wav                     missing                       pak0
+shell_wood3.wav                     missing                       pak0
+silence_off.wav                     missing                       pak0
+silence_on.wav                      missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+mortar
+^^^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+mortar_expl.wav                     missing                       pak0
+mortar_expl1.wav                    missing                       pak0
+mortar_expl2.wav                    missing                       pak0
+mortar_expl3.wav                    missing                       pak0
+mortar_expl_far.wav                 missing                       pak0
+mortar_fire.wav                     missing                       pak0
+mortar_fly.wav                      missing                       pak0
+mortar_off.wav                      missing                       pak0
+mortar_on.wav                       missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+mp40
+^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+mp40_far.wav                        missing                       pak0
+mp40_fire.wav                       missing                       pak0
+mp40_reload.wav                     missing                       pak0
+mp40_reload_fast.wav                missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+rocket
+^^^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+rocket_charge.wav                   missing                       pak0
+rocket_expl.wav                     missing                       pak0
+rocket_expl_far.wav                 missing                       pak0
+rocket_fire.wav                     missing                       pak0
+rocket_fly.wav                      missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+satchel
+^^^^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+remote_fire.wav                     missing                       pak0
+remote_hum.wav                      missing                       pak0
+satchel_bounce.wav                  missing                       pak0
+satchel_expl.wav                    missing                       pak0
+satchel_expl_far.wav                missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+sten
+^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+sten_fire.wav                       missing                       pak0
+sten_heat.wav                       missing                       pak0
+sten_reload.wav                     missing                       pak0
+sten_reload_fast.wav                missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+thompson
+^^^^^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+thompson_far.wav                    missing                       pak0
+thompson_fire.wav                   missing                       pak0
+thompson_reload.wav                 missing                       pak0
+thompson_reload_fast.wav            missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+world
+-----
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+alarm_01.wav                        missing                       pak0
+alarm_02.wav                        missing                       pak0
+beeper.wav                          missing                       pak0
+boardbreak.wav                      missing                       pak0
+bubbles.wav                         missing                       pak0
+build.wav                           missing                       pak0
+chaircreak.wav                      missing                       pak0
+crickets_01.wav                     missing                       pak0
+crickets_02.wav                     missing                       pak0
+debris.wav                          missing                       pak0
+debris1.wav                         missing                       pak0
+debris2.wav                         missing                       pak0
+debris3.wav                         missing                       pak0
+desert.wav                          missing                       pak0
+dog_01.wav                          missing                       pak0
+dog_02.wav                          missing                       pak0
+dripping_01.wav                     missing                       pak0
+dripping_02.wav                     missing                       pak0
+fan_fast.wav                        missing                       pak0
+fan_med.wav                         missing                       pak0
+fan_slow.wav                        missing                       pak0
+fire_01.wav                         missing                       pak0
+fire_02.wav                         missing                       pak0
+flag.wav                            missing                       pak0
+flap.wav                            missing                       pak0
+glassbreak1.wav                     missing                       pak0
+glassbreak2.wav                     missing                       pak0
+glassbreak3.wav                     missing                       pak0
+hum.wav                             missing                       pak0
+icecrack.wav                        missing                       pak0
+leaves.wav                          missing                       pak0
+lights.wav                          missing                       pak0
+machine_01.wav                      missing                       pak0
+machine_02.wav                      missing                       pak0
+machine_03.wav                      missing                       pak0
+metalbreak.wav                      missing                       pak0
+owl.wav                             missing                       pak0
+parrot.wav                          missing                       pak0
+pigeon.wav                          missing                       pak0
+radio_allies.wav                    missing                       pak0
+radio_axis.wav                      missing                       pak0
+radio_static_01.wav                 missing                       pak0
+radio_static_02.wav                 missing                       pak0
+rain_hard.wav                       missing                       pak0
+rain_indoor.wav                     missing                       pak0
+rain_soft.wav                       missing                       pak0
+rain_tent.wav                       missing                       pak0
+rain_trickle.wav                    missing                       pak0
+rooster.wav                         missing                       pak0
+steam_01.wav                        missing                       pak0
+steam_02.wav                        missing                       pak0
+steam_03.wav                        missing                       pak0
+thunder_01.wav                      missing                       pak0
+thunder_02.wav                      missing                       pak0
+thunder_03.wav                      missing                       pak0
+thunder_04.wav                      missing                       pak0
+thunder_05.wav                      missing                       pak0
+transformer.wav                     missing                       pak0
+war.wav                             missing                       pak0
+waterpump.wav                       missing                       pak0
+water_01.wav                        missing                       pak0
+water_02.wav                        missing                       pak0
+water_03.wav                        missing                       pak0
+wind_city.wav                       missing                       pak0
+wind_forest.wav                     missing                       pak0
+wind_hall.wav                       missing                       pak0
+wind_mountain.wav                   missing                       pak0
+wind_ocean.wav                      missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+sprites
+=======
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+active_uniform_allied.tga           missing                       pak0
 
 
 
@@ -4000,6 +4456,17 @@ hq_tug2railgun.wav                  missing                       pak0
 
 
 
+
+
+
+
+
+
+
+
+
+
+=================================== ======== ======== =========== ======== =============
 
 
 
