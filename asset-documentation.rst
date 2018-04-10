@@ -4433,40 +4433,190 @@ sprites
 File                                Status   Author   Resources   Origin   Last Updated
 =================================== ======== ======== =========== ======== =============
 active_uniform_allied.tga           missing                       pak0
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+active_uniform_axis.tga             missing                       pak0
+attack.tga                          missing                       pak0
+balloon4.tga                        missing                       pak0
+bloodCloud.tga                      missing                       pak0
+blood_dot1.tga                      missing                       pak0
+blood_dot2.tga                      missing                       pak0
+blood_dot3.tga                      missing                       pak0
+blood_dot4.tga                      missing                       pak0
+blood_dot5.tga                      missing                       pak0
+bubble.tga                          missing                       pak0
+buddy.tga                           missing                       pak0
+bullettrail.tga                     missing                       pak0
+construct.tga                       missing                       pak0
+defend.tga                          missing                       pak0
+destroy.tga                         missing                       pak0
+fire_sm_a.tga                       missing                       pak0
+fire_sm_b.tga                       missing                       pak0
+fire_sm_c.tga                       missing                       pak0
+fire_sm_d.tga                       missing                       pak0
+fire_sm_e.tga                       missing                       pak0
+fire_sm_f.tga                       missing                       pak0
+fthrow_bluestream1.jpg              missing                       pak0
+fthrow_firestream2.jpg              missing                       pak0
+icon_shield.tga                     missing                       pak0
+inferno_blue.tga                    missing                       pak0
+landmine_allied.tga                 missing                       pak0
+landmine_axis.tga                   missing                       pak0
+medicrevive.tga                     missing                       pak0
+objective.tga                       missing                       pak0
+oil_PARTICLE.tga                    missing                       pak0
+regroup.tga                         missing                       pak0
+shadow_foot.jpg                     missing                       pak0
+shadow_torso.tga                    missing                       pak0
+smokepuff.tga                       missing                       pak0
+smoketrail2.tga                     missing                       pak0
+spark.tga                           missing                       pak0
+splashalpha.tga                     missing                       pak0
+viewflash_red.jpg                   missing                       pak0
+voiceammo.tga                       missing                       pak0
+voicechat.tga                       missing                       pak0
+voicemedic.tga                      missing                       pak0
+wake.tga                            missing                       pak0
 =================================== ======== ======== =========== ======== =============
 
+
+clnfire
+-------
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+spr000.tga                          missing                       pak0
+spr001.tga                          missing                       pak0
+spr002.tga                          missing                       pak0
+spr003.tga                          missing                       pak0
+spr004.tga                          missing                       pak0
+spr005.tga                          missing                       pak0
+spr006.tga                          missing                       pak0
+spr007.tga                          missing                       pak0
+spr008.tga                          missing                       pak0
+spr009.tga                          missing                       pak0
+spr010.tga                          missing                       pak0
+spr011.tga                          missing                       pak0
+spr012.tga                          missing                       pak0
+spr013.tga                          missing                       pak0
+spr014.tga                          missing                       pak0
+spr015.tga                          missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+explode1
+--------
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+spr000.tga                          missing                       pak0
+spr001.tga                          missing                       pak0
+spr002.tga                          missing                       pak0
+spr003.tga                          missing                       pak0
+spr004.tga                          missing                       pak0
+spr005.tga                          missing                       pak0
+spr006.tga                          missing                       pak0
+spr007.tga                          missing                       pak0
+spr008.tga                          missing                       pak0
+spr009.tga                          missing                       pak0
+spr010.tga                          missing                       pak0
+spr011.tga                          missing                       pak0
+spr012.tga                          missing                       pak0
+spr013.tga                          missing                       pak0
+spr014.tga                          missing                       pak0
+spr015.tga                          missing                       pak0
+spr016.tga                          missing                       pak0
+spr017.tga                          missing                       pak0
+spr018.tga                          missing                       pak0
+spr019.tga                          missing                       pak0
+spr020.tga                          missing                       pak0
+spr021.tga                          missing                       pak0
+spr022.tga                          missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+nozzle
+------
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+noz001.tga                          missing                       pak0
+noz002.tga                          missing                       pak0
+noz003.tga                          missing                       pak0
+noz004.tga                          missing                       pak0
+noz005.tga                          missing                       pak0
+noz006.tga                          missing                       pak0
+noz007.tga                          missing                       pak0
+noz008.tga                          missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+twiltb2
+-------
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+spr000.tga                          missing                       pak0
+spr001.tga                          missing                       pak0
+spr002.tga                          missing                       pak0
+spr003.tga                          missing                       pak0
+spr004.tga                          missing                       pak0
+spr005.tga                          missing                       pak0
+spr006.tga                          missing                       pak0
+spr007.tga                          missing                       pak0
+spr008.tga                          missing                       pak0
+spr009.tga                          missing                       pak0
+spr010.tga                          missing                       pak0
+spr011.tga                          missing                       pak0
+spr012.tga                          missing                       pak0
+spr013.tga                          missing                       pak0
+spr014.tga                          missing                       pak0
+spr015.tga                          missing                       pak0
+spr016.tga                          missing                       pak0
+spr017.tga                          missing                       pak0
+spr018.tga                          missing                       pak0
+spr019.tga                          missing                       pak0
+spr020.tga                          missing                       pak0
+spr021.tga                          missing                       pak0
+spr022.tga                          missing                       pak0
+spr023.tga                          missing                       pak0
+spr024.tga                          missing                       pak0
+spr025.tga                          missing                       pak0
+spr026.tga                          missing                       pak0
+spr027.tga                          missing                       pak0
+spr028.tga                          missing                       pak0
+spr029.tga                          missing                       pak0
+spr030.tga                          missing                       pak0
+spr031.tga                          missing                       pak0
+spr032.tga                          missing                       pak0
+spr033.tga                          missing                       pak0
+spr034.tga                          missing                       pak0
+spr035.tga                          missing                       pak0
+spr036.tga                          missing                       pak0
+spr037.tga                          missing                       pak0
+spr038.tga                          missing                       pak0
+spr039.tga                          missing                       pak0
+spr040.tga                          missing                       pak0
+spr041.tga                          missing                       pak0
+spr042.tga                          missing                       pak0
+spr043.tga                          missing                       pak0
+spr044.tga                          missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+text
+====
+
+
+EnglishUSA
+----------
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+credit_id.txt                       missing                       pak0
+=================================== ======== ======== =========== ======== =============
 
 
