@@ -78,20 +78,20 @@ botfiles
 =================================== ======== ======== =========== ======== =============
 File                                Status   Author   Resources   Origin   Last Updated
 =================================== ======== ======== =========== ======== =============
-botnames.txt                        missing                       pak0
-chars.h                             missing                       pak0
-fw_items.c                          missing                       pak0
-fw_weap.c                           missing                       pak0
-inv.h                               missing                       pak0
-items.c                             missing                       pak0
-match.c                             missing                       pak0
-match.h                             missing                       pak0
-rchat.c                             missing                       pak0
-rnd.c                               missing                       pak0
-syn.c                               missing                       pak0
-syn.h                               missing                       pak0
-teamplay.h                          missing                       pak0
-weapons.c                           missing                       pak0
+botnames.txt                        obsolete                      pak0
+chars.h                             obsolete                      pak0
+fw_items.c                          obsolete                      pak0
+fw_weap.c                           obsolete                      pak0
+inv.h                               obsolete                      pak0
+items.c                             obsolete                      pak0
+match.c                             obsolete                      pak0
+match.h                             obsolete                      pak0
+rchat.c                             obsolete                      pak0
+rnd.c                               obsolete                      pak0
+syn.c                               obsolete                      pak0
+syn.h                               obsolete                      pak0
+teamplay.h                          obsolete                      pak0
+weapons.c                           obsolete                      pak0
 =================================== ======== ======== =========== ======== =============
 
 
@@ -101,10 +101,10 @@ bots
 =================================== ======== ======== =========== ======== =============
 File                                Status   Author   Resources   Origin   Last Updated
 =================================== ======== ======== =========== ======== =============
-default_c.c                         missing                       pak0
-default_i.c                         missing                       pak0
-default_t.c                         missing                       pak0
-default_w.c                         missing                       pak0
+default_c.c                         obsolete                      pak0
+default_i.c                         obsolete                      pak0
+default_t.c                         obsolete                      pak0
+default_w.c                         obsolete                      pak0
 =================================== ======== ======== =========== ======== =============
 
 
@@ -142,22 +142,37 @@ soldier.char                        missing                       pak0
 =================================== ======== ======== =========== ======== =============
 
 
+configs
+=======
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+defaultcomp.config                  missing                       ETL
+defaultpublic.config                missing                       ETL
+legacy1.config                      missing                       ETL
+legacy3.config                      missing                       ETL
+legacy5.config                      missing                       ETL
+legacy6.config                      missing                       ETL
+=================================== ======== ======== =========== ======== =============
+
+
 fonts
 =====
 
 =================================== ======== ======== =========== ======== =============
 File                                Status   Author   Resources   Origin   Last Updated
 =================================== ======== ======== =========== ======== =============
-ariblk_0_16.tga                     missing                       pak0
-ariblk_0_27.tga                     missing                       pak0
-ariblk_1_27.tga                     missing                       pak0
-ariblk_16.dat                       missing                       pak0
-ariblk_27.dat                       missing                       pak0
-courbd_0_21.tga                     missing                       pak0
-courbd_0_30.tga                     missing                       pak0
-courbd_1_30.tga                     missing                       pak0
-courbd_21.dat                       missing                       pak0
-courbd_30.dat                       missing                       pak0
+ariblk_0_16.tga                     obsolete                      pak0
+ariblk_0_27.tga                     obsolete                      pak0
+ariblk_1_27.tga                     obsolete                      pak0
+ariblk_16.dat                       obsolete                      pak0
+ariblk_27.dat                       obsolete                      pak0
+courbd_0_21.tga                     obsolete                      pak0
+courbd_0_30.tga                     obsolete                      pak0
+courbd_1_30.tga                     obsolete                      pak0
+courbd_21.dat                       obsolete                      pak0
+courbd_30.dat                       obsolete                      pak0
 =================================== ======== ======== =========== ======== =============
 
 
@@ -720,6 +735,16 @@ fx_red.tga                          missing                       pak0
 fx_teal.tga                         missing                       pak0
 fx_white.tga                        missing                       pak0
 fx_yel.tga                          missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+materials
+=========
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+                                    missing                       ETL
 =================================== ======== ======== =========== ======== =============
 
 
