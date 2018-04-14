@@ -5212,6 +5212,158 @@ siwa_water.tga                      missing                       pak0
 =================================== ======== ======== =========== ======== =============
 
 
+metals_sd
+---------
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+detail_b.tga                        missing                       pak0
+door_a.tga                          missing                       pak0
+duct_a2.tga                         missing                       pak0
+grate_a.tga                         missing                       pak0
+grate_b.tga                         missing                       pak0
+wall_b.tga                          missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+metal_misc
+----------
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+ametal_m01.jpg                      missing                       pak0
+ametal_m02.jpg                      missing                       pak0
+ametal_m03.jpg                      missing                       pak0
+ametal_m03dm.tga                    missing                       pak0
+ametal_m03man.jpg                   missing                       pak0
+ametal_m03_bak.tga                  missing                       pak0
+ametal_m04a.jpg                     missing                       pak0
+ametal_m07a.jpg                     missing                       pak0
+diamond_c_01.tga                    missing                       pak0
+diamond_c_01b.jpg                   missing                       pak0
+diamond_m03.jpg                     missing                       pak0
+metal_m04dg.jpg                     missing                       pak0
+metal_m04dr2.tga                    missing                       pak0
+metal_m04g2-r.jpg                   missing                       pak0
+metal_m04g2.jpg                     missing                       pak0
+metal_m04r2.jpg                     missing                       pak0
+metal_m06.jpg                       missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+miltary_door
+------------
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+mdoor_c03.jpg                       missing                       pak0
+mdoor_m01b.jpg                      missing                       pak0
+miltarydr_m01.tga                   missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+miltary_wall
+------------
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+brick_l_01.jpg                      missing                       pak0
+concrete_c02.jpg                    missing                       pak0
+concrete_c05.jpg                    missing                       pak0
+concrete_c07bcmp.jpg                missing                       pak0
+concrete_m01.jpg                    missing                       pak0
+concrete_m02w.jpg                   missing                       pak0
+concrete_m05c.jpg                   missing                       pak0
+guardh_I03.jpg                      missing                       pak0
+miltary_m04.jpg                     missing                       pak0
+miltary_m06.jpg                     missing                       pak0
+mroof_m01a.jpg                      missing                       pak0
+window_m03.tga                      missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+occult
+------
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+menhir_c02a.jpg                     missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+props
+-----
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+bags_m01.jpg                        missing                       pak0
+barrel_m01.tga                      missing                       pak0
+barrel_m02.tga                      missing                       pak0
+barrel_m02d.tga                     missing                       pak0
+base_lamp.tga                       missing                       pak0
+board_c01.tga                       missing                       pak0
+board_c03.jpg                       missing                       pak0
+board_cl02m.jpg                     missing                       pak0
+box_c01.tga                         missing                       pak0
+box_c02.tga                         missing                       pak0
+box_c03.tga                         missing                       pak0
+box_m01.jpg                         missing                       pak0
+box_m02.tga                         missing                       pak0
+box_m03.jpg                         missing                       pak0
+box_m04.tga                         missing                       pak0
+box_m04a.tga                        missing                       pak0
+box_m04a_sd.tga                     missing                       pak0
+box_m05.jpg                         missing                       pak0
+box_m05a.jpg                        missing                       pak0
+box_t_m01.tga                       missing                       pak0
+box_t_m01a.jpg                      missing                       pak0
+box_t_m04.jpg                       missing                       pak0
+box_t_m04a.tga                      missing                       pak0
+box_t_m04b.jpg                      missing                       pak0
+cable_m01.jpg                       missing                       pak0
+controlpanel_c02.jpg                missing                       pak0
+controlpanel_c06.jpg                missing                       pak0
+file_cab_m01.jpg                    missing                       pak0
+fwindow1.tga                        missing                       pak0
+hay.tga                             missing                       pak0
+lockers_c01.jpg                     missing                       pak0
+lockers_c02.jpg                     missing                       pak0
+panelside_d01.jpg                   missing                       pak0
+panel_d03.jpg                       missing                       pak0
+panel_tram2.jpg                     missing                       pak0
+panel_tram3.jpg                     missing                       pak0
+rail_side_wils.jpg                  missing                       pak0
+rope_m01.jpg                        missing                       pak0
+sawblade.jpg                        missing                       pak0
+sho_box_c01.tga                     missing                       pak0
+sho_box_c02.jpg                     missing                       pak0
+sho_box_c03.jpg                     missing                       pak0
+sign_c06.jpg                        missing                       pak0
+sign_c18.jpg                        missing                       pak0
+sign_c26.jpg                        missing                       pak0
+sign_c27.jpg                        missing                       pak0
+sign_m2dm.jpg                       missing                       pak0
+sub1.jpg                            missing                       pak0
+train1.jpg                          missing                       pak0
+train_m01.jpg                       missing                       pak0
+train_m02.jpg                       missing                       pak0
+train_m05.jpg                       missing                       pak0
+train_m06.jpg                       missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+
+
+
+
+
+
 
 
 
