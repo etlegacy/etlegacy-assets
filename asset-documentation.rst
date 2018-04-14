@@ -4759,13 +4759,311 @@ File                                Status   Author   Resources   Origin   Last 
 wall_c03d.jpg                       missing                       pak0
 wall_c04.jpg                        missing                       pak0
 wall_c05.jpg                        missing                       pak0
-wall01_trench.tga                   missing                       pak0
-wall02_bot.jpg                      missing                       pak0
-wall02_mid.jpg                      missing                       pak0
-wall02_top.jpg                      missing                       pak0
-wall03_bot.tga                      missing                       pak0
-wall03_mid.tga                      missing                       pak0
-wall03_top.tga                      missing                       pak0
-wall03_trench.tga                   missing                       pak0
-wall04_mid.tga                      missing                       pak0
 =================================== ======== ======== =========== ======== =============
+
+
+bunker_sd
+---------
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+concrete_c07bcmp_sand.tga           missing                       pak0
+girder02.tga                        missing                       pak0
+girder03.tga                        missing                       pak0
+int_wall01.tga                      missing                       pak0
+int_wall01_rusty.tga                missing                       pak0
+int_wall01_white.tga                missing                       pak0
+int_wall07.tga                      missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+castle_door
+-----------
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+door_c17.jpg                        missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+castle_wall
+-----------
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+castle_c09_2.jpg                    missing                       pak0
+castle_c17.jpg                      missing                       pak0
+castle_c31_a.jpg                    missing                       pak0
+castle_m03a_step.jpg                missing                       pak0
+castle_m03_step_grave_03.jpg        missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+castle_wood
+-----------
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+cwood_c10.jpg                       missing                       pak0
+cwood_mo2s1.tga                     missing                       pak0
+cwood_mo6.jpg                       missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+cathedrale_wall
+---------------
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+cathedrale_c09.jpg                  missing                       pak0
+cathedrale_c13.jpg                  missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+chat
+----
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+bedlinenpillow_c02.jpg              missing                       pak0
+bedlinen_c02.jpg                    missing                       pak0
+bedlinen_c04.jpg                    missing                       pak0
+book_c02.jpg                        missing                       pak0
+book_c05.jpg                        missing                       pak0
+carpet_c03.jpg                      missing                       pak0
+desk1.jpg                           missing                       pak0
+picture_05.jpg                      missing                       pak0
+wd_sr_va7.jpg                       missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+chateau
+-------
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+bricktrim_c06.jpg                   missing                       pak0
+desk_c04.jpg                        missing                       pak0
+door_c01.jpg                        missing                       pak0
+floor_c10.jpg                       missing                       pak0
+floor_c10a.jpg                      missing                       pak0
+pillar_temp_rf.jpg                  missing                       pak0
+trim_c09.jpg                        missing                       pak0
+walltest_c04.jpg                    missing                       pak0
+walltest_c07a.jpg                   missing                       pak0
+wood_c05.jpg                        missing                       pak0
+wood_test.jpg                       missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+chat_wood
+---------
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+chwood_c02.jpg                      missing                       pak0
+chwood_c04.jpg                      missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+common
+------
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+dirtymirror.tga                     missing                       pak0
+dirtymirror2.tga                    missing                       pak0
+s_glass.tga                         missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+decals
+------
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+oil_slick.tga                       missing                       pak0
+S_IDENT_REQUIRED_2R.tga             missing                       pak0
+trim_m01.tga                        missing                       pak0
+vent.jpg                            missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+desert_sd
+---------
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+floor_inside_1.tga                  missing                       pak0
+grass_desert_flat.tga               missing                       pak0
+grass_sand_flat.tga                 missing                       pak0
+pavement_quad_sandy.tga             missing                       pak0
+pavement_tris_sandy.tga             missing                       pak0
+road_dirty_gravel.tga               missing                       pak0
+rock_edged_smooth.tga               missing                       pak0
+sand_dirt_medium.tga                missing                       pak0
+sand_disturb_desert.tga             missing                       pak0
+sand_gravels_bright.tga             missing                       pak0
+sand_patchy.tga                     missing                       pak0
+sand_wave_desert.tga                missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+detail_sd
+---------
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+sanddetail.tga                      missing                       pak0
+snowdetail.tga                      missing                       pak0
+snowdetail_heavy.tga                missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+doors
+-----
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+sanddetail.tga                      missing                       pak0
+snowdetail.tga                      missing                       pak0
+snowdetail_heavy.tga                missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+effects
+-------
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+envmap_gold.tga                     missing                       pak0
+envmap_ice2.tga                     missing                       pak0
+envmap_radar.tga                    missing                       pak0
+envmap_slate.tga                    missing                       pak0
+envmap_slate_90.tga                 missing                       pak0
+tinfx.jpg                           missing                       pak0
+wdfx4.jpg                           missing                       pak0
+wdfx_W.jpg                          missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+egypt_door_sd
+-------------
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+door_c05.jpg                        missing                       pak0
+siwa_door2.jpg                      missing                       pak0
+siwa_door3.tga                      missing                       pak0
+siwa_door_axis.jpg                  missing                       pak0
+siwa_door_neutral.jpg               missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+egypt_floor_sd
+--------------
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+afloor_m02.jpg                      missing                       pak0
+block-16sq.tga                      missing                       pak0
+carpet_c02.jpg                      missing                       pak0
+dirt_cracked_01.tga                 missing                       pak0
+floor_c06.jpg                       missing                       pak0
+marblefloor_c04.tga                 missing                       pak0
+sandygrass_b.tga                    missing                       pak0
+sandy_dirt_01.jpg                   missing                       pak0
+siwa_rubble_1.jpg                   missing                       pak0
+wood_c13.jpg                        missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+egypt_props_sd
+--------------
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+siwa_book1.jpg                      missing                       pak0
+siwa_book2.jpg                      missing                       pak0
+siwa_canvas1.jpg                    missing                       pak0
+siwa_carpet1.tga                    missing                       pak0
+siwa_carpet2.tga                    missing                       pak0
+siwa_carpet3.tga                    missing                       pak0
+siwa_carpet4.tga                    missing                       pak0
+siwa_carpet5.tga                    missing                       pak0
+siwa_coran1.jpg                     missing                       pak0
+siwa_coran2.jpg                     missing                       pak0
+siwa_cushion1.jpg                   missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+egypt_trim_sd
+-------------
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+banktrim01.tga                      missing                       pak0
+banktrim03.tga                      missing                       pak0
+banktrim04.tga                      missing                       pak0
+ctrim_c01.jpg                       missing                       pak0
+ctrim_c03.jpg                       missing                       pak0
+trim_c03b.jpg                       missing                       pak0
+trim_c03c.tga                       missing                       pak0
+trim_c14.jpg                        missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+egypt_walls_sd
+--------------
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+banktrim01.tga                      missing                       pak0
+banktrim03.tga                      missing                       pak0
+banktrim04.tga                      missing                       pak0
+ctrim_c01.jpg                       missing                       pak0
+ctrim_c03.jpg                       missing                       pak0
+trim_c03b.jpg                       missing                       pak0
+trim_c03c.tga                       missing                       pak0
+trim_c14.jpg                        missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
