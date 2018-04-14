@@ -5037,24 +5037,179 @@ egypt_walls_sd
 =================================== ======== ======== =========== ======== =============
 File                                Status   Author   Resources   Origin   Last Updated
 =================================== ======== ======== =========== ======== =============
-banktrim01.tga                      missing                       pak0
-banktrim03.tga                      missing                       pak0
-banktrim04.tga                      missing                       pak0
-ctrim_c01.jpg                       missing                       pak0
-ctrim_c03.jpg                       missing                       pak0
-trim_c03b.jpg                       missing                       pak0
-trim_c03c.tga                       missing                       pak0
-trim_c14.jpg                        missing                       pak0
+bankwall01.tga                      missing                       pak0
+bigblock02.tga                      missing                       pak0
+concrete_m03.jpg                    missing                       pak0
+debri_m05.tga                       missing                       pak0
+mat_wall1.jpg                       missing                       pak0
+roughbrick01.tga                    missing                       pak0
+roughbrick02.tga                    missing                       pak0
+roughbrick03.tga                    missing                       pak0
+roughbrick03a.tga                   missing                       pak0
+roughedge01.tga                     missing                       pak0
+stripedbrick01.tga                  missing                       pak0
+stucco01.tga                        missing                       pak0
+stucco01_decor01.tga                missing                       pak0
+stucco02.tga                        missing                       pak0
+stucco02_04blend.tga                missing                       pak0
+stucco02_rough.tga                  missing                       pak0
+stucco02_rough2.tga                 missing                       pak0
+stucco03.tga                        missing                       pak0
+stucco03b.tga                       missing                       pak0
+stucco03_dark.tga                   missing                       pak0
+stucco04.tga                        missing                       pak0
+stucco07a.tga                       missing                       pak0
+stucco07b.tga                       missing                       pak0
+stucco07c.tga                       missing                       pak0
+stucco07d.tga                       missing                       pak0
+stucco07f.tga                       missing                       pak0
+stucco07_trim03.tga                 missing                       pak0
+stucco08a.jpg                       missing                       pak0
+stucco08b.jpg                       missing                       pak0
+stucco08c.jpg                       missing                       pak0
+stucco08d.jpg                       missing                       pak0
+stucco08e.jpg                       missing                       pak0
+stucco09a.jpg                       missing                       pak0
+stucco09b.jpg                       missing                       pak0
+stucco09c.jpg                       missing                       pak0
+stucco09d.jpg                       missing                       pak0
+stucco09e.jpg                       missing                       pak0
+stucco09f.jpg                       missing                       pak0
+stucco09g.jpg                       missing                       pak0
+stucco09h.jpg                       missing                       pak0
+stucco09_bigexp.jpg                 missing                       pak0
+white01.tga                         missing                       pak0
+white01var01.tga                    missing                       pak0
+white01var02.tga                    missing                       pak0
+white01var03.tga                    missing                       pak0
+wood_c05.jpg                        missing                       pak0
+wood_c06.jpg                        missing                       pak0
+wood_test.jpg                       missing                       pak0
 =================================== ======== ======== =========== ======== =============
 
 
+egypt_walls_xp
+--------------
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+column_top_01.jpg                   missing                       pak0
+large_block-4sq.jpg                 missing                       pak0
+=================================== ======== ======== =========== ======== =============
 
 
+egypt_windows_sd
+----------------
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+siwa_windows2.jpg                   missing                       pak0
+siwa_windows5.jpg                   missing                       pak0
+siwa_windows6.jpg                   missing                       pak0
+siwa_windows7.jpg                   missing                       pak0
+siwa_windows8.jpg                   missing                       pak0
+window02a.tga                       missing                       pak0
+windowtrim01.tga                    missing                       pak0
+=================================== ======== ======== =========== ======== =============
 
 
+egypt_wood_sd
+-------------
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+wood1a.tga                          missing                       pak0
+wood1b.tga                          missing                       pak0
+=================================== ======== ======== =========== ======== =============
 
 
+factory_sd
+----------
 
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+metal_wall1.tga                     missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+forest_sd
+---------
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+door_m01asml_axis.tga               missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+fueldump_sd
+-----------
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+door_m01asml.jpg                    missing                       pak0
+door_m01asml_axis.tga               missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+graveyard
+---------
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+gy_ml03a.jpg                        missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+lights
+------
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+light_c01.blend.tga                 missing                       pak0
+light_c01.tga                       missing                       pak0
+light_c02.blend.tga                 missing                       pak0
+light_c02.tga                       missing                       pak0
+light_c04.blend.tga                 missing                       pak0
+light_c04.tga                       missing                       pak0
+light_m4.blend.tga                  missing                       pak0
+light_m4.tga                        missing                       pak0
+light_m5.blend.tga                  missing                       pak0
+light_m5.tga                        missing                       pak0
+light_m11.blend.tga                 missing                       pak0
+light_m11.tga                       missing                       pak0
+light_m15.blend.tga                 missing                       pak0
+light_m15.tga                       missing                       pak0
+light_m16.blend.tga                 missing                       pak0
+light_m16.tga                       missing                       pak0
+light_m21.blend.tga                 missing                       pak0
+light_m21.tga                       missing                       pak0
+light_m25r.tga                      missing                       pak0
+light_xlight_02.tga                 missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+liquids_sd
+----------
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+puddle_specular.tga                 missing                       pak0
+seawall_foam.tga                    missing                       pak0
+seawall_ripple1.tga                 missing                       pak0
+seawall_specular.tga                missing                       pak0
+sea_bright_na.tga                   missing                       pak0
+siwa_shimshim1.tga                  missing                       pak0
+siwa_water.tga                      missing                       pak0
+=================================== ======== ======== =========== ======== =============
 
 
 
