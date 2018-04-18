@@ -6017,3 +6017,52 @@ maptrim_long2.tga
 stamp_complete.tga
 stamp_failed.tga
 =================================== ======== ======== =========== ======== =============
+
+
+weapons
+=======
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+adrenaline.weap
+akimbo_colt.weap
+akimbo_luger.weap
+akimbo_silenced_colt.weap
+akimbo_silenced_luger.weap
+ammopack.weap
+binocs.weap
+colt.weap
+dynamite.weap
+fg42.weap
+flamethrower.weap
+gpg40.weap
+grenade.weap
+k43.weap
+kar98.weap
+knife.weap
+landmine.weap
+luger.weap
+m1_garand.weap
+m1_garand_s.weap
+m7.weap
+mapmortar.weap
+medpack.weap
+mg42.weap
+mortar.weap
+mortar_set.weap
+mp40.weap
+panzerfaust.weap
+pineapple.weap
+pliers.weap
+satchel.weap
+satchel_det.weap
+silenced_colt.weap
+silenced_luger.weap
+smokegrenade.weap
+smokemarker.weap
+smoketrail.weap
+sten.weap
+syringe.weap
+thompson.weap
+=================================== ======== ======== =========== ======== =============
