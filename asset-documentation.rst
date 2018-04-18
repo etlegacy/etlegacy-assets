@@ -5358,13 +5358,222 @@ train_m06.jpg                       missing                       pak0
 =================================== ======== ======== =========== ======== =============
 
 
+props_sd
+--------
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+basketsand.tga                      missing                       pak0
+board_cl01m.jpg                     missing                       pak0
+board_cl02m.jpg                     missing                       pak0
+sign_radar.tga                      missing                       pak0
+s_ammo01.tga                        missing                       pak0
+s_casemate01.tga                    missing                       pak0
+s_casemate02.tga                    missing                       pak0
+s_generator01.tga                   missing                       pak0
+s_gun01.tga                         missing                       pak0
+trim_c01w.tga                       missing                       pak0
+trim_c03w.tga                       missing                       pak0
+trim_c10w.tga                       missing                       pak0
+wires.tga                           missing                       pak0
+wires01.tga                         missing                       pak0
+=================================== ======== ======== =========== ======== =============
 
 
+railgun_props
+-------------
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+tug_side.tga                        missing                       pak0
+=================================== ======== ======== =========== ======== =============
 
 
+rubble
+------
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+burn_flr_m01.jpg                    missing                       pak0
+debri_m01.jpg                       missing                       pak0
+debri_m05.jpg                       missing                       pak0
+=================================== ======== ======== =========== ======== =============
 
 
+seawall_wall
+------------
 
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+metal_trim1.tga                     missing                       pak0
+wall02_mid.jpg                      missing                       pak0
+wall03_mid.tga                      missing                       pak0
+wall03_top.tga                      missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+sfx
+---
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+beam_1.jpg                          missing                       pak0
+construction.tga                    missing                       pak0
+fan.tga                             missing                       pak0
+flame1.tga                          missing                       pak0
+flame2.tga                          missing                       pak0
+flame3.tga                          missing                       pak0
+flame4.tga                          missing                       pak0
+flame5.tga                          missing                       pak0
+flame6.tga                          missing                       pak0
+flame7.tga                          missing                       pak0
+flame8.tga                          missing                       pak0
+flameball.tga                       missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+skies
+-----
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+fueldump_clouds.tga                 missing                       pak0
+nightsky1.jpg                       missing                       pak0
+=================================== ======== ======== =========== ======== =============
+
+
+skies_sd
+--------
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+batterysunfog.tga
+battery_clouds.tga
+battery_mask_ydnar.tga
+colditz_mask.tga
+full_moon2.tga
+goldrush_clouds.tga
+goldrush_mask.tga
+siwasun.tga
+siwa_mask.tga
+small_moon.tga
+wurzburg_clouds.tga
+wurzburg_fogmask.tga
+ydnar_lightning.tga
+=================================== ======== ======== =========== ======== =============
+
+
+wurzburg_env
+^^^^^^^^^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+sky_bk.tga
+sky_dn.tga
+sky_ft.tga
+sky_lf.tga
+sky_rt.tga
+sky_up.tga
+=================================== ======== ======== =========== ======== =============
+
+
+sleepy
+------
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+wall_c01.jpg
+=================================== ======== ======== =========== ======== =============
+
+
+snow
+----
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+alpha_ice2s.tga
+s_bars_m01.tga
+s_cashudder_c01.jpg
+s_castle_c02.jpg
+s_castle_c16d.jpg
+s_castle_c46_on_grid.jpg
+s_castle_m03a_step.jpg
+s_castle_m03_step.jpg
+s_cathedrale_c06.jpg
+s_cathedrale_c24b.jpg
+s_cwood_mo5c.jpg
+s_diamond_c01a.jpg
+s_dirt_m03i_2.jpg
+s_dirt_m03i_alpha.tga
+s_dirt_m03i_alphatree.tga
+s_door_c10b.jpg
+s_floor_c10_a2.jpg
+s_floor_l_01.jpg
+s_metal_m04dg2.jpg
+s_roof_c04dm.jpg
+s_town_c91.jpg
+s_town_m_c01_trim.jpg
+s_window_c05a.jpg
+s_wood_c13a.jpg
+=================================== ======== ======== =========== ======== =============
+
+
+snow_sd
+-------
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+ametal_m03_snow.tga
+ametal_m04a_snow.tga
+ametal_m04a_snowfade.tga
+bigrock_rounded_faint.tga
+bunkertrim3_snow.tga
+bunkertrim_snow.tga
+bunkerwall_lrg02.tga
+coal_snow.tga
+concretec05_snow.tga
+fuse_box_snow.tga
+icelake2.tga
+icelake3.tga
+mesh_c03_snow.tga
+metal_m04g2_snow.tga
+miltary_m04_snow.tga
+mroof_snow.tga
+mxrock4b_snow.tga
+river_edge_snowy.tga
+snow_muddy.jpg
+snow_noisy.tga
+snow_path01.tga
+snow_road01.tga
+snow_track03.tga
+snow_track03_end.tga
+snow_var01.tga
+snow_var01_big.tga
+snow_var02.tga
+sub1_snow.tga
+sub1_snow2.tga
+s_castle_m03a_trim.tga
+s_dirt_m03i_2_big.tga
+s_grass_ml03b_big.jpg
+wood_m05a_snow.tga
+xmetal_m02t_snow.tga
+xmetal_m02_snow.tga
+=================================== ======== ======== =========== ======== =============
+
+
+stone
+-----
 
 
 
