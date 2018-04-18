@@ -5862,10 +5862,158 @@ xwall_c10.jpg
 ui
 ==
 
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+credits_activision.menu
+credits_additional.menu
+credits_idsoftware.menu
+credits_quit.menu
+credits_splashdamage.menu
+global.menu
+hostgame.menu
+hostgame_advanced.menu
+hostgame_advanced_default.menu
+hostgame_dedicated_warning.menu
+ingame_disconnect.menu
+ingame_main.menu
+ingame_messagemode.menu
+ingame_serverinfo.menu
+ingame_tapout.menu
+ingame_tapoutlms.menu
+ingame_vote.menu
+ingame_vote_disabled.menu
+ingame_vote_map.menu
+ingame_vote_misc.menu
+ingame_vote_misc_refrcon.menu
+ingame_vote_players.menu
+ingame_vote_players_warn.menu
+main.menu
+menudef.h
+menumacros.h
+menus.txt
+options.menu
+options_controls.menu
+options_controls_default.menu
+options_customise_game.menu
+options_customise_hud.menu
+options_system.menu
+options_system_gamma.menu
+playonline.menu
+playonline_connecttoip.menu
+playonline_disablepb.menu
+playonline_enablepb.menu
+playonline_serverinfo.menu
+popup_autoupdate.menu
+popup_errormessage.menu
+popup_errormessage_pb.menu
+popup_hostgameerrormessage.menu
+popup_password.menu
+profile.menu
+profile_create.menu
+profile_create_error.menu
+profile_create_initial.menu
+profile_delete.menu
+profile_delete_error.menu
+profile_rename.menu
+quit.menu
+rec_restart.menu
+vid_confirm.menu
+vid_restart.menu
+viewreplay.menu
+viewreplay_delete.menu
+wm_ftquickmessage.menu
+wm_ftquickmessageAlt.menu
+wm_quickmessage.menu
+wm_quickmessageAlt.menu
+=================================== ======== ======== =========== ======== =============
 
 
+assets
+------
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+3squares.tga
+3_cursor3.tga
+background_mask.tga
+blackgrad.tga
+check.tga
+check_no.tga
+check_not.tga
+clouds.tga
+et_logo.tga
+et_logo_huge.tga
+fadebox.tga
+filter_antilag.tga
+filter_balance.tga
+filter_emptyfull.tga
+filter_ff.tga
+filter_lives.tga
+filter_pass.tga
+filter_pb.tga
+filter_weap.tga
+gammabar.tga
+gradientbar1.tga
+gradientbar2.tga
+hudsprint.tga
+logo_atvi.tga
+logo_gm.tga
+logo_id.tga
+logo_nerve.tga
+logo_osp.tga
+logo_pb.tga
+logo_sd.tga
+mp_ammo_blue.tga
+mp_ammo_red.tga
+mp_arrow_blue.tga
+mp_arrow_red.tga
+mp_gun_blue.tga
+mp_gun_red.tga
+mp_health_blue.tga
+mp_health_red.tga
+mp_player_highlight.tga
+mp_spy_blue.tga
+mp_spy_red.tga
+mp_wrench_blue.tga
+mp_wrench_red.tga
+radio_tower.tga
+ring.tga
+scrollbar.tga
+scrollbar_arrow_dwn_a.tga
+scrollbar_arrow_left.tga
+scrollbar_arrow_right.tga
+scrollbar_arrow_up_a.tga
+scrollbar_thumb.tga
+slider2.tga
+sliderbutt_1.tga
+=================================== ======== ======== =========== ======== =============
 
 
+portraits
+^^^^^^^^^
+
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+allies_win_flag.jpg
+axis_win_flag.jpg
+text_allies.tga
+text_axis.tga
+text_win.tga
+=================================== ======== ======== =========== ======== =============
 
 
+assets2
+-------
 
+=================================== ======== ======== =========== ======== =============
+File                                Status   Author   Resources   Origin   Last Updated
+=================================== ======== ======== =========== ======== =============
+maptrim_edge.tga
+maptrim_long.tga
+maptrim_long2.tga
+stamp_complete.tga
+stamp_failed.tga
+=================================== ======== ======== =========== ======== =============
