@@ -18,7 +18,8 @@ The original assets included in pak0, pak1 and pak2 unfortunately weren't includ
 Status
 ======
 
-Displays the status of the asset in Legacy. 
+Displays the status of the asset in Legacy.
+
 *  **"missing"**: Assets from the original game that still need to be replaced in Legacy.
 *  **"done"**: Assets that have been replaced already and are in a satisfactory state.
 *  **"alpha"**: Assets that have been included as placeholders. To be improved at a later date.
@@ -38,6 +39,7 @@ Origin
 ======
 
 The origin of an asset is intended to show where it comes from and why it is part of Legacy.
+
 *  **"pak0"**, **"pak1"**, **"pak2"**: Assets from the original game that had to be replaced for license purposes.
 *  **"shader"**: Assets that were specified in shader files in the original game, but had no actual appearance. Rather than removing the shader files, to avoid compatibility issues, the missing assets have been restored.
 *  **"[MAP_NAME]"**: Assets that are used in a custom map shipped with Legacy.
