@@ -20,6 +20,7 @@ Status
 
 Displays the status of the asset in Legacy.
 
+*  **"obsolete"**: Deprecated assets from the original game that have been removed in Legacy.
 *  **"missing"**: Assets from the original game that still need to be replaced in Legacy.
 *  **"done"**: Assets that have been replaced already and are in a satisfactory state.
 *  **"alpha"**: Assets that have been included as placeholders. To be improved at a later date.
@@ -806,7 +807,107 @@ materials
 =================================== ======== ============ =========== ======== ============= =============================
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
-                                    missing                           ETL
+_lights.shader                      done                              ETL
+_unsorted.shader                    done                              ETL
+aa_readme.txt                       done                              ETL
+alpha.shader                        done                              ETL
+alpha_sd.shader                     done                              ETL
+assault.shader                      done                              ETL
+assault_rock.shader                 done                              ETL
+awf_props.shader                    done                              ETL
+battery.shader                      done                              ETL
+battery_wall.shader                 done                              ETL
+bunker_sd.shader                    done                              ETL
+castle_door.shader                  done                              ETL
+castle_floor.shader                 done                              ETL
+castle_window.shader                done                              ETL
+castle_wood.shader                  done                              ETL
+cathedrale_wall.shader              done                              ETL
+chat.shader                         done                              ETL
+chateau.shader                      done                              ETL
+chat_window.shader                  done                              ETL
+chat_wood.shader                    done                              ETL
+common.shader                       done                              ETL
+decals.shader                       done                              ETL
+doors.shader                        done                              ETL
+egypt_door_sd.shader                done                              ETL
+egypt_floor_sd.shader               done                              ETL
+egypt_props_sd.shader               done                              ETL
+egypt_rock_sd.shader                done                              ETL
+egypt_trim_sd.shader                done                              ETL
+egypt_walls_sd.shader               done                              ETL
+egypt_windows_sd.shader             done                              ETL
+egypt_wood_sd.shader                done                              ETL
+factory_sd.shader                   done                              ETL
+fueldump.shader                     done                              ETL
+gfx_2d.shader                       done                              ETL
+gfx_clipboard.shader                done                              ETL
+gfx_damage.shader                   done                              ETL
+gfx_hud.shader                      done                              ETL
+gfx_limbo.shader                    done                              ETL
+gfx_misc.shader                     done                              ETL
+goldrush.shader                     done                              ETL
+icons.shader                        done                              ETL
+legacy.shader                       done                              ETL
+legacy_r2_light.shader              done                              ETL
+legacy_ui_assets.shader             done                              ETL
+levelshots.shader                   done                              ETL
+liquids.shader                      done                              ETL
+liquids_sd.shader                   done                              ETL
+mapfx.shader                        done                              ETL
+metals_sd.shader                    done                              ETL
+metal_misc.shader                   done                              ETL
+miltary_door.shader                 done                              ETL
+miltary_trim.shader                 done                              ETL
+miltary_wall.shader                 done                              ETL
+models_ammo.shader                  done                              ETL
+models_foliage.shader               done                              ETL
+models_furniture.shader             done                              ETL
+models_mapobjects.shader            done                              ETL
+models_multiplayer.shader           done                              ETL
+models_players.shader               done                              ETL
+models_shards.shader                done                              ETL
+models_weapons2.shader              done                              ETL
+mp_railgun.shader                   done                              ETL
+mp_siwa.shader                      done                              ETL
+props.shader                        done                              ETL
+props_sd.shader                     done                              ETL
+radar.shader                        done                              ETL
+railgun_props.shader                done                              ETL
+railway_sd.shader                   done                              ETL
+rock.shader                         done                              ETL
+rubble.shader                       done                              ETL
+seawall_wall.shader                 done                              ETL
+sfx.shader                          done                              ETL
+shadows.shader                      done                              ETL
+siwa_fx_sd.shader                   done                              ETL
+siwa_props_sd.shader                done                              ETL
+siwa_skyboxes_sd.shader             done                              ETL
+skies.shader                        done                              ETL
+skies_sd.shader                     done                              ETL
+snow.shader                         done                              ETL
+snow_sd.shader                      done                              ETL
+sprites.shader                      done                              ETL
+swf.shader                          done                              ETL
+temperate_sd.shader                 done                              ETL
+terrain.shader                      done                              ETL
+textures.shader                     done                              ETL
+tobruk_wall_sd.shader               done                              ETL
+tobruk_windows_sd.shader            done                              ETL
+town_props.shader                   done                              ETL
+town_roof.shader                    done                              ETL
+town_wall.shader                    done                              ETL
+town_window.shader                  done                              ETL
+town_wood.shader                    done                              ETL
+tree.shader                         done                              ETL
+ui_assets.shader                    done                              ETL
+ui_assets2.shader                   done                              ETL
+village.shader                      done                              ETL
+villa_sd.shader                     done                              ETL
+wood.shader                         done                              ETL
+xlab_door.shader                    done                              ETL
+xlab_props.shader                   done                              ETL
+xlab_wall.shader                    done                              ETL
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -948,9 +1049,9 @@ cab_sd
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
 part1.tga                           missing                           pak0
-part2.tga
-trailer.tga
-wheels.tga
+part2.tga                           missing                           pak0
+trailer.tga                         missing                           pak0
+wheels.tga                          missing                           pak0
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -1852,7 +1953,7 @@ v_silencedcolt_barrel5.mdc          missing                           pak0
 v_silencedcolt_barrel6.md3          missing                           pak0
 v_silencedcolt_barrel6.mdc          missing                           pak0
 v_silencedcolt_barrel7.mdc          missing                           pak0
-v_silencedcolt_hand.md3             missing                           pak0  
+v_silencedcolt_hand.md3             missing                           pak0
 weapon.cfg                          missing                           pak0
 =================================== ======== ============ =========== ======== ============= =============================
 
@@ -2811,6 +2912,7 @@ siwa_fx_sd.shader                   missing                           pak0
 siwa_props_sd.shader                missing                           pak0
 siwa_skyboxes_sd.shader             missing                           pak0
 skies.shader                        missing                           pak0
+skies_sd.shader                     missing                           pak0
 snow.shader                         missing                           pak0
 snow_sd.shader                      missing                           pak0
 sprites.shader                      missing                           pak0
