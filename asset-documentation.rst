@@ -194,7 +194,6 @@ configs
 =================================== ======== ============ =========== ======== ============= =============================
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
-                                             Dominator56
 defaultcomp.config                  done     IR4T4                    ETL      24.01.2016
                                              Jacker
                                              Spyhawk
@@ -205,9 +204,18 @@ legacy1.config                      done     Dominator56
                                              IR4T4                    ETL      27.02.2017
                                              Jacker
                                              Spyhawk
-legacy3.config                      missing                           ETL
-legacy5.config                      missing                           ETL
-legacy6.config                      missing                           ETL
+legacy3.config                      done     Dominator56
+                                             IR4T4                    ETL      27.02.2017
+                                             Jacker
+                                             Spyhawk
+legacy5.config                      done     Dominator56
+                                             IR4T4                    ETL      27.02.2017
+                                             Jacker
+                                             Spyhawk
+legacy6.config                      done     Dominator56
+                                             IR4T4                    ETL      27.02.2017
+                                             Jacker
+                                             Spyhawk
 =================================== ======== ============ =========== ======== ============= =============================
 
 
