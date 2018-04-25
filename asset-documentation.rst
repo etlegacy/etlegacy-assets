@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 ===================
-asset documentation
+Asset Documentation
 ===================
 
 Below you will find an overview of its contents.
