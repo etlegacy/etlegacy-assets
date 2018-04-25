@@ -33,7 +33,7 @@ akimbo.aninc                        missing                          pak0
 akimbo.mdx                          missing                          pak0
 binocs.aninc                        missing                          pak0
 binocs.mdx                          missing                          pak0
-body.aninc                          replaced    IR4T4    ETPub,      pak0     02.02.2015
+body.aninc                          replaced    IR4T4    ETPub       pak0     02.02.2015
                                                          ETPro
 body.mdx                            missing                          pak0
 mortar.aninc                        missing                          pak0
