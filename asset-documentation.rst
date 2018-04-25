@@ -8,55 +8,6 @@ Asset Documentation
 ===================
 
 
---------
-Foreword
---------
-
-Welcome to ET: Legacy's Asset Documentation!
-
-The original assets included in pak0, pak1 and pak2 unfortunately weren't included in the `source release <https://github.com/id-Software/Enemy-Territory>`_. For `ET: Legacy <http://www.etlegacy.com>`_ to ever become independent of these paks, there is the need of creating replacements. To keep a proper overview of the process, this documentation includes a full list of all original assets, their state of replacements as well as Legacy-only assets.
-
-
-Status
-======
-
-Displays the status of the asset in Legacy.
-
-*  **"obsolete"**: Deprecated assets from the original game that have been removed in Legacy.
-*  **"missing"**: Assets from the original game that still need to be replaced in Legacy.
-*  **"done"**: Assets that have been replaced already and are in a satisfactory state.
-*  **"alpha"**: Assets that have been included as placeholders. To be improved at a later date.
-*  **"beta"**: Assets that have been improved, but are likely still subject to change.
-
-
-Author
-======
-
-List of all people involved in the creation of the respective asset for possible future questions.
-Sorted alphabetically and limited to 12 chars.
-
-
-Resources
-=========
-
-List of all used resources to avoid any license issues.
-
-
-Origin
-======
-
-The origin of an asset is intended to show where it comes from and why it is part of Legacy.
-
-*  **"pak0"**, **"pak1"**, **"pak2"**: Assets from the original game that had to be replaced for license purposes.
-*  **"shader"**: Assets that were specified in shader files in the original game, but had no actual appearance. Rather than removing the shader files, to avoid compatibility issues, the missing assets have been restored.
-*  **"[MAP_NAME]"**: Assets that are used in a custom map shipped with Legacy.
-*  **"ETL"**: Assets created exclusively for Legacy for various purposes.
-*  **"RtCW"**: Due to the similar style, various RtCW assets might be reconstructed and included in Legacy to provide a larger pool for mappers, modders, etc.
-
-
--------------
-Documentation
--------------
 
 
 animations
@@ -201,15 +152,27 @@ configs
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
 defaultcomp.config                  done     IR4T4                    ETL      24.01.2016
+                                             Jacker
+                                             Spyhawk
 defaultpublic.config                done     IR4T4                    ETL      16.08.2016
+                                             Jacker
+                                             Spyhawk
 legacy1.config                      done     Dominator56              ETL      27.02.2017
                                              IR4T4
+                                             Jacker
+                                             Spyhawk
 legacy3.config                      done     Dominator56              ETL      27.02.2017
                                              IR4T4
+                                             Jacker
+                                             Spyhawk
 legacy5.config                      done     Dominator56              ETL      27.02.2017
                                              IR4T4
+                                             Jacker
+                                             Spyhawk
 legacy6.config                      done     Dominator56              ETL      27.02.2017
                                              IR4T4
+                                             Jacker
+                                             Spyhawk
 =================================== ======== ============ =========== ======== ============= =============================
 
 
