@@ -7,8 +7,6 @@
 Asset Documentation
 ===================
 
-test
-
 --------
 Foreword
 --------
@@ -203,20 +201,20 @@ defaultcomp.config                  done     IR4T4                    ETL      2
 defaultpublic.config                done     IR4T4                    ETL      16.08.2016
                                              Jacker
                                              Spyhawk
-legacy1.config                      done     Dominator56
-                                             IR4T4                    ETL      27.02.2017
+legacy1.config                      done     Dominator56              ETL      27.02.2017
+                                             IR4T4                    
                                              Jacker
                                              Spyhawk
-legacy3.config                      done     Dominator56
-                                             IR4T4                    ETL      27.02.2017
+legacy3.config                      done     Dominator56              ETL      27.02.2017
+                                             IR4T4                    
                                              Jacker
                                              Spyhawk
-legacy5.config                      done     Dominator56
-                                             IR4T4                    ETL      27.02.2017
+legacy5.config                      done     Dominator56              ETL      27.02.2017
+                                             IR4T4                    
                                              Jacker
                                              Spyhawk
-legacy6.config                      done     Dominator56
-                                             IR4T4                    ETL      27.02.2017
+legacy6.config                      done     Dominator56              ETL      27.02.2017
+                                             IR4T4                    
                                              Jacker
                                              Spyhawk
 =================================== ======== ============ =========== ======== ============= =============================
