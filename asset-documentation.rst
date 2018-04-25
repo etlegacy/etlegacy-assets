@@ -16,26 +16,24 @@ Welcome to ET: Legacy's Asset Documentation!
 The original assets included in pak0, pak1 and pak2 unfortunately weren't included in the `source release <https://github.com/id-Software/Enemy-Territory>`_. For `ET: Legacy <http://www.etlegacy.com>`_ to ever become independent of these paks, there is the need of creating replacements. To keep a proper overview of the process, this documentation includes a full list of all original assets, their state of replacements as well as Legacy-only assets.
 
 Status
-======
-Displays the status of the asset in Legacy. 
 
+Displays the status of the asset in Legacy. 
 *  **"missing"**: Assets from the original game that still need to be replaced in Legacy.
 *  **"done"**: Assets that have been replaced already and are in a satisfactory state.
 *  **"alpha"**: Assets that have been included as placeholders. To be improved at a later date.
 *  **"beta"**: Assets that have been improved, but are likely still subject to change.
 
 Author
-======
+
 List of all people involved in the creation of the respective asset for possible future questions.
 
 Resources
-=========
+
 List of all used resources to avoid any license issues.
 
 Origin
-======
-The origin of an asset is intended to show where it comes from and why it is part of Legacy.
 
+The origin of an asset is intended to show where it comes from and why it is part of Legacy.
 *  **"pak0"**, **"pak1"**, **"pak2"**: Assets from the original game that had to be replaced for license purposes.
 *  **"shader"**: Assets that were specified in shader files in the original game, but had no actual appearance. Rather than removing the shader files, to avoid compatibility issues, the missing assets have been restored.
 *  **"[MAP_NAME]"**: Assets that are used in a custom map shipped with Legacy.
@@ -71,7 +69,8 @@ akimbo.aninc                        missing                       pak0
 akimbo.mdx                          missing                       pak0
 binocs.aninc                        missing                       pak0
 binocs.mdx                          missing                       pak0
-body.aninc                          done
+body.aninc                          done     IR4T4    ETPub       pak0     02.02.2015
+                                             Spyhawk  ETPro
 body.mdx                            missing                       pak0
 mortar.aninc                        missing                       pak0
 mortar.mdx                          missing                       pak0
@@ -106,7 +105,9 @@ scripts
 =================================== ======== ======== =========== ======== ============= =============================
 File                                Status   Author   Resources   Origin   Last Updated  Notes
 =================================== ======== ======== =========== ======== ============= =============================
-human_base.script                   done
+human_base.script                   done     IR4T4    ETPub       pak0     21.09.2016
+                                             Spyhawk  ETPro
+                                                      NoQuarter
 =================================== ======== ======== =========== ======== ============= =============================
 
 
