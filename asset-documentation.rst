@@ -75,7 +75,7 @@ akimbo.aninc                        missing                       pak0
 akimbo.mdx                          missing                       pak0
 binocs.aninc                        missing                       pak0
 binocs.mdx                          missing                       pak0
-body.aninc                          done     IR4T4    ETPub       pak0     02.02.2015
+body.aninc                          done     IR4T4,   ETPub,      pak0     02.02.2015
                                              Spyhawk  ETPro
 body.mdx                            missing                       pak0
 mortar.aninc                        missing                       pak0
@@ -111,8 +111,8 @@ scripts
 =================================== ======== ======== =========== ======== ============= =============================
 File                                Status   Author   Resources   Origin   Last Updated  Notes
 =================================== ======== ======== =========== ======== ============= =============================
-human_base.script                   done     IR4T4    ETPub       pak0     21.09.2016
-                                             Spyhawk  ETPro
+human_base.script                   done     IR4T4,   ETPub,      pak0     21.09.2016
+                                             Spyhawk  ETPro,
                                                       NoQuarter
 =================================== ======== ======== =========== ======== ============= =============================
 
