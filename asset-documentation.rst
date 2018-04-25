@@ -33,7 +33,7 @@ akimbo.aninc                        missing                       pak0
 akimbo.mdx                          missing                       pak0
 binocs.aninc                        missing                       pak0
 binocs.mdx                          missing                       pak0
-body.aninc                          missing                       pak0
+body.aninc                          replaced                      pak0
 body.mdx                            missing                       pak0
 mortar.aninc                        missing                       pak0
 mortar.mdx                          missing                       pak0
