@@ -26,30 +26,31 @@ human
 base
 ^^^^
 
-=================================== ======== ======== =========== ======== =============
-File                                Status   Author   Resources   Origin   Last Updated
-=================================== ======== ======== =========== ======== =============
-akimbo.aninc                        missing                       pak0
-akimbo.mdx                          missing                       pak0
-binocs.aninc                        missing                       pak0
-binocs.mdx                          missing                       pak0
-body.aninc                          replaced                      pak0
-body.mdx                            missing                       pak0
-mortar.aninc                        missing                       pak0
-mortar.mdx                          missing                       pak0
-no_juice.aninc                      missing                       pak0
-no_juice.mdx                        missing                       pak0
-prone_dual_pistols.aninc            missing                       pak0
-prone_dual_pistols.mdx              missing                       pak0
-prone_mortar.aninc                  missing                       pak0
-prone_mortar.mdx                    missing                       pak0
-prone_pistol.aninc                  missing                       pak0
-prone_pistol.mdx                    missing                       pak0
-prone_rifle.aninc                   missing                       pak0
-prone_rifle.mdx                     missing                       pak0
-swim.aninc                          missing                       pak0
-swim.mdx                            missing                       pak0
-=================================== ======== ======== =========== ======== =============
+=================================== =========== ======== =========== ======== =============
+File                                Status      Author   Resources   Origin   Last Updated
+=================================== =========== ======== =========== ======== =============
+akimbo.aninc                        missing                          pak0
+akimbo.mdx                          missing                          pak0
+binocs.aninc                        missing                          pak0
+binocs.mdx                          missing                          pak0
+body.aninc                          replaced    IR4T4    ETPub       pak0     02.02.2015
+                                                         ETPro
+body.mdx                            missing                          pak0
+mortar.aninc                        missing                          pak0
+mortar.mdx                          missing                          pak0
+no_juice.aninc                      missing                          pak0
+no_juice.mdx                        missing                          pak0
+prone_dual_pistols.aninc            missing                          pak0
+prone_dual_pistols.mdx              missing                          pak0
+prone_mortar.aninc                  missing                          pak0
+prone_mortar.mdx                    missing                          pak0
+prone_pistol.aninc                  missing                          pak0
+prone_pistol.mdx                    missing                          pak0
+prone_rifle.aninc                   missing                          pak0
+prone_rifle.mdx                     missing                          pak0
+swim.aninc                          missing                          pak0
+swim.mdx                            missing                          pak0
+=================================== =========== ======== =========== ======== =============
 
 
 heads
