@@ -20,7 +20,7 @@ The original assets included in pak0, pak1 and pak2 unfortunately weren't includ
 Status
 ======
 
-Displays the status of the asset in Legacy.
+Displays the status of the respective asset.
 
 *  **"obsolete"**: Deprecated assets from the original game that have been removed in Legacy.
 *  **"missing"**: Assets from the original game that still need to be replaced in Legacy.
