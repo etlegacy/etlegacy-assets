@@ -17,7 +17,6 @@ The original assets included in pak0, pak1 and pak2 unfortunately weren't includ
 
 Status
 ======
-
 Displays the status of the asset in Legacy. 
 
 *  **"missing"**: Assets from the original game that still need to be replaced in Legacy.
@@ -27,17 +26,14 @@ Displays the status of the asset in Legacy.
 
 Author
 ======
-
 List of all people involved in the creation of the respective asset for possible future questions.
 
 Resources
 =========
-
 List of all used resources to avoid any license issues.
 
 Origin
 ======
-
 The origin of an asset is intended to show where it comes from and why it is part of Legacy.
 
 *  **"pak0"**, **"pak1"**, **"pak2"**: Assets from the original game that had to be replaced for license purposes.
