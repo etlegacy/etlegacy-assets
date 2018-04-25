@@ -7,15 +7,16 @@
 Asset Documentation
 ===================
 
-========
+--------
 Foreword
-========
+--------
 
 Welcome to ET: Legacy's Asset Documentation!
 
 The original assets included in pak0, pak1 and pak2 unfortunately weren't included in the `source release <https://github.com/id-Software/Enemy-Territory>`_. For `ET: Legacy <http://www.etlegacy.com>`_ to ever become independent of these paks, there is the need of creating replacements. To keep a proper overview of the process, this documentation includes a full list of all original assets, their state of replacements as well as Legacy-only assets.
 
 Status
+======
 
 Displays the status of the asset in Legacy. 
 *  **"missing"**: Assets from the original game that still need to be replaced in Legacy.
@@ -24,14 +25,17 @@ Displays the status of the asset in Legacy.
 *  **"beta"**: Assets that have been improved, but are likely still subject to change.
 
 Author
+======
 
 List of all people involved in the creation of the respective asset for possible future questions.
 
 Resources
+=========
 
 List of all used resources to avoid any license issues.
 
 Origin
+======
 
 The origin of an asset is intended to show where it comes from and why it is part of Legacy.
 *  **"pak0"**, **"pak1"**, **"pak2"**: Assets from the original game that had to be replaced for license purposes.
@@ -41,9 +45,9 @@ The origin of an asset is intended to show where it comes from and why it is par
 *  **"RtCW"**: Due to the similar style, various RtCW assets might be reconstructed and included in Legacy to provide a larger pool for mappers, modders, etc.
 
 
-=============
+-------------
 Documentation
-=============
+-------------
 
 
 animations
