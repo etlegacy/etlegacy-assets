@@ -71,8 +71,7 @@ akimbo.aninc                        missing                       pak0
 akimbo.mdx                          missing                       pak0
 binocs.aninc                        missing                       pak0
 binocs.mdx                          missing                       pak0
-body.aninc                          done     IR4T4    ETPub       pak0     02.02.2015
-                                             Spyhawk  ETPro
+body.aninc                          done
 body.mdx                            missing                       pak0
 mortar.aninc                        missing                       pak0
 mortar.mdx                          missing                       pak0
