@@ -34,6 +34,7 @@ Author
 
 List of all people involved in the creation of the respective asset for possible future questions.
 Sorted alphabetically and limited to 12 chars.
+**"ETL"** implies one or more people from the ETL dev team. For more detailed info, consult the github history of the file.
 
 
 Resources
@@ -65,7 +66,7 @@ animations
 =================================== ======== ============ =========== ======== ============= =============================
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
-human_base.anim                     done     IR4T4                    pak0     29.03.2018
+human_base.anim                     done     ETL                      pak0     29.03.2018
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -82,8 +83,8 @@ akimbo.aninc                        missing                           pak0
 akimbo.mdx                          missing                           pak0
 binocs.aninc                        missing                           pak0
 binocs.mdx                          missing                           pak0
-body.aninc                          done     IR4T4        ETPub       pak0     02.02.2015
-                                             Spyhawk      ETPro
+body.aninc                          done     ETL          ETPub       pak0     02.02.2015
+                                                          ETPro
 body.mdx                            missing                           pak0
 mortar.aninc                        missing                           pak0
 mortar.mdx                          missing                           pak0
@@ -118,8 +119,8 @@ scripts
 =================================== ======== ============ =========== ======== ============= =============================
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
-human_base.script                   done     IR4T4        ETPub       pak0     21.09.2016
-                                             Spyhawk      ETPro
+human_base.script                   done     ETL          ETPub       pak0     21.09.2016
+                                                          ETPro
                                                           NoQuarter
 =================================== ======== ============ =========== ======== ============= =============================
 
@@ -200,28 +201,16 @@ configs
 =================================== ======== ============ =========== ======== ============= =============================
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
-defaultcomp.config                  done     IR4T4                    ETL      24.01.2016
-                                             Jacker
-                                             Spyhawk
-defaultpublic.config                done     IR4T4                    ETL      16.08.2016
-                                             Jacker
-                                             Spyhawk
+defaultcomp.config                  done     ETL                      ETL      24.01.2016
+defaultpublic.config                done     ETL                      ETL      16.08.2016
 legacy1.config                      done     Dominator56              ETL      27.02.2017
-                                             IR4T4
-                                             Jacker
-                                             Spyhawk
+                                             ETL
 legacy3.config                      done     Dominator56              ETL      27.02.2017
-                                             IR4T4
-                                             Jacker
-                                             Spyhawk
+                                             ETL
 legacy5.config                      done     Dominator56              ETL      27.02.2017
-                                             IR4T4
-                                             Jacker
-                                             Spyhawk
+                                             ETL
 legacy6.config                      done     Dominator56              ETL      27.02.2017
-                                             IR4T4
-                                             Jacker
-                                             Spyhawk
+                                             ETL
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -231,7 +220,7 @@ fonts
 =================================== ======== ============ =========== ======== ============= =============================
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
-ariblk_0_16.tga                     obsolete                          pak0
+ariblk_0_16.tga                     obsolete                          pak0                   
 ariblk_0_27.tga                     obsolete                          pak0
 ariblk_1_27.tga                     obsolete                          pak0
 ariblk_16.dat                       obsolete                          pak0
@@ -241,6 +230,25 @@ courbd_0_30.tga                     obsolete                          pak0
 courbd_1_30.tga                     obsolete                          pak0
 courbd_21.dat                       obsolete                          pak0
 courbd_30.dat                       obsolete                          pak0
+Courier Prime Bold Italic.ttf       done     Courier                  ETL      19.09.2016    See readme.txt
+                                             Prime            
+Courier Prime Bold.ttf              done     Courier                  ETL      19.09.2016    See readme.txt
+                                             Prime
+Courier Prime Italic.ttf            done     Courier                  ETL      19.09.2016    See readme.txt
+                                             Prime
+Courier Prime.ttf                   done     Courier                  ETL      19.09.2016    See readme.txt
+                                             Prime
+ETL_readme.txt                      done     ETL                      ETL      29.08.2016 
+LiberationSans-Bold.ttf             done     Lib.Sans                 ETL      26.08.2016
+LiberationSans-BoldItalic.ttf       done     Lib.Sans                 ETL      17.08.2016
+LiberationSans-Italic.ttf           done     Lib.Sans                 ETL      17.08.2016
+LiberationSans-Regular.ttf          done     Lib.Sans                 ETL      17.08.2016
+Read me.txt                         done     Courier                  ETL      29.08.2016
+                                             Prime
+SIL Open Font License.txt           done     Red Hat                  ETL      17.08.2016
+ariblk.ttf                          done     ETL          Lib.Sans    ETL      18.08.2016
+courbd.ttf                          done     ETL          Courier     ETL      29.08.2016
+                                                          Prime
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -253,7 +261,7 @@ gfx
 =================================== ======== ============ =========== ======== ============= =============================
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
-backtile.jpg                        missing                           pak0
+backtile.jpg                        done     ETL                      pak0     29.12.2013
 breakablehint.tga                   missing                           pak0
 buildhint.tga                       missing                           pak0
 classic1.tga                        missing                           pak0
@@ -279,6 +287,10 @@ crosshairi.tga                      missing                           pak0
 crosshairi_alt.tga                  missing                           pak0
 crosshairj.tga                      missing                           pak0
 crosshairj_alt.tga                  missing                           pak0
+crosshairk.tga                      done     ETL                      ETL      11.12.2013
+crosshairl.tga                      done     ETL                      ETL      11.12.2013
+crosshairl_alt.tga                  done     ETL                      ETL      11.12.2013
+crosshairp.tga                      done     ETL                      ETL      11.12.2013
 disarmhint.tga                      missing                           pak0
 doorhint.tga                        missing                           pak0
 dynamitehint.tga                    missing                           pak0
@@ -292,6 +304,7 @@ landmineHint.tga                    missing                           pak0
 lives_allies.tga                    missing                           pak0
 lives_axis.tga                      missing                           pak0
 lockedhint.tga                      missing                           pak0
+mapmask.tga                         done     ETL                      ETL      16.04.2013
 minigun1.tga                        missing                           pak0
 mp401.tga                           missing                           pak0
 multi_dead.tga                      missing                           pak0
@@ -304,6 +317,17 @@ tankHint.tga                        missing                           pak0
 uniformHint.tga                     missing                           pak0
 usableHint.tga                      missing                           pak0
 waterhint.tga                       missing                           pak0
+=================================== ======== ============ =========== ======== ============= =============================
+
+
+camera
+^^^^^^
+
+=================================== ======== ============ =========== ======== ============= =============================
+File                                Status   Author       Resources   Origin   Last Updated  Notes
+=================================== ======== ============ =========== ======== ============= =============================
+grain.png                           done     ETL                      ETL      24.04.2013
+vignette.png                        done     ETL                      ETL      24.04.2013
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -349,6 +373,16 @@ burn_med_mrk.jpg                    missing                           pak0
 glass_mrk.tga                       missing                           pak0
 metal_mrk.tga                       missing                           pak0
 wood_mrk.tga                        missing                           pak0
+=================================== ======== ============ =========== ======== ============= =============================
+
+
+flags
+-----
+
+=================================== ======== ============ =========== ======== ============= =============================
+File                                Status   Author       Resources   Origin   Last Updated  Notes
+=================================== ======== ============ =========== ======== ============= =============================
+world_flags.tga                     done     ETL                      ETL      05.02.2017
 =================================== ======== ============ =========== ======== ============= =============================
 
 
