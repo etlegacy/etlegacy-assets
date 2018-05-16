@@ -721,6 +721,92 @@ unknownmap.tga                      missing                           pak0
 =================================== ======== ============ =========== ======== ============= =============================
 
 
+lights
+======
+
+=================================== ======== ============ =========== ======== ============= =============================
+File                                Status   Author       Resources   Origin   Last Updated  Notes
+=================================== ======== ============ =========== ======== ============= =============================
+round.png                           done     ETL          OpenWolf    ETL      04.05.2013
+skyline1.png                        done     ETL          OpenWolf    ETL      04.05.2013
+squarelight.png                     done     ETL          OpenWolf    ETL      04.05.2013
+squarelight1.png                    done     ETL          OpenWolf    ETL      04.05.2013
+squarelight1a.png                   done     ETL          OpenWolf    ETL      04.05.2013
+squarelight1b.png                   done     ETL          OpenWolf    ETL      04.05.2013
+=================================== ======== ============ =========== ======== ============= =============================
+
+
+
+locale
+======
+
+=================================== ======== ============ =========== ======== ============= =============================
+File                                Status   Author       Resources   Origin   Last Updated  Notes
+=================================== ======== ============ =========== ======== ============= =============================
+etlegacy_client.pot                 done     ETL                      ETL      07.10.2015
+etlegacy_mod.pot                    done     ETL                      ETL      23.02.2018
+=================================== ======== ============ =========== ======== ============= =============================
+
+
+client
+------
+
+=================================== ======== ============ =========== ======== ============= =============================
+File                                Status   Author       Resources   Origin   Last Updated  Notes
+=================================== ======== ============ =========== ======== ============= =============================
+cs.po                               done     ETL                      ETL      04.03.2016
+de.po                               done     ETL                      ETL      09.09.2016
+el.po                               done     ETL                      ETL      22.07.2016
+en.po                               done     ETL                      ETL      16.01.2016
+eo.po                               done     ETL                      ETL      16.01.2016
+es.po                               done     ETL                      ETL      01.04.2016
+fi.po                               done     ETL                      ETL      23.09.2016
+fr.po                               done     ETL                      ETL      18.11.2016
+it.po                               done     ETL                      ETL      01.04.2016
+ko.po                               done     ETL                      ETL      27.01.2017
+ko_KR.po                            done     ETL                      ETL      16.01.2016
+nl.po                               done     ETL                      ETL      01.04.2016 
+no.po                               done     ETL                      ETL      16.01.2016
+pl.po                               done     ETL                      ETL      16.06.2017 
+pt.po                               done     ETL                      ETL      17.03.2017
+ro.po                               done     ETL                      ETL      12.08.2016
+ru.po                               done     ETL                      ETL      16.01.2016
+                                             Vorotnikov
+sk.po                               done     ETL                      ETL      16.01.2016
+sl.po                               done     ETL                      ETL      16.01.2016
+=================================== ======== ============ =========== ======== ============= =============================
+
+
+mod
+---
+
+=================================== ======== ============ =========== ======== ============= =============================
+File                                Status   Author       Resources   Origin   Last Updated  Notes
+=================================== ======== ============ =========== ======== ============= =============================
+cs.po                               done     ETL                      ETL      07.04.2017
+de.po                               done     ETL                      ETL      14.04.2017
+                                             harlekin
+el.po                               done     ETL                      ETL      07.04.2017
+en.po                               done     ETL                      ETL      07.04.2017
+eo.po                               done     ETL                      ETL      07.04.2017
+es.po                               done     ETL                      ETL      07.04.2017
+fi.po                               done     ETL                      ETL      07.04.2017
+fr.po                               done     ETL                      ETL      07.04.2017
+it.po                               done     ETL                      ETL      07.04.2017
+ko.po                               done     ETL                      ETL      07.04.2017
+ko_KR.po                            done     ETL                      ETL      16.01.2016
+nl.po                               done     ETL                      ETL      07.04.2017
+no.po                               done     ETL                      ETL      07.04.2017
+pl.po                               done     ETL                      ETL      16.06.2017
+pt.po                               done     ETL                      ETL      07.04.2017
+ro.po                               done     ETL                      ETL      07.04.2017
+ru.po                               done     ETL                      ETL      21.04.2017
+                                             Vorotnikov
+sk.po                               done     ETL                      ETL      07.04.2017
+sl.po                               done     ETL                      ETL      07.04.2017
+=================================== ======== ============ =========== ======== ============= =============================
+
+
 maps
 ====
 
