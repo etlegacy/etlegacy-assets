@@ -395,12 +395,17 @@ File                                Status   Author       Resources   Origin   L
 ic_health.tga                       missing                           pak0
 ic_power.tga                        missing                           pak0
 ic_stamina.tga                      missing                           pak0
+fireteam4.tga                       done     ETL                      ETL      23.10.2012
 keyboardkey_old.tga                 missing                           pak0
 pm_constallied.tga                  missing                           pak0
 pm_constaxis.tga                    missing                           pak0
+pm_crush.tga                        done     ETL                      ETL      31.01.2015
 pm_death.tga                        missing                           pak0
+pm_lava.tga                         done     ETL                      ETL      31.01.2015
 pm_mineallied.tga                   missing                           pak0
 pm_mineaxis.tga                     missing                           pak0
+pm_shove.tga                        done     ETL                      ETL      31.01.2015
+pm_slime.tga                        done     ETL                      ETL      31.01.2015
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -493,6 +498,7 @@ filter_bo.tga                       missing                           pak0
 filter_construction.tga             missing                           pak0
 filter_destruction.tga              missing                           pak0
 filter_healthammo.tga               missing                           pak0
+filter_landmine.tga                 done     ETL                      ETL      07.03.2017
 filter_objective.tga                missing                           pak0
 filter_spawn.tga                    missing                           pak0
 flag_allied.tga                     missing                           pak0
@@ -514,6 +520,7 @@ limbo_frame05.tga                   missing                           pak0
 limbo_frame06.tga                   missing                           pak0
 limbo_frame07.tga                   missing                           pak0
 limbo_frame08.tga                   missing                           pak0
+lock.tga                            done     ETL                      ETL      29.04.2013
 medals00.tga                        missing                           pak0
 medals01.tga                        missing                           pak0
 medals02.tga                        missing                           pak0
@@ -549,6 +556,7 @@ skill_soldier.tga                   missing                           pak0
 spectator.tga                       missing                           pak0
 weaponcard01.tga                    missing                           pak0
 weaponcard02.tga                    missing                           pak0
+weaponcard03.tga                    done     ETL                      ETL      02.10.2013
 weap_blend.tga                      missing                           pak0
 weap_card.tga                       missing                           pak0
 weap_dnarrow.tga                    missing                           pak0
@@ -609,35 +617,83 @@ icons
 =================================== ======== ============ =========== ======== ============= =============================
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
+iconw_akimbocolts.tga               done     ETL                      ETL      18.12.2013
+iconw_akimbocolts_1_select.tga      done     ETL                      ETL      18.12.2013
+iconw_akimbolugers.tga              done     ETL                      ETL      18.12.2013
+iconw_akimbolugers_1_select.tga     done     ETL                      ETL      18.12.2013
+iconw_ammopack.tga                  done     ETL                      ETL      18.12.2013
 iconw_ammopack_1_select.tga         missing                           pak0
+iconw_bazooka.tga                   done     ETL                      ETL      20.12.2013
+iconw_bazooka_1_select.tga          done     ETL                      ETL      20.12.2013
+iconw_binoculars.tga                done     ETL                      ETL      18.12.2013
 iconw_binoculars_1_select.tga       missing                           pak0
+iconw_browning.tga                  done     ETL                      ETL      18.12.2013
 iconw_browning_1_select.tga         missing                           pak0
-iconw_colt_1_select.tga             missing                           pak0
+iconw_colt.tga                      done     ETL                      ETL      18.12.2013
+iconw_colt_1_select.tga             done     ETL                      pak0     18.12.2013
+iconw_dynamite.tga                  done     ETL                      ETL      18.12.2013
 iconw_dynamite_1_select.tga         missing                           pak0
+iconw_fg42.tga                      done     ETL                      ETL      18.12.2013
 iconw_fg42_1_select.tga             missing                           pak0
+iconw_flamethrower.tga              done     ETL                      ETL      18.12.2013
 iconw_flamethrower_1_select.tga     missing                           pak0
+iconw_grenade.tga                   done     ETL                      ETL      18.12.2013
 iconw_grenade_1_select.tga          missing                           pak0
+iconw_kar98.tga                     done     ETL                      ETL      18.12.2013
 iconw_kar98_1_select.tga            missing                           pak0
+iconw_kar98_gren.tga                done     ETL                      ETL      18.12.2013
+iconw_knife.tga                     done     ETL                      ETL      18.12.2013
 iconw_knife_1_select.tga            missing                           pak0
-iconw_landmine_1_select.tga         missing                           pak0
-iconw_luger_1_select.tga            missing                           pak0
+iconw_knife_kbar.tga                done     ETL          NoQuarter   ETL      26.09.2013
+iconw_knife_kbar_1_select.tga       done     ETL          NoQuarter   ETL      26.09.2013
+iconw_landmine.tga                  done     ETL                      ETL      18.12.2013
+iconw_landmine_1_select.tga         done     ETL                      pak0     18.12.2013
+iconw_luger.tga                     done     ETL                      ETL      18.12.2013
+iconw_luger_1_select.tga            done     ETL                      pak0     18.12.2013
+iconw_m1_garand.tga                 done     ETL                      ETL      18.12.2013
 iconw_m1_garand_1_select.tga        missing                           pak0
+iconw_m1_garand_gren.tga            done     ETL                      ETL      18.12.2013
 iconw_m1_garand_gren_1_select.tga   missing                           pak0
+iconw_mauser.tga                    done     ETL                      ETL      18.12.2013
 iconw_mauser_1_select.tga           missing                           pak0
+iconw_medheal.tga                   done     ETL                      ETL      18.12.2013
 iconw_medheal_select.tga            missing                           pak0
+iconw_mg42.tga                      done     ETL                      ETL      18.12.2013
 iconw_mg42_1_select.tga             missing                           pak0
+iconw_mortar.tga                    done     ETL                      ETL      18.12.2013
 iconw_mortar_1_select.tga           missing                           pak0
+iconw_mortar_ax.tga                 done     ETL                      ETL      28.10.2013
+iconw_mortar_ax_1_select.tga        done     ETL                      ETL      28.10.2013
+iconw_MP40.tga                      done     ETL                      ETL      18.12.2013
 iconw_MP40_1_select.tga             missing                           pak0
+iconw_panzerfaust.tga               done     ETL                      ETL      18.12.2013
 iconw_panzerfaust_1_select.tga      missing                           pak0
-iconw_pineapple_1_select.tga        missing                           pak0
+iconw_pineapple.tga                 done     ETL                      ETL      18.12.2013
+iconw_pineapple_1_select.tga        done     ETL                      pak0     18.12.2013
+iconw_pliers.tga                    done     ETL                      ETL      18.12.2013
 iconw_pliers_1_select.tga           missing                           pak0
+iconw_radio.tga                     done     ETL                      ETL      18.12.2013
 iconw_radio_1_select.tga            missing                           pak0
+iconw_satchel.tga                   done     ETL                      ETL      18.12.2013
 iconw_satchel_1_select.tga          missing                           pak0
+iconw_silencedakimbocolts.tga       done     ETL                      ETL      18.12.2013
+iconw_silencedakimbocolts_1_select  done     ETL                      ETL      18.12.2013
+iconw_silencedakimbolugers.tga      done     ETL                      ETL      18.12.2013
+iconw_silencedakimbolugers_1_select done     ETL                      ETL      18.12.2013
+iconw_silencedcolt.tga              done     ETL                      ETL      18.12.2013
+iconw_silencedcolt_1_select.tga     done     ETL                      ETL      18.12.2013
+iconw_silencedluger.tga             done     ETL                      ETL      18.12.2013
+iconw_silencedluger_1_select.tga    done     ETL                      ETL      18.12.2013
+iconw_silencer.tga                  done     ETL                      ETL      18.12.2013
 iconw_silencer_1_select.tga         missing                           pak0
+iconw_smokegrenade.tga              done     ETL                      ETL      18.12.2013
 iconw_smokegrenade_1_select.tga     missing                           pak0
+iconw_sten.tga                      done     ETL                      ETL      18.12.2013
 iconw_sten_1_select.tga             missing                           pak0
 iconw_syringe2_1_select.tga         missing                           pak0
+iconw_syringe.tga                   done     ETL                      ETL      18.12.2013
 iconw_syringe_1_select.tga          missing                           pak0
+iconw_thompson.tga                  done     ETL                      ETL      18.12.2013
 iconw_thompson_1_select.tga         missing                           pak0
 noammo.tga                          missing                           pak0
 =================================== ======== ============ =========== ======== ============= =============================
