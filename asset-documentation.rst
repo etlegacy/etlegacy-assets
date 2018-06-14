@@ -1322,6 +1322,135 @@ lm_0004.tga                         missing                           pak0
 =================================== ======== ============ =========== ======== ============= =============================
 
 
+mapscripts
+==========
+
+=================================== ======== ============ =========== ======== ============= =============================
+File                                Status   Author       Resources   Origin   Last Updated  Notes
+=================================== ======== ============ =========== ======== ============= =============================
+adlernest.script                    done     ETL                      ETL      26.01.2014
+braundorf_b4.script                 done     ETL                      ETL      26.01.2014
+et_beach.script                     done     ETL                      ETL      26.01.2014
+et_ice.script                       done     ETL                      ETL      26.01.2014
+frostbite.script                    done     ETL                      ETL      26.01.2014
+radar.script                        done     ETL                      ETL      26.01.2014
+supply.script                       done     ETL                      ETL      26.01.2014
+sw_goldrush_te.script               done     ETL                      ETL      26.01.2014
+tc_base.script                      done     ETL                      ETL      26.01.2014
+=================================== ======== ============ =========== ======== ============= =============================
+
+
+materials
+=========
+
+=================================== ======== ============ =========== ======== ============= =============================
+File                                Status   Author       Resources   Origin   Last Updated  Notes
+=================================== ======== ============ =========== ======== ============= =============================
+_lights.shader 	                  done     ETL                      ETL      17.04.2017
+_unsorted.shader 	                  done     ETL                      ETL      17.04.2017
+aa_readme.txt 	                     done     ETL                      ETL      17.04.2017
+alpha.shader 	                     done     ETL                      ETL      17.04.2017
+alpha_sd.shader 	                  done     ETL                      ETL      17.04.2017
+assault.shader 	                  done     ETL                      ETL      17.04.2017
+assault_rock.shader 	               done     ETL                      ETL      17.04.2017
+awf_props.shader 	                  done     ETL                      ETL      17.04.2017
+battery.shader 	                  done     ETL                      ETL      29.05.2018
+battery_wall.shader 	               done     ETL                      ETL      10.12.2017
+broken_castle.shader 	            done     ETL                      ETL      02.06.2017
+bunker_sd.shader 	                  done     ETL                      ETL      10.12.2017
+castle_door.shader 	               done     ETL                      ETL      17.04.2017
+castle_floor.shader 	               done     ETL                      ETL      17.04.2017
+castle_window.shader 	            done     ETL                      ETL      17.04.2017
+castle_wood.shader 	               done     ETL                      ETL      17.04.2017
+cathedrale_wall.shader              done     ETL                      ETL      17.04.2017
+chat.shader 	                     done     ETL                      ETL      17.04.2017
+chat_window.shader 	               done     ETL                      ETL      17.04.2017
+chat_wood.shader 	                  done     ETL                      ETL      17.04.2017
+chateau.shader 	                  done     ETL                      ETL      17.04.2017
+common.shader 	                     done     ETL                      ETL      17.04.2017
+decals.shader                       done     ETL                      ETL      17.04.2017
+doors.shader 	                     done     ETL                      ETL      17.04.2017
+egypt_door_sd.shader 	            done     ETL                      ETL      17.04.2017
+egypt_floor_sd.shader 	            done     ETL                      ETL      10.12.2017
+egypt_props_sd.shader 	            done     ETL                      ETL      17.04.2017
+egypt_rock_sd.shader 	            done     ETL                      ETL      17.04.2017
+egypt_trim_sd.shader 	            done     ETL                      ETL      17.04.2017
+egypt_walls_sd.shader 	            done     ETL                      ETL      29.04.2018
+egypt_windows_sd.shader 	         done     ETL                      ETL      17.05.2018
+egypt_wood_sd.shader 	            done     ETL                      ETL      17.04.2017
+factory_sd.shader 	               done     ETL                      ETL      17.04.2017
+fueldump.shader 	                  done     ETL                      ETL      28.05.2018
+gfx_2d.shader 	                     done     ETL                      ETL      17.04.2017
+gfx_clipboard.shader 	            done     ETL                      ETL      17.04.2017
+gfx_damage.shader 	               done     ETL                      ETL      17.04.2017
+gfx_hud.shader 	                  done     ETL                      ETL      17.04.2017
+gfx_limbo.shader                    done     ETL                      ETL      17.04.2017
+gfx_misc.shader 	                  done     ETL                      ETL      17.04.2017
+goldrush.shader 	                  done     ETL                      ETL      28.05.2018
+icons.shader 	                     done     ETL                      ETL      17.04.2017
+legacy.shader 	                     done     ETL                      ETL      10.12.2017
+legacy_r2_light.shader 	            done     ETL                      ETL      17.04.2017
+legacy_ui_assets.shader 	         done     ETL                      ETL      20.05.2017
+levelshots.shader 	               done     ETL                      ETL      17.04.2017
+liquids.shader 	                  done     ETL                      ETL      17.04.2017
+liquids_sd.shader 	               done     ETL                      ETL      29.05.2018
+mapfx.shader 	                     done     ETL                      ETL      17.04.2017
+metal_misc.shader 	               done     ETL                      ETL      17.04.2017
+metals_sd.shader 	                  done     ETL                      ETL      01.04.2018
+miltary_door.shader 	               done     ETL                      ETL      17.04.2017
+miltary_trim.shader 	               done     ETL                      ETL      17.04.2017
+miltary_wall.shader 	               done     ETL                      ETL      17.04.2017
+models_ammo.shader 	               done     ETL                      ETL      17.04.2017
+models_foliage.shader 	            done     ETL                      ETL      29.03.2018
+models_furniture.shader 	         done     ETL                      ETL      17.04.2017
+models_mapobjects.shader 	         done     ETL                      ETL      16.04.2018
+models_multiplayer.shader 	         done     ETL                      ETL      03.06.2018
+models_players.shader 	            done     ETL                      ETL      16.12.2017
+models_shards.shader 	            done     ETL                      ETL      17.04.2017
+models_weapons2.shader 	            done     ETL                      ETL      03.06.2018
+mp_railgun.shader 	               done     ETL                      ETL      29.05.2018
+mp_siwa.shader 	                  done     ETL                      ETL      03.06.2018
+props.shader 	                     done     ETL                      ETL      10.12.2017
+props_sd.shader 	                  done     ETL                      ETL      17.04.2017
+radar.shader 	                     done     ETL                      ETL      28.05.2018
+railgun_props.shader 	            done     ETL                      ETL      17.04.2017
+railway_sd.shader 	               done     ETL                      ETL      17.04.2017
+rock.shader 	                     done     ETL                      ETL      17.04.2017
+rubble.shader 	                     done     ETL                      ETL      17.04.2017
+seawall_wall.shader 	               done     ETL                      ETL      10.12.2017
+sfx.shader 	                        done     ETL                      ETL      17.04.2017
+shadows.shader 	                  done     ETL                      ETL      17.04.2017
+siwa_fx_sd.shader 	               done     ETL                      ETL      17.04.2017
+siwa_props_sd.shader 	            done     ETL                      ETL      01.12.2017
+siwa_skyboxes_sd.shader 	         done     ETL                      ETL      17.04.2017
+skies.shader 	                     done     ETL                      ETL      17.04.2017
+skies_sd.shader 	                  done     ETL                      ETL      17.04.2017
+snow.shader 	                     done     ETL                      ETL      26.03.2018
+snow_sd.shader 	                  done     ETL                      ETL      21.09.2017
+sprites.shader 	                  done     ETL                      ETL      17.04.2017
+swf.shader 	                        done     ETL                      ETL      17.04.2017
+temperate_sd.shader 	               done     ETL                      ETL      10.12.2017
+terrain.shader 	                  done     ETL                      ETL      17.04.2017
+textures.shader 	                  done     ETL                      ETL      17.04.2017
+tobruk_wall_sd.shader 	            done     ETL                      ETL      17.04.2017
+tobruk_windows_sd.shader 	         done     ETL                      ETL      17.04.2017
+town_props.shader 	               done     ETL                      ETL      17.04.2017
+town_roof.shader                    done     ETL                      ETL      17.04.2017
+town_wall.shader 	                  done     ETL                      ETL      17.04.2017
+town_window.shader 	               done     ETL                      ETL      17.04.2017
+town_wood.shader 	                  done     ETL                      ETL      17.04.2017
+tree.shader 	                     done     ETL                      ETL      17.04.2017
+ui_assets.shader                    done     ETL                      ETL      17.04.2017
+ui_assets2.shader 	               done     ETL                      ETL      17.04.2017
+villa_sd.shader 	                  done     ETL                      ETL      17.04.2017
+village.shader 	                  done     ETL                      ETL      30.03.2018
+wood.shader 	                     done     ETL                      ETL      18.11.2017
+xlab_door.shader                    done     ETL                      ETL      17.04.2017
+xlab_props.shader 	               done     ETL                      ETL      17.04.2017
+xlab_wall.shader                    done     ETL                      ETL      17.04.2017
+=================================== ======== ============ =========== ======== ============= =============================
+
+
 menu
 ====
 
@@ -1343,116 +1472,6 @@ fx_red.tga                          missing                           pak0
 fx_teal.tga                         missing                           pak0
 fx_white.tga                        missing                           pak0
 fx_yel.tga                          missing                           pak0
-=================================== ======== ============ =========== ======== ============= =============================
-
-
-materials
-=========
-
-=================================== ======== ============ =========== ======== ============= =============================
-File                                Status   Author       Resources   Origin   Last Updated  Notes
-=================================== ======== ============ =========== ======== ============= =============================
-_lights.shader                      done                              ETL
-_unsorted.shader                    done                              ETL
-aa_readme.txt                       done                              ETL
-alpha.shader                        done                              ETL
-alpha_sd.shader                     done                              ETL
-assault.shader                      done                              ETL
-assault_rock.shader                 done                              ETL
-awf_props.shader                    done                              ETL
-battery.shader                      done                              ETL
-battery_wall.shader                 done                              ETL
-bunker_sd.shader                    done                              ETL
-castle_door.shader                  done                              ETL
-castle_floor.shader                 done                              ETL
-castle_window.shader                done                              ETL
-castle_wood.shader                  done                              ETL
-cathedrale_wall.shader              done                              ETL
-chat.shader                         done                              ETL
-chateau.shader                      done                              ETL
-chat_window.shader                  done                              ETL
-chat_wood.shader                    done                              ETL
-common.shader                       done                              ETL
-decals.shader                       done                              ETL
-doors.shader                        done                              ETL
-egypt_door_sd.shader                done                              ETL
-egypt_floor_sd.shader               done                              ETL
-egypt_props_sd.shader               done                              ETL
-egypt_rock_sd.shader                done                              ETL
-egypt_trim_sd.shader                done                              ETL
-egypt_walls_sd.shader               done                              ETL
-egypt_windows_sd.shader             done                              ETL
-egypt_wood_sd.shader                done                              ETL
-factory_sd.shader                   done                              ETL
-fueldump.shader                     done                              ETL
-gfx_2d.shader                       done                              ETL
-gfx_clipboard.shader                done                              ETL
-gfx_damage.shader                   done                              ETL
-gfx_hud.shader                      done                              ETL
-gfx_limbo.shader                    done                              ETL
-gfx_misc.shader                     done                              ETL
-goldrush.shader                     done                              ETL
-icons.shader                        done                              ETL
-legacy.shader                       done                              ETL
-legacy_r2_light.shader              done                              ETL
-legacy_ui_assets.shader             done                              ETL
-levelshots.shader                   done                              ETL
-liquids.shader                      done                              ETL
-liquids_sd.shader                   done                              ETL
-mapfx.shader                        done                              ETL
-metals_sd.shader                    done                              ETL
-metal_misc.shader                   done                              ETL
-miltary_door.shader                 done                              ETL
-miltary_trim.shader                 done                              ETL
-miltary_wall.shader                 done                              ETL
-models_ammo.shader                  done                              ETL
-models_foliage.shader               done                              ETL
-models_furniture.shader             done                              ETL
-models_mapobjects.shader            done                              ETL
-models_multiplayer.shader           done                              ETL
-models_players.shader               done                              ETL
-models_shards.shader                done                              ETL
-models_weapons2.shader              done                              ETL
-mp_railgun.shader                   done                              ETL
-mp_siwa.shader                      done                              ETL
-props.shader                        done                              ETL
-props_sd.shader                     done                              ETL
-radar.shader                        done                              ETL
-railgun_props.shader                done                              ETL
-railway_sd.shader                   done                              ETL
-rock.shader                         done                              ETL
-rubble.shader                       done                              ETL
-seawall_wall.shader                 done                              ETL
-sfx.shader                          done                              ETL
-shadows.shader                      done                              ETL
-siwa_fx_sd.shader                   done                              ETL
-siwa_props_sd.shader                done                              ETL
-siwa_skyboxes_sd.shader             done                              ETL
-skies.shader                        done                              ETL
-skies_sd.shader                     done                              ETL
-snow.shader                         done                              ETL
-snow_sd.shader                      done                              ETL
-sprites.shader                      done                              ETL
-swf.shader                          done                              ETL
-temperate_sd.shader                 done                              ETL
-terrain.shader                      done                              ETL
-textures.shader                     done                              ETL
-tobruk_wall_sd.shader               done                              ETL
-tobruk_windows_sd.shader            done                              ETL
-town_props.shader                   done                              ETL
-town_roof.shader                    done                              ETL
-town_wall.shader                    done                              ETL
-town_window.shader                  done                              ETL
-town_wood.shader                    done                              ETL
-tree.shader                         done                              ETL
-ui_assets.shader                    done                              ETL
-ui_assets2.shader                   done                              ETL
-village.shader                      done                              ETL
-villa_sd.shader                     done                              ETL
-wood.shader                         done                              ETL
-xlab_door.shader                    done                              ETL
-xlab_props.shader                   done                              ETL
-xlab_wall.shader                    done                              ETL
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -1525,6 +1544,18 @@ wood1.jpg                           missing                           pak0
 
 gibs
 ----
+
+=================================== ======== ============ =========== ======== ============= =============================
+File                                Status   Author       Resources   Origin   Last Updated  Notes
+=================================== ======== ============ =========== ======== ============= =============================
+abdomen.mdc                         done     NQ           NQ          ETL      14.01.2013
+foot.mdc                            done     NQ           NQ          ETL      14.01.2013                 
+forearm.mdc                         done     NQ           NQ          ETL      14.01.2013
+gibs.jpg                            done     NQ           NQ          ETL      14.01.2013
+intestine.mdc                       done     NQ           NQ          ETL      14.01.2013
+leg.mdc                             done     NQ           NQ          ETL      14.01.2013
+skull.mdc                           done     NQ           NQ          ETL      14.01.2013
+=================================== ======== ============ =========== ======== ============= =============================
 
 
 wood
@@ -2167,7 +2198,7 @@ ammopack_pickup.md3                 missing                           pak0
 ammopack_pickup_s.md3               missing                           pak0
 v_ammopack.md3                      missing                           pak0
 v_ammopack_hand.md3                 missing                           pak0
-weapon.cfg                          missing                           pak0
+weapon.cfg                          done     ETL                      pak0     27.03.2016
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -2263,7 +2294,7 @@ v_kar98_scope.md3                   missing                           pak0
 v_kar98_scope2.mdc                  missing                           pak0
 v_kar98_silencer.md3                missing                           pak0
 weapon.cfg                          missing                           pak0
-weapon2.cfg                         missing                           pak0
+weapon2.cfg                         done     ETL                      pak0     27.03.2016
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -2279,7 +2310,7 @@ knife_axis.skin                     missing                           pak0
 v_knife.md3                         missing                           pak0
 v_knife_barrel.md3                  missing                           pak0
 v_knife_hand.md3                    missing                           pak0
-weapon.cfg                          missing                           pak0
+weapon.cfg                          done     ETL                      pak0     27.03.2016
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -2293,7 +2324,7 @@ landmine.jpg                        missing                           pak0
 landmine.md3                        missing                           pak0
 v_landmine.md3                      missing                           pak0
 v_landmine_hand.md3                 missing                           pak0
-weapon.cfg                          missing                           pak0
+weapon.cfg                          done     ETL                      pak0     27.03.2016
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -2344,7 +2375,7 @@ medpack.md3                         missing                           pak0
 medpack_pickup.md3                  missing                           pak0
 v_medpack.md3                       missing                           pak0
 v_medpack_hand.md3                  missing                           pak0
-weapon.cfg                          missing                           pak0
+weapon.cfg                          done     ETL                      pak0     27.03.2016
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -2373,7 +2404,7 @@ v_mg42_barrel5.md3                  missing                           pak0
 v_mg42_barrel6.md3                  missing                           pak0
 v_mg42_flash.mdc                    missing                           pak0
 v_mg42_hand.md3                     missing                           pak0
-weapon.cfg                          missing                           pak0
+weapon.cfg                          done     ETL                      pak0     27.03.2016
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -2396,24 +2427,50 @@ mortar
 =================================== ======== ============ =========== ======== ============= =============================
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
-mortar_3rd.md3                      missing                           pak0
-mortar_3rda.md3                     missing                           pak0
+axis_mortar_pickup.md3              done     Meyer        NQ          ETL      20.10.2013
+mortar_3rd.md3                      done     Meyer        NQ          pak0     28.10.2013                           
+mortar_3rd_allied.skin              done     Meyer        NQ          ETL      20.10.2013
+mortar_3rd_ax.md3                   done     Meyer        NQ          ETL      28.10.2013
+mortar_3rd_axis.skin                done     Meyer        NQ          ETL      28.10.2013
+mortar_3rda.md3                     done     Meyer        NQ          pak0     28.10.2013  
+mortar_3rda_allied.skin             done     Meyer        NQ          ETL      20.10.2013
+mortar_3rda_ax.md3                  done     Meyer        NQ          ETL      20.10.2013
+mortar_3rda_axis.skin               done     Meyer        NQ          ETL      08.11.2013
 mortar_allied.skin                  missing                           pak0
+mortar_ax.jpg                       done     Meyer        NQ          ETL      20.10.2013
+mortar_ax_alpha.jpg                 done     Meyer        NQ          ETL      20.10.2013
 mortar_axis.skin                    missing                           pak0
-mortar_pickup.md3                   missing                           pak0
+mortar_barrel3_allied.skin 	      done     Meyer        NQ          ETL      20.10.2013
+mortar_barrel3_axis.skin 	         done     Meyer        NQ          ETL      20.10.2013
+mortar_barrel4_allied.skin 	      done     Meyer        NQ          ETL      20.10.2013
+mortar_barrel4_axis.skin 	         done     Meyer        NQ          ETL      20.10.2013
+mortar_barrel5_allied.skin 	      done     Meyer        NQ          ETL      20.10.2013
+mortar_barrel5_axis.skin 	         done     Meyer        NQ          ETL      20.10.2013
+mortar_barrel6_allied.skin 	      done     Meyer        NQ          ETL      20.10.2013
+mortar_barrel6_axis.skin 	         done     Meyer        NQ          ETL      20.10.2013
+mortar_barrel_allied.skin 	         done     Meyer        NQ          ETL      20.10.2013
+mortar_barrel_axis.skin             done     Meyer        NQ          ETL      20.10.2013
+mortar_pickup.md3                   done     Meyer        NQ          pak0     28.10.2013  
+mortar_pickup_ax.md3                done     Meyer        NQ          ETL      20.10.2013
 mortar_sd.tga                       missing                           pak0
-mortar_shell.md3                    missing                           pak0
+mortar_shell.md3                    done     Meyer        NQ          pak0     28.10.2013
+mortar_shell_ax.jpg                 done     Meyer        NQ          ETL      20.10.2013
+mortar_shell_ax.md3                 done     Meyer        NQ          ETL      20.10.2013
 mortar_shell_sd.jpg                 missing                           pak0
 v_mortar.md3                        missing                           pak0
+v_mortar_allied.skin                done     Meyer        NQ          ETL      20.10.2013
+v_mortar_ax.md3                     done     Meyer        NQ          ETL      20.10.2013
+v_mortar_ax_barrel6.md3             done     Meyer        NQ          ETL      20.10.2013
+v_mortar_axis.skin                  done     Meyer        NQ          ETL      20.10.2013
 v_mortar_barrel.md3                 missing                           pak0
 v_mortar_barrel2.md3                missing                           pak0
-v_mortar_barrel3.md3                missing                           pak0
-v_mortar_barrel4.md3                missing                           pak0
-v_mortar_barrel5.md3                missing                           pak0
+v_mortar_barrel3.md3                done     Meyer        NQ          pak0     20.10.2013
+v_mortar_barrel4.md3                done     Meyer        NQ          pak0     20.10.2013
+v_mortar_barrel5.md3                done     Meyer        NQ          pak0     20.10.2013
 v_mortar_barrel6.md3                missing                           pak0
 v_mortar_barrel7.md3                missing                           pak0
 v_mortar_hand.md3                   missing                           pak0
-weapon.cfg                          missing                           pak0
+weapon.cfg                          done     Meyer        NQ          pak0     27.03.2016
 =================================== ======== ============ =========== ======== ============= =============================
 
 
