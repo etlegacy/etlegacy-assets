@@ -2428,11 +2428,11 @@ mortar
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
 axis_mortar_pickup.md3              done     Meyer        NQ          ETL      20.10.2013
-mortar_3rd.md3                      done     Meyer        NQ          pak0     28.10.2013                           
+mortar_3rd.md3                      done     Meyer        NQ          pak0     28.10.2013
 mortar_3rd_allied.skin              done     Meyer        NQ          ETL      20.10.2013
 mortar_3rd_ax.md3                   done     Meyer        NQ          ETL      28.10.2013
 mortar_3rd_axis.skin                done     Meyer        NQ          ETL      28.10.2013
-mortar_3rda.md3                     done     Meyer        NQ          pak0     28.10.2013  
+mortar_3rda.md3                     done     Meyer        NQ          pak0     28.10.2013
 mortar_3rda_allied.skin             done     Meyer        NQ          ETL      20.10.2013
 mortar_3rda_ax.md3                  done     Meyer        NQ          ETL      20.10.2013
 mortar_3rda_axis.skin               done     Meyer        NQ          ETL      08.11.2013
@@ -2450,7 +2450,7 @@ mortar_barrel6_allied.skin 	      done     Meyer        NQ          ETL      20.
 mortar_barrel6_axis.skin 	         done     Meyer        NQ          ETL      20.10.2013
 mortar_barrel_allied.skin 	         done     Meyer        NQ          ETL      20.10.2013
 mortar_barrel_axis.skin             done     Meyer        NQ          ETL      20.10.2013
-mortar_pickup.md3                   done     Meyer        NQ          pak0     28.10.2013  
+mortar_pickup.md3                   done     Meyer        NQ          pak0     28.10.2013
 mortar_pickup_ax.md3                done     Meyer        NQ          ETL      20.10.2013
 mortar_sd.tga                       missing                           pak0
 mortar_shell.md3                    done     Meyer        NQ          pak0     28.10.2013
