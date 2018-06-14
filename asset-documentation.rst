@@ -813,17 +813,156 @@ maps
 =================================== ======== ============ =========== ======== ============= =============================
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
+0815_ctf_loc_override.dat           done     antman                   ETL      24.11.2012
+1944_beach_loc_override.dat         done     antman                   ETL      24.11.2012
+1944_cherbourg2_loc_override.dat    done     antman                   ETL      24.11.2012
+1944_cherbourg_loc_override.dat     done     antman                   ETL      24.11.2012
+1944_forest_loc_override.dat        done     antman                   ETL      24.11.2012
+1944_huertgen_loc_override.dat      done     antman                   ETL      24.11.2012
+1944_nordwind_loc_override.dat      done     antman                   ETL      24.11.2012
+1944_overlord_loc_override.dat      done     antman                   ETL      24.11.2012
+1944_siegfried_loc_override.dat     done     antman                   ETL      24.11.2012
+1v1dm_loc_override.dat              done     antman                   ETL      24.11.2012
+2hide_cal_r1_loc_override.dat       done     antman                   ETL      24.11.2012
+2hide_cal_r_loc_override.dat        done     antman                   ETL      24.11.2012
+2vs2_loc_override.dat               done     antman                   ETL      24.11.2012
+6flags_loc_override.dat             done     antman                   ETL      24.11.2012
+StarGate_1945_loc_override.dat      done     antman                   ETL      24.11.2012
+Stonehenge_KOTH_loc_override.dat    done     antman                   ETL      24.11.2012
+__bridges___loc_override.dat        done     antman                   ETL      24.11.2012
+adlerhorst_loc_override.dat         done     antman                   ETL      24.11.2012
+adlerhorst_te_loc_override.dat      done     antman                   ETL      24.11.2012
+adlernest_loc_override.dat          done     antman                   ETL      24.11.2012
+aim_twintowers_loc_override.dat     done     antman                   ETL      24.11.2012
+al_abbasi_loc_override.dat          done     antman                   ETL      24.11.2012
+al_kad_b3_loc_override.dat          done     antman                   ETL      24.11.2012
+alleys_loc_override.dat             done     antman                   ETL      24.11.2012
+alpine_assault_loc_override.dat     done     antman                   ETL      24.11.2012
+alps2_pb_loc_override.dat           done     antman                   ETL      24.11.2012
+ammodepot_loc_override.dat          done     antman                   ETL      24.11.2012
+apennines_b2_loc_override.dat       done     antman                   ETL      24.11.2012
+arhabeach_loc_override.dat          done     antman                   ETL      24.11.2012
+artic_gun_loc_override.dat          done     antman                   ETL      24.11.2012
+axis_complex_a3_2_loc_override.dat  done     antman                   ETL      24.11.2012
+axislab_final_loc_override.dat      done     antman                   ETL      24.11.2012
+axs_assault_b3_loc_override.dat     done     antman                   ETL      24.11.2012
+barrocas_base_b8_loc_override.dat   done     antman                   ETL      24.11.2012
+base12_b6_loc_override.dat          done     antman                   ETL      24.11.2012
+base47_loc_override.dat             done     antman                   ETL      24.11.2012
+base55_loc_override.dat             done     antman                   ETL      24.11.2012
+base_loc_override.dat               done     antman                   ETL      24.11.2012
+baserace_b1b_loc.dat                done     antman                   ETL      24.11.2012
+baserace_b3_loc_override.dat        done     antman                   ETL      24.11.2012
+baserace_b3a_loc_override.dat       done     antman                   ETL      24.11.2012
+baserace_b3c_loc_override.dat       done     antman                   ETL      24.11.2012
+baserace_loc_override.dat           done     antman                   ETL      24.11.2012
 battery.bsp                         missing                           pak0
 battery.objdata                     missing                           pak0
-battery.script                      missing                           pak0
+battery.script                      done     ETL                      pak0     10.03.2017
+battery_arena_loc_override.dat      done     antman                   ETL      24.11.2012
 battery_lms.objdata                 missing                           pak0
-battery_lms.script                  missing                           pak0
+battery_lms.script                  done     ETL                      pak0     06.03.2017
+battery_loc_override.dat            done     antman                   ETL      24.11.2012
+battery_recharged_loc_override.dat  done     antman                   ETL      24.11.2012
 battery_tracemap.tga                missing                           pak0
-fueldump.bsp                        missing                           pak0
+bazaar_loc_override.dat             done     antman                   ETL      24.11.2012
+beerrun_arena_twl_loc_override.dat  done     antman                   ETL      24.11.2012
+beerrun_b7a_loc_override.dat        done     antman                   ETL      24.11.2012
+bergen_loc_override.dat             done     antman                   ETL      24.11.2012
+braundorf_b4_loc_override.dat       done     antman                   ETL      24.11.2012
+braundorf_final_loc_override.dat    done     antman                   ETL      24.11.2012
+braundorf_loc_override.dat          done     antman                   ETL      24.11.2012
+breakout_loc_override.dat           done     antman                   ETL      24.11.2012
+bremen_b3_loc_override.dat          done     antman                   ETL      24.11.2012
+bremen_final_loc_override.dat       done     antman                   ETL      24.11.2012
+bridges_beta5_loc_override.dat      done     antman                   ETL      24.11.2012
+bulge_beta1_loc_override.dat        done     antman                   ETL      24.11.2012
+bunker_loc_override.dat             done     antman                   ETL      24.11.2012
+byzantine_loc_override.dat          done     antman                   ETL      24.11.2012
+bzz_drunk_loc_override.dat          done     antman                   ETL      24.11.2012
+c_t_g_loc_override.dat              done     antman                   ETL      24.11.2012
+caen2_loc_override.dat              done     antman                   ETL      24.11.2012
+caen3_loc_override.dat              done     antman                   ETL      24.11.2012
+caen_4_loc_override.dat             done     antman                   ETL      24.11.2012
+caen_loc_override.dat               done     antman                   ETL      24.11.2012
+caha_tavern_b2_loc_override.dat     done     antman                   ETL      24.11.2012
+canyon2_beta_loc_override.dat       done     antman                   ETL      24.11.2012
+canyonlake_loc_override.dat         done     antman                   ETL      24.11.2012
+capuzzo_b1_loc_override.dat         done     antman                   ETL      24.11.2012
+carnage2_loc_override.dat           done     antman                   ETL      24.11.2012
+castellum_final_loc_override.dat    done     antman                   ETL      24.11.2012
+castle_trap_loc_override.dat        done     antman                   ETL      24.11.2012
+castleattack_b5_loc_override.dat    done     antman                   ETL      24.11.2012
+cathedral_final_loc_override.dat    done     antman                   ETL      24.11.2012
+chaosth_loc_override.dat            done     antman                   ETL      24.11.2012
+chocojump1_3_loc_override.dat       done     antman                   ETL      24.11.2012
+citadel_loc_override.dat            done     antman                   ETL      24.11.2012
+coast_b1_loc_override.dat           done     antman                   ETL      24.11.2012
+colosseum_b5_loc_override.dat       done     antman                   ETL      24.11.2012
+crevasse_b3_loc_override.dat        done     antman                   ETL      24.11.2012
+ctf_bunker_loc_override.dat         done     antman                   ETL      24.11.2012
+ctf_face_b1_loc_override.dat        done     antman                   ETL      24.11.2012
+ctf_multi2_loc_override.dat         done     antman                   ETL      24.11.2012
+ctf_multi_loc_override.dat          done     antman                   ETL      24.11.2012
+ctf_sub_loc_override.dat            done     antman                   ETL      24.11.2012
+ctf_temple_b1_loc_override.dat      done     antman                   ETL      24.11.2012
+ctf_well_loc_override.dat           done     antman                   ETL      24.11.2012
+decerto_b1_loc_override.dat         done     antman                   ETL      24.11.2012
+decoder_beta4_loc_override.dat      done     antman                   ETL      24.11.2012
+decrypted2_b2_loc_override.dat      done     antman                   ETL      24.11.2012
+decrypted_loc_override.dat          done     antman                   ETL      24.11.2012
+denoflions_etdual_loc_override.dat  done     antman                   ETL      24.11.2012
+denoflions_etdualclear_loc_override done     antman                   ETL      24.11.2012
+desertfortress_loc_override.dat     done     antman                   ETL      24.11.2012
+dm_metro_te_loc_override.dat        done     antman                   ETL      24.11.2012
+doverbridge_final_loc_override.dat  done     antman                   ETL      24.11.2012
+ds_bunkers_b2_loc_override.dat      done     antman                   ETL      24.11.2012
+dubrovnik_etc_loc_override.dat      done     antman                   ETL      24.11.2012
+dubrovnik_final_loc_override.dat    done     antman                   ETL      24.11.2012
+duplex_towers_loc_override.dat      done     antman                   ETL      24.11.2012
+eagles_2ways_b3_loc_override.dat    done     antman                   ETL      24.11.2012
+el_kef_final_loc_override.dat       done     antman                   ETL      24.11.2012
+ennepedam_b1_loc_override.dat       done     antman                   ETL      24.11.2012
+erdenberg_b2_loc_override.dat       done     antman                   ETL      24.11.2012
+escape_final_loc_override.dat       done     antman                   ETL      24.11.2012
+et_beach_loc_override.dat           done     antman                   ETL      24.11.2012
+et_dam_b1_loc_override.dat          done     antman                   ETL      24.11.2012
+et_headshot_loc_override.dat        done     antman                   ETL      24.11.2012
+et_ice_loc_override.dat             done     antman                   ETL      24.11.2012
+et_mor2_loc_override.dat            done     antman                   ETL      24.11.2012
+et_mor2_night_loc_override.dat      done     antman                   ETL      24.11.2012
+et_ufo_final_loc_override.dat       done     antman                   ETL      24.11.2012
+et_village_loc_override.dat         done     antman                   ETL      24.11.2012
+etcenter_final_loc_override.dat     done     antman                   ETL      24.11.2012
+etsbay_loc_override.dat             done     antman                   ETL      24.11.2012
+exhumed_loc_override.dat            done     antman                   ETL      24.11.2012
+facility31_b1_loc_override.dat      done     antman                   ETL      24.11.2012
+falkenstein_b3_loc_override.dat     done     antman                   ETL      24.11.2012
+falkenstein_sw2_loc_override.dat    done     antman                   ETL      24.11.2012
+falkenstein_sw_loc_override.dat     done     antman                   ETL      24.11.2012
+fata_morgana_loc_override.dat       done     antman                   ETL      24.11.2012
+fatal_mill_loc_override.dat         done     antman                   ETL      24.11.2012
+field_hq_b4_loc_override.dat        done     antman                   ETL      24.11.2012
+flag_in_the_middle_loc_override.dat done     antman                   ETL      24.11.2012
+flak_loc_override.dat               done     antman                   ETL      24.11.2012
+flakstuff_final_loc_override.dat    done     antman                   ETL      24.11.2012
+flame-guards_loc_override.dat       done     antman                   ETL      24.11.2012
+fliegerhorst_2_loc_override.dat     done     antman                   ETL      24.11.2012
+fliegerhorst_loc_override.dat       done     antman                   ETL      24.11.2012
+fr_summer_b4_loc_override.dat       done     antman                   ETL      24.11.2012
+frost_beta3_loc_override.dat        done     antman                   ETL      24.11.2012
+frost_comp_b6_loc_override.dat      done     antman                   ETL      24.11.2012
+frost_final_loc_override.dat        done     antman                   ETL      24.11.2012
+frostbite_loc_override.dat          done     antman                   ETL      24.11.2012
+frosty_loc_override.dat             done     antman                   ETL      24.11.2012
+fueldump.bsp                        done     ETL                      pak0     10.03.2017
 fueldump.objdata                    missing                           pak0
 fueldump.script                     missing                           pak0
 fueldump_lms.objdata                missing                           pak0
-fueldump_lms.script                 missing                           pak0
+fueldump_lms.script                 done     ETL                      pak0     06.03.2017
+
+CONTINUE_HERE
+
 fueldump_tracemap.tga               missing                           pak0
 goldrush.bsp                        missing                           pak0
 goldrush.objdata                    missing                           pak0
