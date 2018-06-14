@@ -2496,7 +2496,7 @@ pliers_allied.skin                  missing                           pak0
 pliers_axis.skin                    missing                           pak0
 v_pliers.md3                        missing                           pak0
 v_pliers_hand.md3                   missing                           pak0
-weapon.cfg                          missing                           pak0
+weapon.cfg                          done     ETL                      pak0     27.03.2016
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -2523,7 +2523,7 @@ v_satchel.md3                       missing                           pak0
 v_satchel_barrel.md3                missing                           pak0
 v_satchel_barrel2.md3               missing                           pak0
 v_satchel_hand.md3                  missing                           pak0
-weapon.cfg                          missing                           pak0
+weapon.cfg                          done     ETL                      pak0     27.03.2016
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -2536,7 +2536,7 @@ File                                Status   Author       Resources   Origin   L
 clipboard.tga                       missing                           pak0
 paperstack.tga                      missing                           pak0
 paperstack2.jpg                     missing                           pak0
-secretdocs.md3                      missing                           pak0
+secretdocs.md3                      done     ETL                      pak0     05.01.2014
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -2556,7 +2556,7 @@ v_silencedcolt_barrel6.md3          missing                           pak0
 v_silencedcolt_barrel6.mdc          missing                           pak0
 v_silencedcolt_barrel7.mdc          missing                           pak0
 v_silencedcolt_hand.md3             missing                           pak0
-weapon.cfg                          missing                           pak0
+weapon.cfg                          done     ETL                      pak0     27.03.2016
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -2570,7 +2570,7 @@ smokebomb.mdc                       missing                           pak0
 smoke_bomb.tga                      missing                           pak0
 v_smokebomb.mdc                     missing                           pak0
 v_smokebomb_hand.mdc                missing                           pak0
-weapon.cfg                          missing                           pak0
+weapon.cfg                          done     ETL                      pak0     27.03.2016
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -2584,7 +2584,7 @@ smokegrenade.md3                    missing                           pak0
 smoke_grenade.tga                   missing                           pak0
 v_smokegrenade.md3                  missing                           pak0
 v_smokegrenade_hand.md3             missing                           pak0
-weapon.cfg                          missing                           pak0
+weapon.cfg                          done     ETL                      pak0     27.03.2016
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -2595,8 +2595,9 @@ supplies
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
 ammobox.tga                         missing                           pak0
-ammobox_2.tga                       missing                           pak0
+ammobox_2.tga                       done     Meyer        NQ          pak0     01.10.2013
 ammobox_wm.md3                      missing                           pak0
+cartridge.tga                       done     Meyer        NQ          ETL      01.10.2013
 healthbox.tga                       missing                           pak0
 healthbox_wm.md3                    missing                           pak0
 =================================== ======== ============ =========== ======== ============= =============================
@@ -2609,7 +2610,7 @@ syringe
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
 fluid.tga                           missing                           pak0
-fluid2.tga                          missing                           pak0
+fluid2.tga                          done     ETL                      pak0     02.12.2015
 fluid3.tga                          missing                           pak0
 plunger.tga                         missing                           pak0
 syringe.md3                         missing                           pak0
@@ -2710,6 +2711,7 @@ cvops
 =================================== ======== ============ =========== ======== ============= =============================
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
+body.gibs                           done     NQ                       ETL      14.01.2013
 body.mdm                            missing                           pak0
 body.tga                            missing                           pak0
 body_cvops.skin                     missing                           pak0
@@ -2723,6 +2725,7 @@ engineer
 =================================== ======== ============ =========== ======== ============= =============================
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
+body.gibs                           done     NQ                       ETL      14.01.2013
 body.mdm                            missing                           pak0
 body.tga                            missing                           pak0
 body_engineer.skin                  missing                           pak0
@@ -2748,6 +2751,7 @@ fieldops
 =================================== ======== ============ =========== ======== ============= =============================
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
+body.gibs                           done     NQ                       ETL      14.01.2013
 body.mdm                            missing                           pak0
 body.tga                            missing                           pak0
 body_fieldops.skin                  missing                           pak0
@@ -2772,6 +2776,7 @@ medic
 =================================== ======== ============ =========== ======== ============= =============================
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
+body.gibs                           done     NQ                       ETL      14.01.2013
 body.mdm                            missing                           pak0
 body.tga                            missing                           pak0
 body_medic.skin                     missing                           pak0
@@ -2797,6 +2802,7 @@ soldier
 =================================== ======== ============ =========== ======== ============= =============================
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
+body.gibs                           done     NQ                       ETL      14.01.2013
 body.mdm                            missing                           pak0
 body.tga                            missing                           pak0
 body_soldier.skin                   missing                           pak0
@@ -2841,6 +2847,7 @@ cvops
 =================================== ======== ============ =========== ======== ============= =============================
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
+body.gibs                           done     NQ                       ETL      14.01.2013
 body.mdm                            missing                           pak0
 body_cvops.skin                     missing                           pak0
 body_cvops.tga                      missing                           pak0
@@ -2866,6 +2873,7 @@ engineer
 =================================== ======== ============ =========== ======== ============= =============================
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
+body.gibs                           done     NQ                       ETL      14.01.2013
 body.mdm                            missing                           pak0
 body_engineer.jpg                   missing                           pak0
 body_engineer.skin                  missing                           pak0
@@ -2891,6 +2899,7 @@ fieldops
 =================================== ======== ============ =========== ======== ============= =============================
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
+body.gibs                           done     NQ                       ETL      14.01.2013
 body.mdm                            missing                           pak0
 body_fieldops.skin                  missing                           pak0
 body_fieldops.tga                   missing                           pak0
@@ -2916,6 +2925,7 @@ medic
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
 axis_medic.tga                      missing                           pak0
+body.gibs                           done     NQ                       ETL      14.01.2013
 body.mdm                            missing                           pak0
 body_medic.skin                     missing                           pak0
 helmet.tga                          missing                           pak0
@@ -2941,6 +2951,7 @@ soldier
 =================================== ======== ============ =========== ======== ============= =============================
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
+body.gibs                           done     NQ                       ETL      14.01.2013
 body.mdm                            missing                           pak0
 body_soldier.skin                   missing                           pak0
 body_soldier.tga                    missing                           pak0
@@ -2990,6 +3001,16 @@ rank10.tga                          missing                           pak0
 rank11.tga                          missing                           pak0
 rank_cap.md3                        missing                           pak0
 rank_helmet.md3                     missing                           pak0
+xrank10.tga                         done     ETL          NQ          pak0     01.10.2013
+xrank11.tga                         done     ETL          NQ          pak0     01.10.2013
+xrank2.tga                          done     ETL          NQ          pak0     01.10.2013
+xrank3.tga                          done     ETL          NQ          pak0     01.10.2013
+xrank4.tga                          done     ETL          NQ          pak0     01.10.2013
+xrank5.tga                          done     ETL          NQ          pak0     01.10.2013
+xrank6.tga                          done     ETL          NQ          pak0     01.10.2013
+xrank7.tga                          done     ETL          NQ          pak0     01.10.2013
+xrank8.tga                          done     ETL          NQ          pak0     01.10.2013
+xrank9.tga                          done     ETL          NQ          pak0     01.10.2013
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -3092,7 +3113,7 @@ v_akimbo_colt_barrel4.md3           missing                           pak0
 v_akimbo_colt_barrel5.md3           missing                           pak0
 v_akimbo_colt_flash.mdc             missing                           pak0
 v_akimbo_colt_hand.md3              missing                           pak0
-weapon.cfg                          missing                           pak0
+weapon.cfg                          done     ETL                      pak0     27.03.2016
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -3111,7 +3132,7 @@ v_akimbo_luger_barrel5.md3          missing                           pak0
 v_akimbo_luger_flash.mdc            missing                           pak0
 v_akimbo_luger_hand.md3             missing                           pak0
 v_akimbo_luger_silencer.md3         missing                           pak0
-weapon.cfg                          missing                           pak0
+weapon.cfg                          done     ETL                      pak0     27.03.2016
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -3125,6 +3146,30 @@ arm_allied.jpg                      missing                           pak0
 arm_axis.jpg                        missing                           pak0
 =================================== ======== ============ =========== ======== ============= =============================
 
+
+bazooka
+^^^^^^^
+
+=================================== ======== ============ =========== ======== ============= =============================
+File                                Status   Author       Resources   Origin   Last Updated  Notes
+=================================== ======== ============ =========== ======== ============= =============================
+bazooka.jpg                         done     Meyer        NQ          ETL      20.12.2013
+bazookaTube.jpg                     done     Meyer        NQ          ETL      20.12.2013
+bazookaTube_alpha.jpg               done     Meyer        NQ          ETL      20.12.2013
+bazooka_3rd.md3                     done     Meyer        NQ          ETL      20.12.2013
+bazooka_allied.skin                 done     Meyer        NQ          ETL      20.12.2013
+bazooka_alpha.jpg                   done     Meyer        NQ          ETL      20.12.2013
+bazooka_axis.skin                   done     Meyer        NQ          ETL      20.12.2013
+bazooka_pickup.md3                  done     Meyer        NQ          ETL      20.12.2013
+bazooka_rocket.md3                  done     Meyer        NQ          ETL      20.12.2013
+bazooka_stand.md3                   done     Meyer        NQ          ETL      20.12.2013
+v_bazooka.md3                       done     Meyer        NQ          ETL      20.12.2013
+v_bazooka_barrel.md3                done     Meyer        NQ          ETL      20.12.2013
+v_bazooka_hand.md3                  done     Meyer        NQ          ETL      20.12.2013
+weapon.cfg                          done     Meyer        NQ          ETL      27.03.2016
+=================================== ======== ============ =========== ======== ============= =============================
+
+CONTINUE HERE
 
 c4_dynamite
 ^^^^^^^^^^^
