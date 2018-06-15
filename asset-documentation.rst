@@ -3001,16 +3001,16 @@ rank10.tga                          missing                           pak0
 rank11.tga                          missing                           pak0
 rank_cap.md3                        missing                           pak0
 rank_helmet.md3                     missing                           pak0
-xrank10.tga                         done     ETL          NQ          pak0     01.10.2013
-xrank11.tga                         done     ETL          NQ          pak0     01.10.2013
-xrank2.tga                          done     ETL          NQ          pak0     01.10.2013
-xrank3.tga                          done     ETL          NQ          pak0     01.10.2013
-xrank4.tga                          done     ETL          NQ          pak0     01.10.2013
-xrank5.tga                          done     ETL          NQ          pak0     01.10.2013
-xrank6.tga                          done     ETL          NQ          pak0     01.10.2013
-xrank7.tga                          done     ETL          NQ          pak0     01.10.2013
-xrank8.tga                          done     ETL          NQ          pak0     01.10.2013
-xrank9.tga                          done     ETL          NQ          pak0     01.10.2013
+xrank10.tga                         done     ETL          NQ          ETL      14.06.2018
+xrank11.tga                         done     ETL          NQ          ETL      14.06.2018
+xrank2.tga                          done     ETL          NQ          ETL      14.06.2018
+xrank3.tga                          done     ETL          NQ          ETL      14.06.2018
+xrank4.tga                          done     ETL          NQ          ETL      14.06.2018
+xrank5.tga                          done     ETL          NQ          ETL      14.06.2018
+xrank6.tga                          done     ETL          NQ          ETL      14.06.2018
+xrank7.tga                          done     ETL          NQ          ETL      14.06.2018
+xrank8.tga                          done     ETL          NQ          ETL      14.06.2018
+xrank9.tga                          done     ETL          NQ          ETL      14.06.2018
 =================================== ======== ============ =========== ======== ============= =============================
 
 
