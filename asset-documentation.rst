@@ -25,7 +25,6 @@ Displays the status of the respective asset.
 *  **"obsolete"**: Deprecated assets from the original game that have been removed in Legacy.
 *  **"missing"**: Assets from the original game that still need to be replaced in Legacy.
 *  **"done"**: Assets that have been replaced already and are in a satisfactory state.
-*  **"alpha"**: Assets that have been included as placeholders. To be improved at a later date.
 *  **"beta"**: Assets that have been improved, but are likely still subject to change.
 
 
@@ -51,7 +50,7 @@ The origin of an asset is intended to show where it comes from and why it is par
 *  **"pak0"**, **"pak1"**, **"pak2"**: Assets from the original game that had to be replaced for license purposes.
 *  **"shader"**: Assets that were specified in shader files in the original game, but had no actual appearance. Rather than removing the shader files, to avoid compatibility issues, the missing assets have been restored.
 *  **"[MAP_NAME]"**: Assets that are used in a custom map shipped with Legacy.
-*  **"ETL"**: Assets created exclusively for Legacy for various purposes.
+*  **"ETL"**: Assets not part of the original game, which have been introduced in ETL for various reasons.
 *  **"RtCW"**: Due to the similar style, various RtCW assets might be reconstructed and included in Legacy to provide a larger pool for mappers, modders, etc.
 
 
@@ -2452,11 +2451,11 @@ mortar_barrel_allied.skin           done     Meyer        NQ          ETL      2
 mortar_barrel_axis.skin             done     Meyer        NQ          ETL      20.10.2013
 mortar_pickup.md3                   done     Meyer        NQ          pak0     28.10.2013
 mortar_pickup_ax.md3                done     Meyer        NQ          ETL      20.10.2013
-mortar_sd.tga                       missing                           pak0
+mortar_sd.tga                       obsolete                          pak0
 mortar_shell.md3                    done     Meyer        NQ          pak0     28.10.2013
 mortar_shell_ax.jpg                 done     Meyer        NQ          ETL      20.10.2013
 mortar_shell_ax.md3                 done     Meyer        NQ          ETL      20.10.2013
-mortar_shell_sd.jpg                 missing                           pak0
+mortar_shell_sd.jpg                 obsolete                          pak0
 v_mortar.md3                        missing                           pak0
 v_mortar_allied.skin                done     Meyer        NQ          ETL      20.10.2013
 v_mortar_ax.md3                     done     Meyer        NQ          ETL      20.10.2013
@@ -3169,7 +3168,25 @@ v_bazooka_hand.md3                  done     Meyer        NQ          ETL      2
 weapon.cfg                          done     Meyer        NQ          ETL      27.03.2016
 =================================== ======== ============ =========== ======== ============= =============================
 
-CONTINUE HERE
+
+browning
+^^^^^^^^
+
+=================================== ======== ============ =========== ======== ============= =============================
+File                                Status   Author       Resources   Origin   Last Updated  Notes
+=================================== ======== ============ =========== ======== ============= =============================
+biped.tga                           done     Meyer        NQ          ETL      01.10.2013
+brown30cal_3rd.md3                  done     Meyer        NQ          ETL      01.10.2013
+brown30cal_3rd_bipod.md3            done     Meyer        NQ          ETL      01.10.2013
+brown30cal_pickup.md3               done     Meyer        NQ          ETL      01.10.2013
+v_brown30cal.md3                    done     Meyer        NQ          ETL      01.10.2013
+v_brown30cal_barrel2.md3            done     Meyer        NQ          ETL      01.10.2013
+v_brown30cal_barrel3.md3            done     Meyer        NQ          ETL      01.10.2013
+v_brown30cal_barrel4.md3            done     Meyer        NQ          ETL      01.10.2013
+v_brown30cal_barrel5.md3            done     Meyer        NQ          ETL      01.10.2013
+v_brown30cal_hand.md3               done     Meyer        NQ          ETL      01.10.2013
+=================================== ======== ============ =========== ======== ============= =============================
+
 
 c4_dynamite
 ^^^^^^^^^^^
@@ -3200,7 +3217,7 @@ v_colt_barrel4.mdc                  missing                           pak0
 v_colt_barrel5.mdc                  missing                           pak0
 v_colt_flash.mdc                    missing                           pak0
 v_colt_hand.mdc                     missing                           pak0
-weapon.cfg                          missing                           pak0
+weapon.cfg                          done     ETL                      pak0     27.03.2016
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -3213,7 +3230,7 @@ File                                Status   Author       Resources   Origin   L
 v_dynamite.mdc                      missing                           pak0
 v_dynamite_barrel.mdc               missing                           pak0
 v_dynamite_hand.mdc                 missing                           pak0
-weapon.cfg                          missing                           pak0
+weapon.cfg                          done     ETL                      pak0     27.03.2016
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -3235,7 +3252,7 @@ v_fg42_barrel3.mdc                  missing                           pak0
 v_fg42_barrel4.mdc                  missing                           pak0
 v_fg42_flash.mdc                    missing                           pak0
 v_fg42_hand.mdc                     missing                           pak0
-weapon.cfg                          missing                           pak0
+weapon.cfg                          done     ETL                      pak0     27.03.2016
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -3252,7 +3269,7 @@ pu_flamethrower.mdc                 missing                           pak0
 ss_flamethrower.mdc                 missing                           pak0
 v_flamethrower.mdc                  missing                           pak0
 v_flamethrower_hand.mdc             missing                           pak0
-weapon.cfg                          missing                           pak0
+weapon.cfg                          done     ETL                      pak0     27.03.2016
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -3274,7 +3291,7 @@ v_grenade_hand.mdc                  missing                           pak0
 v_pineapple.mdc                     missing                           pak0
 v_pineapple_barrel.mdc              missing                           pak0
 v_pineapple_hand.mdc                missing                           pak0
-weapon.cfg                          missing                           pak0
+weapon.cfg                          done     ETL                      pak0     27.03.2016
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -3286,6 +3303,22 @@ File                                Status   Author       Resources   Origin   L
 =================================== ======== ============ =========== ======== ============= =============================
 arm2.jpg                            missing                           pak0
 knife_yd.tga                        missing                           pak0
+=================================== ======== ============ =========== ======== ============= =============================
+
+
+knife_kbar
+^^^^^^^^^^
+
+=================================== ======== ============ =========== ======== ============= =============================
+File                                Status   Author       Resources   Origin   Last Updated  Notes
+=================================== ======== ============ =========== ======== ============= =============================
+knife.md3                           done     Meyer        NQ          ETL      26.09.2013
+knife_allied.skin                   done     Meyer        NQ          ETL      26.09.2013
+knife_axis.skin                     done     Meyer        NQ          ETL      26.09.2013
+knife_throw.md3                     done     Meyer        NQ          ETL      26.09.2013
+knife_yd.jpg                        done     Meyer        NQ          ETL      26.09.2013
+knife_yd_alpha.jpg                  done     Meyer        NQ          ETL      26.09.2013
+v_knife_barrel.md3                  done     Meyer        NQ          ETL      26.09.2013
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -3307,7 +3340,7 @@ v_luger_barrel3.mdc                 missing                           pak0
 v_luger_barrel4.mdc                 missing                           pak0
 v_luger_flash.mdc                   missing                           pak0
 v_luger_hand.mdc                    missing                           pak0
-weapon.cfg                          missing                           pak0
+weapon.cfg                          done     ETL                      pak0     27.03.2016
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -3354,7 +3387,7 @@ v_mp40_barrel2.mdc                  missing                           pak0
 v_mp40_barrel3.mdc                  missing                           pak0
 v_mp40_flash.mdc                    missing                           pak0
 v_mp40_hand.mdc                     missing                           pak0
-weapon.cfg                          missing                           pak0
+weapon.cfg                          done     ETL                      pak0     27.03.2016
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -3377,7 +3410,7 @@ v_pf_barrel4.mdc                    missing                           pak0
 v_pf_barrel5.mdc                    missing                           pak0
 v_pf_flash.mdc                      missing                           pak0
 v_pf_hand.mdc                       missing                           pak0
-weapon.cfg                          missing                           pak0
+weapon.cfg                          done     ETL                      pak0     27.03.2016
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -3420,7 +3453,7 @@ v_silencer_barrel4.mdc              missing                           pak0
 v_silencer_barrel5.mdc              missing                           pak0
 v_silencer_barrel6.mdc              missing                           pak0
 v_silencer_hand.mdc                 missing                           pak0
-weapon.cfg                          missing                           pak0
+weapon.cfg                          done     ETL                      pak0     27.03.2016
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -3439,7 +3472,7 @@ v_sten_barrel.mdc                   missing                           pak0
 v_sten_barrel2.mdc                  missing                           pak0
 v_sten_barrel3.mdc                  missing                           pak0
 v_sten_hand.mdc                     missing                           pak0
-weapon.cfg                          missing                           pak0
+weapon.cfg                          done     ETL                      pak0     27.03.2016
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -3461,7 +3494,7 @@ v_thompson_barrel2.mdc              missing                           pak0
 v_thompson_barrel3.mdc              missing                           pak0
 v_thompson_flash.mdc                missing                           pak0
 v_thompson_hand.mdc                 missing                           pak0
-weapon.cfg                          missing                           pak0
+weapon.cfg                          done     ETL                      pak0     27.03.2016
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -3516,6 +3549,8 @@ gfx_misc.shader                     missing                           pak0
 goldrush.arena                      missing                           pak0
 goldrush.shader                     missing                           pak0
 icons.shader                        missing                           pak0
+legacy.shader                       done     ETL                      ETL      24.02.2018
+legacy_ui_assets.shader             done     ETL                      ETL      18.10.2013
 levelshots.shader                   missing                           pak0
 lights.shader                       missing                           pak0
 liquids.shader                      missing                           pak0
