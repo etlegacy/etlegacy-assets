@@ -5047,7 +5047,7 @@ k43_grenade_fly.wav                 missing                           pak0
 k43_grenade_off.wav                 missing                           pak0
 k43_grenade_on.wav                  missing                           pak0
 k43_reload.wav                      missing                           pak0
-k43_reload_grenade.wav              missing                           pak0
+k43_reload_grenade.wav              obsolete                          pak0                   unused
 =================================== ======== ============ =========== ======== ============= =============================
 
 
