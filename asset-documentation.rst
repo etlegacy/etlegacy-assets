@@ -2182,7 +2182,7 @@ adrenaline_allied.skin              missing                           pak0
 adrenaline_axis.skin                missing                           pak0
 v_adrenaline.md3                    missing                           pak0
 v_adrenaline_hand.md3               missing                           pak0
-weapon.cfg                          missing                           pak0
+weapon.cfg                          done     ETL                      pak0     24/07/2019
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -2211,7 +2211,7 @@ binocs.md3                          missing                           pak0
 binoculars.tga                      missing                           pak0
 v_binocs.md3                        missing                           pak0
 v_binocs_hand.md3                   missing                           pak0
-weapon.cfg                          missing                           pak0
+weapon.cfg                          done     ETL                      pak0     24/07/2019
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -2292,8 +2292,8 @@ v_kar98_hand2.md3                   missing                           pak0
 v_kar98_scope.md3                   missing                           pak0
 v_kar98_scope2.mdc                  missing                           pak0
 v_kar98_silencer.md3                missing                           pak0
-weapon.cfg                          missing                           pak0
-weapon2.cfg                         done     ETL                      pak0     27.03.2016
+weapon.cfg                          done     ETL                      pak0     24/07/2019
+weapon2.cfg                         done     ETL                      pak0     24/07/2019
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -2359,8 +2359,8 @@ v_m1_garand_hand2.md3               missing                           pak0
 v_m1_garand_scope.md3               missing                           pak0
 v_m1_garand_scope2.md3              missing                           pak0
 v_m1_garand_silencer.md3            missing                           pak0
-weapon.cfg                          missing                           pak0
-weapon2.cfg                         missing                           pak0
+weapon.cfg                          done     ETL                      pak0     24/07/2019
+weapon2.cfg                         done     ETL                      pak0     24/07/2019
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -2620,7 +2620,7 @@ syringe_reflections.tga             missing                           pak0
 v_syringe.md3                       missing                           pak0
 v_syringe_barrel.md3                missing                           pak0
 v_syringe_hand.md3                  missing                           pak0
-weapon.cfg                          missing                           pak0
+weapon.cfg                          done     ETL                      pak0     24/07/2019
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -2675,7 +2675,7 @@ blood02.skin                        missing                           pak0
 blood02.tga                         missing                           pak0
 blood03.skin                        missing                           pak0
 blood03.tga                         missing                           pak0
- blood04.skin                       missing                           pak0
+blood04.skin                        missing                           pak0
 blood04.tga                         missing                           pak0
 =================================== ======== ============ =========== ======== ============= =============================
 
@@ -6871,44 +6871,52 @@ weapons
 =================================== ======== ============ =========== ======== ============= =============================
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
-adrenaline.weap
-akimbo_colt.weap
-akimbo_luger.weap
-akimbo_silenced_colt.weap
-akimbo_silenced_luger.weap
-ammopack.weap
-binocs.weap
-colt.weap
-dynamite.weap
-fg42.weap
-flamethrower.weap
-gpg40.weap
-grenade.weap
-k43.weap
-kar98.weap
-knife.weap
-landmine.weap
-luger.weap
-m1_garand.weap
-m1_garand_s.weap
-m7.weap
-mapmortar.weap
-medpack.weap
-mg42.weap
-mortar.weap
-mortar_set.weap
-mp40.weap
-panzerfaust.weap
-pineapple.weap
-pliers.weap
-satchel.weap
-satchel_det.weap
-silenced_colt.weap
-silenced_luger.weap
-smokegrenade.weap
-smokemarker.weap
-smoketrail.weap
-sten.weap
-syringe.weap
-thompson.weap
+adrenaline.weap                     done     ETL                      pak0     20/07/2019
+airstrike.weap                      done     ETL          ETL         ETL      31/05/2019    
+akimbo_colt.weap                    done     ETL                      pak0     20/07/2019
+akimbo_luger.weap                   done     ETL                      pak0     20/07/2019
+akimbo_silenced_colt.weap           done     ETL                      pak0     20/07/2019
+akimbo_silenced_luger.weap          done     ETL                      pak0     20/07/2019
+ammopack.weap                       done     ETL                      pak0     20/07/2019
+arty.weap                           done     ETL          ETL         ETL      31/05/2019    
+axis_mortar.weap                    done     ETL          NQ          ETL      20/07/2019    
+axis_mortar_set.weap                done     ETL          NQ          ETL      20/07/2019    
+bazooka.weap                        done     ETL          NQ          ETL      20/07/2019    
+browning.weap                       done     ETL          NQ          ETL      20/07/2019    
+binocs.weap                         done     ETL                      pak0     20/07/2019
+colt.weap                           done     ETL                      pak0     20/07/2019
+dynamite.weap                       done     ETL                      pak0     20/07/2019
+fg42.weap                           done     ETL                      pak0     20/07/2019
+flamethrower.weap                   done     ETL                      pak0     20/07/2019
+gpg40.weap                          done     ETL                      pak0     20/07/2019
+grenade.weap                        done     ETL                      pak0     20/07/2019
+k43.weap                            done     ETL                      pak0     20/07/2019
+kar98.weap                          done     ETL                      pak0     20/07/2019
+knife.weap                          done     ETL                      pak0     20/07/2019
+knife_kbar.weap                     done     ETL          NQ          ETL      20/07/2019    
+landmine.weap                       done     ETL                      pak0     20/07/2019
+luger.weap                          done     ETL                      pak0     20/07/2019
+m1_garand.weap                      done     ETL                      pak0     20/07/2019
+m1_garand_s.weap                    done     ETL                      pak0     20/07/2019
+m7.weap                             done     ETL                      pak0     20/07/2019
+mapmortar.weap                      done     ETL                      pak0     31/05/2019
+medpack.weap                        done     ETL                      pak0     20/07/2019
+mg42.weap                           done     ETL                      pak0     20/07/2019
+mortar.weap                         done     ETL                      pak0     20/07/2019
+mortar_set.weap                     done     ETL                      pak0     20/07/2019
+mp34.weap                           done     ETL          NQ          ETL      20/07/2019    
+mp40.weap                           done     ETL                      pak0     20/07/2019
+panzerfaust.weap                    done     ETL                      pak0     20/07/2019
+pineapple.weap                      done     ETL                      pak0     20/07/2019
+pliers.weap                         done     ETL                      pak0     20/07/2019
+satchel.weap                        done     ETL                      pak0     20/07/2019
+satchel_det.weap                    done     ETL                      pak0     20/07/2019
+silenced_colt.weap                  done     ETL                      pak0     20/07/2019
+silenced_luger.weap                 done     ETL                      pak0     20/07/2019
+smokegrenade.weap                   done     ETL                      pak0     20/07/2019
+smokemarker.weap                    done     ETL                      pak0     20/07/2019
+smoketrail.weap                     done     ETL                      pak0     20/09/2015
+sten.weap                           done     ETL                      pak0     20/07/2019
+syringe.weap                        done     ETL                      pak0     20/07/2019
+thompson.weap                       done     ETL                      pak0     20/07/2019
 =================================== ======== ============ =========== ======== ============= =============================
