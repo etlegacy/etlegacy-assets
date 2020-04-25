@@ -1636,16 +1636,16 @@ cmarker
 =================================== ======== ============ =========== ======== ============= =============================
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
-allied_cflag.skin                   missing                           pak0
+allied_cflag.skin                   done     ETL                      pak0     25/04/2020
 allied_crate.tga                    missing                           pak0
-allied_crates.skin                  missing                           pak0
+allied_crates.skin                  done     ETL                      pak0     25/04/2020
 allied_sack.tga                     missing                           pak0
-allied_sandbags.skin                missing                           pak0
-axis_cflag.skin                     missing                           pak0
+allied_sandbags.skin                done     ETL                      pak0     25/04/2020
+axis_cflag.skin                     done     ETL                      pak0     25/04/2020
 axis_crate.tga                      missing                           pak0
-axis_crates.skin                    missing                           pak0
+axis_crates.skin                    done     ETL                      pak0     25/04/2020
 axis_sack.tga                       missing                           pak0
-axis_sandbags.skin                  missing                           pak0
+axis_sandbags.skin                  done     ETL                      pak0     25/04/2020
 box_m05.tga                         missing                           pak0
 cflagallied.tga                     missing                           pak0
 cflagaxis.tga                       missing                           pak0
@@ -1653,9 +1653,9 @@ cflagneutral.tga                    missing                           pak0
 cmarker_crates.md3                  missing                           pak0
 cmarker_flag.md3                    missing                           pak0
 cmarker_sandbags.md3                missing                           pak0
-neutral_cflag.skin                  missing                           pak0
+neutral_cflag.skin                  done     ETL                      pak0     25/04/2020
 neutral_crate.tga                   missing                           pak0
-neutral_crates.skin                 missing                           pak0
+neutral_crates.skin                 done     ETL                      pak0     25/04/2020
 shovel.tga                          missing                           pak0
 =================================== ======== ============ =========== ======== ============= =============================
 
@@ -1911,19 +1911,19 @@ command5.tga                        missing                           pak0
 command6.tga                        missing                           pak0
 command7.tga                        missing                           pak0
 compostalliedclosed.md3             missing                           pak0
-compostalliedclosed.skin            missing                           pak0
+compostalliedclosed.skin            done     ETL                      pak0     25/04/2020
 compostallieddamaged.md3            missing                           pak0
-compostallieddamaged.skin           missing                           pak0
+compostallieddamaged.skin           done     ETL                      pak0     25/04/2020
 compostalliedopened.md3             missing                           pak0
-compostalliedopened.skin            missing                           pak0
+compostalliedopened.skin            done     ETL                      pak0     25/04/2020
 compostaxisclosed.md3               missing                           pak0
-compostaxisclosed.skin              missing                           pak0
+compostaxisclosed.skin              done     ETL                      pak0     25/04/2020
 compostaxisdamaged.md3              missing                           pak0
-compostaxisdamaged.skin             missing                           pak0
+compostaxisdamaged.skin             done     ETL                      pak0     25/04/2020
 compostaxisopened.md3               missing                           pak0
-compostaxisopened.skin              missing                           pak0
+compostaxisopened.skin              done     ETL                      pak0     25/04/2020
 compostneutralclosed.md3            missing                           pak0
-compostneutralclosed.skin           missing                           pak0
+compostneutralclosed.skin           done     ETL                      pak0     25/04/2020
 crate.tga                           missing                           pak0
 grid.tga                            missing                           pak0
 iron.tga                            missing                           pak0
@@ -2178,8 +2178,8 @@ adrenaline
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
 adrenaline.md3                      missing                           pak0
-adrenaline_allied.skin              missing                           pak0
-adrenaline_axis.skin                missing                           pak0
+adrenaline_allied.skin              done     ETL                      pak0     25/04/2020
+adrenaline_axis.skin                done     ETL                      pak0     25/04/2020
 v_adrenaline.md3                    missing                           pak0
 v_adrenaline_hand.md3               missing                           pak0
 weapon.cfg                          done     ETL                      pak0     24/07/2019
@@ -2275,7 +2275,7 @@ kar98_3rd.md3                       missing                           pak0
 kar98_3rd_flash.mdc                 missing                           pak0
 kar98_allied.skin                   missing                           pak0
 kar98_att.md3                       missing                           pak0
-kar98_axis.skin                     missing                           pak0
+kar98_axis.skin                     done     ETL                      pak0     25/04/2020
 kar98_gren_pickup.md3               missing                           pak0
 kar98_scope_pickup.md3              missing                           pak0
 kar98_scp.md3                       missing                           pak0
@@ -2304,8 +2304,8 @@ knife
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
 knife.mdc                           missing                           pak0
-knife_allied.skin                   missing                           pak0
-knife_axis.skin                     missing                           pak0
+knife_allied.skin                   done     ETL                      pak0     25/04/2020
+knife_axis.skin                     done     ETL                      pak0     25/04/2020
 v_knife.md3                         missing                           pak0
 v_knife_barrel.md3                  missing                           pak0
 v_knife_hand.md3                    missing                           pak0
@@ -2337,7 +2337,9 @@ m1garandscope_yd.tga                missing                           pak0
 m1garandsilencer_yd.tga             missing                           pak0
 m1_garand_3rd.md3                   missing                           pak0
 m1_garand_3rd_flash.mdc             missing                           pak0
+m1_garand_allied.skin               done     ETL          ETL         ETL      25/04/2020
 m1_garand_att.md3                   missing                           pak0
+m1_garand_axis.skin                 done     ETL          ETL         ETL      25/04/2020
 m1_garand_gren_pickup.md3           missing                           pak0
 m1_garand_prj.md3                   missing                           pak0
 m1_garand_scope_pickup.md3          missing                           pak0
@@ -2390,8 +2392,8 @@ mg42.md3                            missing                           pak0
 mg42_3rd.md3                        missing                           pak0
 mg42_3rd_bipod.md3                  missing                           pak0
 mg42_3rd_flash.mdc                  missing                           pak0
-mg42_allied.skin                    missing                           pak0
-mg42_axis.skin                      missing                           pak0
+mg42_allied.skin                    done     ETL                      pak0     25/04/2020
+mg42_axis.skin                      done     ETL                      pak0     25/04/2020
 mg42_pickup.md3                     missing                           pak0
 s_mg42.tga                          missing                           pak0
 v_mg42.md3                          missing                           pak0
@@ -2491,8 +2493,8 @@ File                                Status   Author       Resources   Origin   L
 =================================== ======== ============ =========== ======== ============= =============================
 pliers.md3                          missing                           pak0
 pliers.tga                          missing                           pak0
-pliers_allied.skin                  missing                           pak0
-pliers_axis.skin                    missing                           pak0
+pliers_allied.skin                  done     ETL                      pak0     25/04/2020
+pliers_axis.skin                    done     ETL                      pak0     25/04/2020
 v_pliers.md3                        missing                           pak0
 v_pliers_hand.md3                   missing                           pak0
 weapon.cfg                          done     ETL                      pak0     27.03.2016
@@ -2513,9 +2515,9 @@ needle.md3                          missing                           pak0
 radio.md3                           missing                           pak0
 radio.tga                           missing                           pak0
 satchel.md3                         missing                           pak0
-satchel_allied.skin                 missing                           pak0
+satchel_allied.skin                 done     ETL                      pak0     25/04/2020
 satchel_allied.tga                  missing                           pak0
-satchel_axis.skin                   missing                           pak0
+satchel_axis.skin                   done     ETL                      pak0     25/04/2020
 satchel_axis.tga                    missing                           pak0
 satchel_world.md3                   missing                           pak0
 v_satchel.md3                       missing                           pak0
@@ -2614,8 +2616,8 @@ fluid3.tga                          missing                           pak0
 plunger.tga                         missing                           pak0
 syringe.md3                         missing                           pak0
 syringe.tga                         missing                           pak0
-syringe_allied.skin                 missing                           pak0
-syringe_axis.skin                   missing                           pak0
+syringe_allied.skin                 done     ETL                      pak0     25/04/2020
+syringe_axis.skin                   done     ETL                      pak0     25/04/2020
 syringe_reflections.tga             missing                           pak0
 v_syringe.md3                       missing                           pak0
 v_syringe_barrel.md3                missing                           pak0
@@ -2634,25 +2636,25 @@ hud
 =================================== ======== ============ =========== ======== ============= =============================
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
-allied_cvops.skin                   missing                           pak0
+allied_cvops.skin                   done     ETL                      pak0     25/04/2020
 allied_cvops.tga                    missing                           pak0
-allied_engineer.skin                missing                           pak0
+allied_engineer.skin                done     ETL                      pak0     25/04/2020
 allied_engineer.tga                 missing                           pak0
-allied_field.skin                   missing                           pak0
+allied_field.skin                   done     ETL                      pak0     25/04/2020
 allied_field.tga                    missing                           pak0
-allied_medic.skin                   missing                           pak0
+allied_medic.skin                   done     ETL                      pak0     25/04/2020
 allied_medic.tga                    missing                           pak0
-allied_soldier.skin                 missing                           pak0
+allied_soldier.skin                 done     ETL                      pak0     25/04/2020
 allied_soldier.tga                  missing                           pak0
-axis_cvops.skin                     missing                           pak0
+axis_cvops.skin                     done     ETL                      pak0     25/04/2020
 axis_cvops.tga                      missing                           pak0
-axis_engineer.skin                  missing                           pak0
+axis_engineer.skin                  done     ETL                      pak0     25/04/2020
 axis_engineer.tga                   missing                           pak0
-axis_field.skin                     missing                           pak0
+axis_field.skin                     done     ETL                      pak0     25/04/2020
 axis_field.tga                      missing                           pak0
-axis_medic.skin                     missing                           pak0
+axis_medic.skin                     done     ETL                      pak0     25/04/2020
 axis_medic.tga                      missing                           pak0
-axis_soldier.skin                   missing                           pak0
+axis_soldier.skin                   done     ETL                      pak0     25/04/2020
 axis_soldier.tga                    missing                           pak0
 eye01.tga                           missing                           pak0
 eye02.tga                           missing                           pak0
@@ -2669,13 +2671,13 @@ damagedskins
 =================================== ======== ============ =========== ======== ============= =============================
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
-blood01.skin                        missing                           pak0
+blood01.skin                        done     ETL                      pak0     25/04/2020
 blood01.tga                         missing                           pak0
-blood02.skin                        missing                           pak0
+blood02.skin                        done     ETL                      pak0     25/04/2020
 blood02.tga                         missing                           pak0
-blood03.skin                        missing                           pak0
+blood03.skin                        done     ETL                      pak0     25/04/2020
 blood03.tga                         missing                           pak0
-blood04.skin                        missing                           pak0
+blood04.skin                        done     ETL                      pak0     25/04/2020
 blood04.tga                         missing                           pak0
 =================================== ======== ============ =========== ======== ============= =============================
 
@@ -2691,14 +2693,14 @@ allied
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
 cap.md3                             missing                           pak0
-cap_cvops.skin                      missing                           pak0
+cap_cvops.skin                      done     ETL                      pak0     25/04/2020
 helmet.md3                          missing                           pak0
 helmet_1.md3                        missing                           pak0
 helmet_2.md3                        missing                           pak0
-helmet_engineer.skin                missing                           pak0
-helmet_fieldops.skin                missing                           pak0
-helmet_medic.skin                   missing                           pak0
-helmet_soldier.skin                 missing                           pak0
+helmet_engineer.skin                done     ETL                      pak0     25/04/2020
+helmet_fieldops.skin                done     ETL                      pak0     25/04/2020
+helmet_medic.skin                   done     ETL                      pak0     25/04/2020
+helmet_soldier.skin                 done     ETL                      pak0     25/04/2020
 inside.tga                          missing                           pak0
 leg01.tga                           missing                           pak0
 =================================== ======== ============ =========== ======== ============= =============================
@@ -2713,7 +2715,7 @@ File                                Status   Author       Resources   Origin   L
 body.gibs                           done     NQ                       ETL      14.01.2013
 body.mdm                            missing                           pak0
 body.tga                            missing                           pak0
-body_cvops.skin                     missing                           pak0
+body_cvops.skin                     done     ETL                      pak0     25/04/2020
 cap.tga                             missing                           pak0
 =================================== ======== ============ =========== ======== ============= =============================
 
@@ -2727,7 +2729,7 @@ File                                Status   Author       Resources   Origin   L
 body.gibs                           done     NQ                       ETL      14.01.2013
 body.mdm                            missing                           pak0
 body.tga                            missing                           pak0
-body_engineer.skin                  missing                           pak0
+body_engineer.skin                  done     ETL                      pak0     25/04/2020
 helmet.tga                          missing                           pak0
 =================================== ======== ============ =========== ======== ============= =============================
 
@@ -2753,7 +2755,7 @@ File                                Status   Author       Resources   Origin   L
 body.gibs                           done     NQ                       ETL      14.01.2013
 body.mdm                            missing                           pak0
 body.tga                            missing                           pak0
-body_fieldops.skin                  missing                           pak0
+body_fieldops.skin                  done     ETL                      pak0     25/04/2020
 helmet.tga                          missing                           pak0
 =================================== ======== ============ =========== ======== ============= =============================
 
@@ -2778,7 +2780,7 @@ File                                Status   Author       Resources   Origin   L
 body.gibs                           done     NQ                       ETL      14.01.2013
 body.mdm                            missing                           pak0
 body.tga                            missing                           pak0
-body_medic.skin                     missing                           pak0
+body_medic.skin                     done     ETL                      pak0     25/04/2020
 helmet.tga                          missing                           pak0
 =================================== ======== ============ =========== ======== ============= =============================
 
@@ -2804,7 +2806,7 @@ File                                Status   Author       Resources   Origin   L
 body.gibs                           done     NQ                       ETL      14.01.2013
 body.mdm                            missing                           pak0
 body.tga                            missing                           pak0
-body_soldier.skin                   missing                           pak0
+body_soldier.skin                   done     ETL                      pak0     25/04/2020
 helmet.tga                          missing                           pak0
 =================================== ======== ============ =========== ======== ============= =============================
 
@@ -2828,13 +2830,13 @@ File                                Status   Author       Resources   Origin   L
 =================================== ======== ============ =========== ======== ============= =============================
 body01.jpg                          missing                           pak0
 cap.md3                             missing                           pak0
-cap_cvops.skin                      missing                           pak0
+cap_cvops.skin                      done     ETL                      pak0     25/04/2020
 helmet.md3                          missing                           pak0
 helmet_1.md3                        missing                           pak0
-helmet_engineer.skin                missing                           pak0
-helmet_fieldops.skin                missing                           pak0
-helmet_medic.skin                   missing                           pak0
-helmet_soldier.skin                 missing                           pak0
+helmet_engineer.skin                done     ETL                      pak0     25/04/2020
+helmet_fieldops.skin                done     ETL                      pak0     25/04/2020
+helmet_medic.skin                   done     ETL                      pak0     25/04/2020
+helmet_soldier.skin                 done     ETL                      pak0     25/04/2020
 inside.tga                          missing                           pak0
 legs01.tga                          missing                           pak0
 =================================== ======== ============ =========== ======== ============= =============================
@@ -2848,7 +2850,7 @@ File                                Status   Author       Resources   Origin   L
 =================================== ======== ============ =========== ======== ============= =============================
 body.gibs                           done     NQ                       ETL      14.01.2013
 body.mdm                            missing                           pak0
-body_cvops.skin                     missing                           pak0
+body_cvops.skin                     done     ETL                      pak0     25/04/2020
 body_cvops.tga                      missing                           pak0
 cap.tga                             missing                           pak0
 =================================== ======== ============ =========== ======== ============= =============================
@@ -2875,7 +2877,7 @@ File                                Status   Author       Resources   Origin   L
 body.gibs                           done     NQ                       ETL      14.01.2013
 body.mdm                            missing                           pak0
 body_engineer.jpg                   missing                           pak0
-body_engineer.skin                  missing                           pak0
+body_engineer.skin                  done     ETL                      pak0     25/04/2020
 helmet.tga                          missing                           pak0
 =================================== ======== ============ =========== ======== ============= =============================
 
@@ -2900,7 +2902,7 @@ File                                Status   Author       Resources   Origin   L
 =================================== ======== ============ =========== ======== ============= =============================
 body.gibs                           done     NQ                       ETL      14.01.2013
 body.mdm                            missing                           pak0
-body_fieldops.skin                  missing                           pak0
+body_fieldops.skin                  done     ETL                      pak0     25/04/2020
 body_fieldops.tga                   missing                           pak0
 helmet.tga                          missing                           pak0
 =================================== ======== ============ =========== ======== ============= =============================
@@ -2926,7 +2928,7 @@ File                                Status   Author       Resources   Origin   L
 axis_medic.tga                      missing                           pak0
 body.gibs                           done     NQ                       ETL      14.01.2013
 body.mdm                            missing                           pak0
-body_medic.skin                     missing                           pak0
+body_medic.skin                     done     ETL                      pak0     25/04/2020
 helmet.tga                          missing                           pak0
 legs_medic.jpg                      missing                           pak0
 =================================== ======== ============ =========== ======== ============= =============================
@@ -2952,7 +2954,7 @@ File                                Status   Author       Resources   Origin   L
 =================================== ======== ============ =========== ======== ============= =============================
 body.gibs                           done     NQ                       ETL      14.01.2013
 body.mdm                            missing                           pak0
-body_soldier.skin                   missing                           pak0
+body_soldier.skin                   done     ETL                      pak0     25/04/2020
 body_soldier.tga                    missing                           pak0
 helmet.tga                          missing                           pak0
 =================================== ======== ============ =========== ======== ============= =============================
@@ -2978,16 +2980,16 @@ File                                Status   Author       Resources   Origin   L
 bare_legs.jpg                       missing                           pak0
 bare_legs_2.jpg                     missing                           pak0
 naked.mdm                           missing                           pak0
-naked_allied_cvops.skin             missing                           pak0
-naked_allied_engineer.skin          missing                           pak0
-naked_allied_fieldops.skin          missing                           pak0
-naked_allied_medic.skin             missing                           pak0
-naked_allied_soldier.skin           missing                           pak0
-naked_axis_cvops.skin               missing                           pak0
-naked_axis_engineer.skin            missing                           pak0
-naked_axis_fieldops.skin            missing                           pak0
-naked_axis_medic.skin               missing                           pak0
-naked_axis_soldier.skin             missing                           pak0
+naked_allied_cvops.skin             done     ETL                      pak0     25/04/2020
+naked_allied_engineer.skin          done     ETL                      pak0     25/04/2020
+naked_allied_fieldops.skin          done     ETL                      pak0     25/04/2020
+naked_allied_medic.skin             done     ETL                      pak0     25/04/2020
+naked_allied_soldier.skin           done     ETL                      pak0     25/04/2020
+naked_axis_cvops.skin               done     ETL                      pak0     25/04/2020
+naked_axis_engineer.skin            done     ETL                      pak0     25/04/2020
+naked_axis_fieldops.skin            done     ETL                      pak0     25/04/2020
+naked_axis_medic.skin               done     ETL                      pak0     25/04/2020
+naked_axis_soldier.skin             done     ETL                      pak0     25/04/2020
 rank2.tga                           missing                           pak0
 rank3.tga                           missing                           pak0
 rank4.tga                           missing                           pak0
@@ -3241,8 +3243,8 @@ fg42
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
 fg42.md3                            missing                           pak0
-fg42_allied.skin                    missing                           pak0
-fg42_axis.skin                      missing                           pak0
+fg42_allied.skin                    done     ETL                      pak0     25/04/2020
+fg42_axis.skin                      done     ETL                      pak0     25/04/2020
 fg42_barrel.mdc                     missing                           pak0
 fg42_flash.mdc                      missing                           pak0
 fg42_yd.tga                         missing                           pak0
@@ -3376,8 +3378,8 @@ File                                Status   Author       Resources   Origin   L
 gun11_yd.tga                        missing                           pak0
 hand16.jpg                          missing                           pak0
 mp40.mdc                            missing                           pak0
-mp40_allied.skin                    missing                           pak0
-mp40_axis.skin                      missing                           pak0
+mp40_allied.skin                    done     ETL                      pak0     25/04/2020
+mp40_axis.skin                      done     ETL                      pak0     25/04/2020
 mp40_flash.mdc                      missing                           pak0
 mp40_stand.mdc                      missing                           pak0
 ss_mp40.mdc                         missing                           pak0
@@ -3444,6 +3446,8 @@ silencer
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
 silencer.mdc                        missing                           pak0
+silencer_allied.skin                done     ETL          ETL         ETL      25/04/2020
+silencer_axis.skin                  done     ETL          ETL         ETL      25/04/2020
 silencer_stand.mdc                  missing                           pak0
 v_silencer.mdc                      missing                           pak0
 v_silencer_barrel.mdc               missing                           pak0
@@ -3483,8 +3487,8 @@ thompson
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
 thompson.mdc                        missing                           pak0
-thompson_allied.skin                missing                           pak0
-thompson_axis.skin                  missing                           pak0
+thompson_allied.skin                done     ETL                      pak0     25/04/2020
+thompson_axis.skin                  done     ETL                      pak0     25/04/2020
 thompson_flash.mdc                  missing                           pak0
 thompson_la_yd.tga                  missing                           pak0
 thompson_stand.mdc                  missing                           pak0
