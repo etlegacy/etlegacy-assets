@@ -2273,7 +2273,7 @@ File                                Status   Author       Resources   Origin   L
 gpg40.tga                           missing                           pak0
 kar98_3rd.md3                       missing                           pak0
 kar98_3rd_flash.mdc                 missing                           pak0
-kar98_allied.skin                   missing                           pak0
+kar98_allied.skin                   done     ETL                      pak0     25/04/2020
 kar98_att.md3                       missing                           pak0
 kar98_axis.skin                     done     ETL                      pak0     25/04/2020
 kar98_gren_pickup.md3               missing                           pak0
@@ -2437,10 +2437,10 @@ mortar_3rda.md3                     done     Meyer        NQ          pak0     2
 mortar_3rda_allied.skin             done     Meyer        NQ          ETL      20.10.2013
 mortar_3rda_ax.md3                  done     Meyer        NQ          ETL      20.10.2013
 mortar_3rda_axis.skin               done     Meyer        NQ          ETL      08.11.2013
-mortar_allied.skin                  missing                           pak0
+mortar_allied.skin                  done     ETL                      pak0     25.04.2020
 mortar_ax.jpg                       done     Meyer        NQ          ETL      20.10.2013
 mortar_ax_alpha.jpg                 done     Meyer        NQ          ETL      20.10.2013
-mortar_axis.skin                    missing                           pak0
+mortar_axis.skin                    done     ETL                      pak0     25.04.2020
 mortar_barrel3_allied.skin          done     Meyer        NQ          ETL      20.10.2013
 mortar_barrel3_axis.skin            done     Meyer        NQ          ETL      20.10.2013
 mortar_barrel4_allied.skin          done     Meyer        NQ          ETL      20.10.2013
