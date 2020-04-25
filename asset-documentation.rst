@@ -78,26 +78,26 @@ base
 =================================== ======== ============ =========== ======== ============= =============================
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
-akimbo.aninc                        missing                           pak0
+akimbo.aninc                        done     ETL                      pak0     26.04.2020
 akimbo.mdx                          missing                           pak0
-binocs.aninc                        missing                           pak0
+binocs.aninc                        done     ETL                      pak0     26.04.2020
 binocs.mdx                          missing                           pak0
 body.aninc                          done     ETL          ETPub       pak0     02.02.2015
                                                           ETPro
 body.mdx                            missing                           pak0
-mortar.aninc                        missing                           pak0
+mortar.aninc                        done     ETL                      pak0     26.04.2020
 mortar.mdx                          missing                           pak0
-no_juice.aninc                      missing                           pak0
+no_juice.aninc                      done     ETL                      pak0     26.04.2020
 no_juice.mdx                        missing                           pak0
-prone_dual_pistols.aninc            missing                           pak0
+prone_dual_pistols.aninc            done     ETL                      pak0     26.04.2020
 prone_dual_pistols.mdx              missing                           pak0
-prone_mortar.aninc                  missing                           pak0
+prone_mortar.aninc                  done     ETL                      pak0     26.04.2020
 prone_mortar.mdx                    missing                           pak0
-prone_pistol.aninc                  missing                           pak0
+prone_pistol.aninc                  done     ETL                      pak0     26.04.2020
 prone_pistol.mdx                    missing                           pak0
-prone_rifle.aninc                   missing                           pak0
+prone_rifle.aninc                   done     ETL                      pak0     26.04.2020
 prone_rifle.mdx                     missing                           pak0
-swim.aninc                          missing                           pak0
+swim.aninc                          done     ETL                      pak0     26.04.2020
 swim.mdx                            missing                           pak0
 =================================== ======== ============ =========== ======== ============= =============================
 
