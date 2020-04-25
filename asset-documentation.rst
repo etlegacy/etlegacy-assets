@@ -857,10 +857,10 @@ baserace_b3c_loc_override.dat       done     antman                   ETL      2
 baserace_loc_override.dat           done     antman                   ETL      24.11.2012
 battery.bsp                         missing                           pak0
 battery.objdata                     missing                           pak0
-battery.script                      done     ETL                      pak0     10.03.2017
+battery.script                      done     ETL                      pak2     10.03.2017
 battery_arena_loc_override.dat      done     antman                   ETL      24.11.2012
 battery_lms.objdata                 missing                           pak0
-battery_lms.script                  done     ETL                      pak0     06.03.2017
+battery_lms.script                  done     ETL                      pak2     06.03.2017
 battery_loc_override.dat            done     antman                   ETL      24.11.2012
 battery_recharged_loc_override.dat  done     antman                   ETL      24.11.2012
 battery_tracemap.tga                missing                           pak0
@@ -956,9 +956,9 @@ frostbite_loc_override.dat          done     antman                   ETL      2
 frosty_loc_override.dat             done     antman                   ETL      24.11.2012
 fueldump.bsp                        done     ETL                      pak0     10.03.2017
 fueldump.objdata                    missing                           pak0
-fueldump.script                     missing                           pak0
+fueldump.script                     done     ETL                      pak2     02.09.2018
 fueldump_lms.objdata                missing                           pak0
-fueldump_lms.script                 done     ETL                      pak0     06.03.2017
+fueldump_lms.script                 done     ETL                      pak2     06.03.2017
 fueldump_loc_override.dat           done     antman                   ETL      24.11.2012
 fueldump_tracemap.tga               missing                           pak0
 fueldumpnq_loc_override.dat         done     antman                   ETL      24.11.2012
@@ -971,10 +971,10 @@ goldendunk_a2_loc_override.dat      done     antman                   ETL      2
 goldrush-ga_loc_override.dat        done     antman                   ETL      24.11.2012
 goldrush.bsp                        missing                           pak0
 goldrush.objdata                    missing                           pak0
-goldrush.script                     done     ETL                      pak0     26.01.2018
+goldrush.script                     done     ETL                      pak2     26.01.2018
 goldrush_arena_loc_override.dat     done     antman                   ETL      24.11.2012
 goldrush_lms.objdata                missing                           pak0
-goldrush_lms.script                 done     ETL                      pak0     06.03.2017
+goldrush_lms.script                 done     ETL                      pak2     06.03.2017
 goldrush_loc_override.dat           done     antman                   ETL      24.11.2012
 goldrush_tracemap.tga               missing                           pak0
 goldrush2_fk_b1_loc_override.dat    done     antman                   ETL      24.11.2012
@@ -1058,9 +1058,9 @@ nomercy_loc_override.dat 	         done     antman                   ETL      24
 northpole_loc_override.dat 	      done     antman                   ETL      24.11.2012
 oasis.bsp                           missing                           pak0
 oasis.objdata                       missing                           pak0
-oasis.script                        done     ETL                      pak0     10.03.2017
+oasis.script                        done     ETL                      pak2     10.03.2017
 oasis_lms.objdata                   missing                           pak0
-oasis_lms.script                    done     ETL                      pak0     06.03.2017
+oasis_lms.script                    done     ETL                      pak2     06.03.2017
 oasis_loc_override.dat 	            done     antman                   ETL      24.11.2012
 oasis_tracemap.tga                  missing                           pak0
 odenthal_b3_loc_override.dat 	      done     antman                   ETL      24.11.2012
@@ -1080,9 +1080,9 @@ pta_dv_loc_override.dat 	         done     antman                   ETL      24.
 quotidian_b2_loc_override.dat 	   done     antman                   ETL      24.11.2012
 radar.bsp                           missing                           pak0
 radar.objdata                       missing                           pak0
-radar.script                        done     ETL                      pak0     10.03.2017
+radar.script                        done     ETL                      pak2     10.03.2017
 radar_lms.objdata                   missing                           pak0
-radar_lms.script                    done     ETL                      pak0     06.03.2017
+radar_lms.script                    done     ETL                      pak2     06.03.2017
 radar_loc_override.dat 	            done     antman                   ETL      24.11.2012
 radar_tracemap.tga                  missing                           pak0
 radar_summer_loc_override.dat 	   done     antman                   ETL      24.11.2012
@@ -1090,9 +1090,9 @@ radarlab_b1_loc_override.dat 	      done     antman                   ETL      2
 raiders_loc_override.dat 	         done     antman                   ETL      24.11.2012
 railgun.bsp                         missing                           pak0
 railgun.objdata                     missing                           pak0
-railgun.script                      done     ETL                      pak0     10.03.2017
+railgun.script                      done     ETL                      pak2     10.03.2017
 railgun_lms.objdata                 missing                           pak0
-railgun_lms.script                  done     ETL                      pak0     06.03.2017
+railgun_lms.script                  done     ETL                      pak2     06.03.2017
 railgun_loc_override.dat 	         done     antman                   ETL      24.11.2012
 railgun_tracemap.tga                missing                           pak0
 raw_final_loc_override.dat 	      done     antman                   ETL      24.11.2012
@@ -6715,67 +6715,87 @@ ui
 =================================== ======== ============ =========== ======== ============= =============================
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
-credits_activision.menu
-credits_additional.menu
-credits_idsoftware.menu
-credits_quit.menu
-credits_splashdamage.menu
-global.menu
-hostgame.menu
-hostgame_advanced.menu
-hostgame_advanced_default.menu
-hostgame_dedicated_warning.menu
-ingame_disconnect.menu
-ingame_main.menu
-ingame_messagemode.menu
-ingame_serverinfo.menu
-ingame_tapout.menu
-ingame_tapoutlms.menu
-ingame_vote.menu
-ingame_vote_disabled.menu
-ingame_vote_map.menu
-ingame_vote_misc.menu
-ingame_vote_misc_refrcon.menu
-ingame_vote_players.menu
-ingame_vote_players_warn.menu
-main.menu
-menudef.h
-menumacros.h
-menus.txt
-options.menu
-options_controls.menu
-options_controls_default.menu
-options_customise_game.menu
-options_customise_hud.menu
-options_system.menu
-options_system_gamma.menu
-playonline.menu
-playonline_connecttoip.menu
-playonline_disablepb.menu
-playonline_enablepb.menu
-playonline_serverinfo.menu
-popup_autoupdate.menu
-popup_errormessage.menu
-popup_errormessage_pb.menu
-popup_hostgameerrormessage.menu
-popup_password.menu
-profile.menu
-profile_create.menu
-profile_create_error.menu
-profile_create_initial.menu
-profile_delete.menu
-profile_delete_error.menu
-profile_rename.menu
-quit.menu
-rec_restart.menu
-vid_confirm.menu
-vid_restart.menu
-viewreplay.menu
-viewreplay_delete.menu
-wm_ftquickmessage.menu
-wm_ftquickmessageAlt.menu
-wm_quickmessage.menu
-wm_quickmessageAlt.menu
+credits_activision.menu             done     ETL                      pak0     25/04/2020
+credits_additional.menu             done     ETL                      pak2     25/04/2020
+credits_et260.menu                  done     ETL                      pak2     25/04/2020
+credits_etlegacy.menu               done     ETL                      ETL      25/04/2020
+credits_halloffame.manu             done     ETL                      ETL      11/10/2019
+credits_idsoftware.menu             done     ETL                      pak0     25/04/2020
+credits_quit.menu                   done     ETL                      pak0     25/04/2020
+credits_splashdamage.menu           done     ETL                      pak0     25/04/2020
+etlegacy_discord.menu               done     ETL                      ETL      25/04/2020
+etlegacy_github.menu                done     ETL                      ETL      25/04/2020
+etlegacy_halloffame.menu            done     ETL                      ETL      25/04/2020
+etlegacy_github.menu                done     ETL                      ETL      25/04/2020
+global.menu                         done     ETL                      pak0     21/04/2019
+hostgame.menu                       done     ETL                      pak0     25/04/2020
+hostgame_advanced.menu              done     ETL                      pak0     25/04/2020
+hostgame_advanced_default.menu      done     ETL                      pak0     19/04/2020
+hostgame_dedicated_warning.menu     done     ETL                      pak0     21/04/2019
+hostgame_extended.menu              done     ETL                      ETL      25/04/2020
+huds.hud                            done     ETL          NQ          ETL      16/05/2013
+ingame_disconnect.menu              done     ETL                      pak0     21/04/2019
+ingame_main.menu                    done     ETL                      pak0     21/04/2019
+ingame_messagemode.menu             done     ETL                      pak0     14/12/2019
+ingame_serverinfo.menu              done     ETL                      pak0     21/04/2019
+ingame_tapout.menu                  done     ETL                      pak0     21/04/2019
+ingame_tapoutlms.menu               done     ETL                      pak0     21/04/2019
+ingame_vote.menu                    done     ETL                      pak0     10/01/2015
+ingame_vote_disabled.menu           done     ETL                      pak0     21/04/2019
+ingame_vote_map.menu                done     ETL                      pak0     10/01/2015
+ingame_vote_misc.menu               done     ETL                      pak0     19/04/2020
+ingame_vote_misc_refrcon.menu       done     ETL                      pak0     19/04/2020
+ingame_vote_players.menu            done     ETL                      pak2     07/06/2019
+ingame_vote_players_warn.menu       done     ETL                      pak0     26/04/2029
+main.menu                           done     ETL                      pak2     25/04/2020
+main_quickconnect.menu              done     ETL                      ETL      21/04/2019
+menudef.h                           done     ETL                      pak0     19/04/2020
+menumacros.h                        done     ETL                      pak0     06/01/2020
+menus.txt                           done     ETL                      pak2     25/04/2020
+mods.menu                           done     ETL                      pak2     01/12/2015
+options.menu                        done     ETL                      pak0     27/08/2019
+options_controls.menu               done     ETL                      pak0     27/08/2019
+options_controls_advanced.menu      done     ETL                      ETL      15/08/2019
+options_controls_default.menu       done     ETL                      pak0     21/04/2019
+options_customise_game.menu         done     ETL                      pak0     18/03/2020
+options_customise_hud.menu          done     ETL                      pak0     24/04/2020
+options_system.menu                 done     ETL                      pak0     18/03/2020
+options_system_gamma.menu           done     ETL                      pak0     21/03/2017
+playonline.menu                     done     ETL                      pak0     24/04/2020
+playonline_connecttoip.menu         done     ETL                      pak0     21/04/2019
+playonline_deletefavs.menu          done     ETL                      ETL      21/04/2019
+playonline_disablepb.menu           obsolete                          pak0
+playonline_enablepb.menu            obsolete                          pak0
+playonline_serverinfo.menu          done     ETL                      pak0     21/04/2019
+popup_addfavorite.menu              done     ETL                      ETL      21/04/2019
+popup_autoupdate.menu               done     ETL                      pak0     21/04/2019
+popup_errormessage.menu             done     ETL                      pak0     21/04/2019
+popup_errormessage_pb.menu          done     ETL                      pak0     21/04/2019
+popup_hostgameerrormessage.menu     done     ETL                      pak0     21/04/2019
+popup_password.menu                 done     ETL                      pak0     21/03/2017
+popup_removefavorite.menu           done     ETL                      ETL      21/04/2019
+popup_serverredirect.menu           done     ETL                      pak2     21/03/2017
+profile.menu                        done     ETL                      pak2     21/03/2017
+profile_create.menu                 done     ETL                      pak0     21/03/2020
+profile_create_error.menu           done     ETL                      pak0     21/04/2019
+profile_create_initial.menu         done     ETL                      pak0     18/03/2020
+profile_delete.menu                 done     ETL                      pak0     21/04/2019
+profile_delete_error.menu           done     ETL                      pak0     21/04/2019
+profile_rename.menu                 done     ETL                      pak0     21/04/2019
+quit.menu                           done     ETL                      pak0     21/04/2019
+rec_restart.menu                    done     ETL                      pak0     21/04/2019
+vid_confirm.menu                    done     ETL                      pak0     21/04/2019
+vid_restart.menu                    done     ETL                      pak0     21/04/2019
+viewreplay.menu                     done     ETL                      pak0     24/04/2020
+viewreplay_delete.menu              done     ETL                      pak0     21/04/2019
+wm_class.menu                       done     ETL                      ETL      12/08/2019
+wm_classAlt.menu                    done     ETL                      ETL      12/08/2019
+wm_ftquickmessage.menu              done     ETL                      pak0     26/04/2019
+wm_ftquickmessageAlt.menu           done     ETL                      pak0     26/04/2019
+wm_quickmessage.menu                done     ETL                      pak0     26/04/2019
+wm_quickmessageAlt.menu             done     ETL                      pak0     26/04/2019
+wm_team.menu                        done     ETL                      ETL      26/04/2019
+wm_teamAlt.menu                     done     ETL                      ETL      26/04/2019
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -6808,7 +6828,9 @@ gammabar.tga
 gradientbar1.tga
 gradientbar2.tga
 hudsprint.tga
+icon_etpro.tga                       missing                           pak2
 logo_atvi.tga
+logo_etpro.tga                       missing                           pak2
 logo_gm.tga
 logo_id.tga
 logo_nerve.tga
