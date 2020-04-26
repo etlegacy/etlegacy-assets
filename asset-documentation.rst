@@ -172,11 +172,11 @@ allied
 =================================== ======== ============ =========== ======== ============= =============================
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
-cvops.char                          missing                           pak0
-engineer.char                       missing                           pak0
-fieldops.char                       missing                           pak0
-medic.char                          missing                           pak0
-soldier.char                        missing                           pak0
+cvops.char                          done     ETL                      pak0     26.04.2020
+engineer.char                       done     ETL                      pak0     26.04.2020
+fieldops.char                       done     ETL                      pak0     26.04.2020
+medic.char                          done     ETL                      pak0     26.04.2020
+soldier.char                        done     ETL                      pak0     26.04.2020
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -186,11 +186,11 @@ axis
 =================================== ======== ============ =========== ======== ============= =============================
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
-cvops.char                          missing                           pak0
-engineer.char                       missing                           pak0
-fieldops.char                       missing                           pak0
-medic.char                          missing                           pak0
-soldier.char                        missing                           pak0
+cvops.char                          done     ETL                      pak0     26.04.2020
+engineer.char                       done     ETL                      pak0     26.04.2020
+fieldops.char                       done     ETL                      pak0     26.04.2020
+medic.char                          done     ETL                      pak0     26.04.2020
+soldier.char                        done     ETL                      pak0     26.04.2020
 =================================== ======== ============ =========== ======== ============= =============================
 
 
