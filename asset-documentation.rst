@@ -310,6 +310,7 @@ multi_dead.tga                      missing                           pak0
 net.jpg                             missing                           pak0
 notusablehint.tga                   missing                           pak0
 pistol1.tga                         missing                           pak0
+ready.tga							done	ETL						  ETL      29.03.2020
 revivehint.tga                      missing                           pak0
 satchelhint.tga                     missing                           pak0
 tankHint.tga                        missing                           pak0
@@ -391,6 +392,7 @@ hud
 =================================== ======== ============ =========== ======== ============= =============================
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
+adernaline.tga                      done     ETL                      ETL      28.02.2019
 ic_health.tga                       missing                           pak0
 ic_power.tga                        missing                           pak0
 ic_stamina.tga                      missing                           pak0
@@ -423,6 +425,18 @@ fireteam6.tga                       missing                           pak0
 =================================== ======== ============ =========== ======== ============= =============================
 
 
+prestige
+^^^^^
+
+=================================== ======== ============ =========== ======== ============= =============================
+File                                Status   Author       Resources   Origin   Last Updated  Notes
+=================================== ======== ============ =========== ======== ============= =============================
+prestige.tga                        done     ETL                      ETL
+prestige_collect.tga                done     ETL                      ETL
+prestige_stamp.tga                  done     ETL                      ETL
+=================================== ======== ============ =========== ======== ============= =============================
+
+
 ranks
 ^^^^^
 
@@ -439,6 +453,16 @@ rank8.tga                           missing                           pak0
 rank9.tga                           missing                           pak0
 rank10.tga                          missing                           pak0
 rank11.tga                          missing                           pak0
+xrank2.tga                          done     ETL					  ETL	   25.05.2018
+xrank3.tga                          done     ETL                      ETL	   25.05.2018
+xrank4.tga                          done     ETL                      ETL	   25.05.2018
+xrank5.tga                          done     ETL                      ETL	   25.05.2018
+xrank6.tga                          done     ETL                      ETL	   25.05.2018
+xrank7.tga                          done     ETL                      ETL	   25.05.2018
+xrank8.tga                          done     ETL                      ETL	   25.05.2018
+xrank9.tga                          done     ETL                      ETL	   25.05.2018
+xrank10.tga                         done     ETL                      ETL	   25.05.2018
+xrank11.tga                         done     ETL					  ETL	   25.05.2018
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -552,6 +576,7 @@ skill_fieldops.tga                  missing                           pak0
 skill_medic.tga                     missing                           pak0
 skill_roll.tga                      missing                           pak0
 skill_soldier.tga                   missing                           pak0
+shoutcaster.tga						done	ETL					      ETL	   12.07.2019
 spectator.tga                       missing                           pak0
 weaponcard01.tga                    missing                           pak0
 weaponcard02.tga                    missing                           pak0
@@ -588,6 +613,11 @@ File                                Status   Author       Resources   Origin   L
 binocsimple.tga                     missing                           pak0
 flare5.tga                          missing                           pak0
 head_open.tga                       missing                           pak0
+hitregion_arms.tga					done     ETL		  NQ		  ETL      28.02.2019
+hitregion_body.tga					done     ETL		  NQ		  ETL      28.02.2019
+hitregion_head.tga					done     ETL		  NQ		  ETL      28.02.2019
+hitregion_legs.tga					done     ETL		  NQ		  ETL      28.02.2019
+hitregions.tga						done     ETL		  NQ		  ETL      28.02.2019
 railcorethin_mono.jpg               missing                           pak0
 raindrop.tga                        missing                           pak0
 reticle_eq.jpg                      missing                           pak0
@@ -753,26 +783,35 @@ client
 =================================== ======== ============ =========== ======== ============= =============================
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
-cs.po                               done     ETL                      ETL      04.03.2016
-de.po                               done     ETL                      ETL      09.09.2016
-el.po                               done     ETL                      ETL      22.07.2016
-en.po                               done     ETL                      ETL      16.01.2016
-eo.po                               done     ETL                      ETL      16.01.2016
-es.po                               done     ETL                      ETL      01.04.2016
-fi.po                               done     ETL                      ETL      23.09.2016
-fr.po                               done     ETL                      ETL      18.11.2016
-it.po                               done     ETL                      ETL      01.04.2016
-ko.po                               done     ETL                      ETL      27.01.2017
-ko_KR.po                            done     ETL                      ETL      16.01.2016
-nl.po                               done     ETL                      ETL      01.04.2016 
-no.po                               done     ETL                      ETL      16.01.2016
-pl.po                               done     ETL                      ETL      16.06.2017 
-pt.po                               done     ETL                      ETL      17.03.2017
-ro.po                               done     ETL                      ETL      12.08.2016
-ru.po                               done     ETL                      ETL      16.01.2016
-                                             Vorotnikov
-sk.po                               done     ETL                      ETL      16.01.2016
-sl.po                               done     ETL                      ETL      16.01.2016
+af.po								done     ETL                      ETL      15.03.2020		
+bg.po								done     ETL                      ETL      15.03.2020
+ca.po								done     ETL                      ETL      15.03.2020
+cs.po                               done     ETL                      ETL      15.03.2020
+da.po								done     ETL                      ETL      15.03.2020
+de.po                               done     ETL                      ETL      15.03.2020
+el.po                               done     ETL                      ETL      15.03.2020
+en.po                               done     ETL                      ETL      15.03.2020
+eo.po                               done     ETL                      ETL      15.03.2020
+es.po                               done     ETL                      ETL      15.03.2020
+fi.po                               done     ETL                      ETL      15.03.2020
+fr.po                               done     ETL                      ETL      15.03.2020
+ga.po								done     ETL                      ETL      15.03.2020
+hu.po								done     ETL                      ETL      15.03.2020
+it.po                               done     ETL                      ETL      15.03.2020
+ko.po                               done     ETL                      ETL      15.03.2020
+nl.po                               done     ETL                      ETL      15.03.2020 
+no.po                               done     ETL                      ETL      15.03.2020
+pl.po                               done     ETL                      ETL      15.03.2020 
+pt.po                               done     ETL                      ETL      15.03.2020
+ro.po                               done     ETL                      ETL      15.03.2020
+ru.po                               done     ETL                      ETL      15.03.2020
+                                             Vorotnikov                        
+sk.po                               done     ETL                      ETL      15.03.2020
+sl.po                               done     ETL                      ETL      15.03.2020
+sq.po                               done     ETL                      ETL      15.03.2020
+sr.po                               done     ETL                      ETL      15.03.2020
+sv.po                               done     ETL                      ETL      15.03.2020
+tr.po                               done     ETL                      ETL      15.03.2020
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -782,27 +821,36 @@ mod
 =================================== ======== ============ =========== ======== ============= =============================
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
-cs.po                               done     ETL                      ETL      07.04.2017
-de.po                               done     ETL                      ETL      14.04.2017
-                                             harlekin
-el.po                               done     ETL                      ETL      07.04.2017
-en.po                               done     ETL                      ETL      07.04.2017
-eo.po                               done     ETL                      ETL      07.04.2017
-es.po                               done     ETL                      ETL      07.04.2017
-fi.po                               done     ETL                      ETL      07.04.2017
-fr.po                               done     ETL                      ETL      07.04.2017
-it.po                               done     ETL                      ETL      07.04.2017
-ko.po                               done     ETL                      ETL      07.04.2017
-ko_KR.po                            done     ETL                      ETL      16.01.2016
-nl.po                               done     ETL                      ETL      07.04.2017
-no.po                               done     ETL                      ETL      07.04.2017
-pl.po                               done     ETL                      ETL      16.06.2017
-pt.po                               done     ETL                      ETL      07.04.2017
-ro.po                               done     ETL                      ETL      07.04.2017
-ru.po                               done     ETL                      ETL      21.04.2017
-                                             Vorotnikov
-sk.po                               done     ETL                      ETL      07.04.2017
-sl.po                               done     ETL                      ETL      07.04.2017
+af.po								done     ETL                      ETL      04.04.2020		
+bg.po								done     ETL                      ETL      04.04.2020
+ca.po								done     ETL                      ETL      04.04.2020
+cs.po                               done     ETL                      ETL      04.04.2020
+da.po								done     ETL                      ETL      04.04.2020
+de.po                               done     ETL                      ETL      04.04.2020
+											 harlekin                          
+el.po                               done     ETL                      ETL      04.04.2020
+en.po                               done     ETL                      ETL      04.04.2020
+eo.po                               done     ETL                      ETL      04.04.2020
+es.po                               done     ETL                      ETL      04.04.2020
+fi.po                               done     ETL                      ETL      04.04.2020
+fr.po                               done     ETL                      ETL      04.04.2020
+ga.po								done     ETL                      ETL      04.04.2020
+hu.po								done     ETL                      ETL      04.04.2020
+it.po                               done     ETL                      ETL      04.04.2020
+ko.po                               done     ETL                      ETL      04.04.2020
+nl.po                               done     ETL                      ETL      04.04.2020 
+no.po                               done     ETL                      ETL      04.04.2020
+pl.po                               done     ETL                      ETL      04.04.2020 
+pt.po                               done     ETL                      ETL      04.04.2020
+ro.po                               done     ETL                      ETL      04.04.2020
+ru.po                               done     ETL                      ETL      04.04.2020
+                                             Vorotnikov                        
+sk.po                               done     ETL                      ETL      04.04.2020
+sl.po                               done     ETL                      ETL      04.04.2020
+sq.po                               done     ETL                      ETL      04.04.2020
+sr.po                               done     ETL                      ETL      04.04.2020
+sv.po                               done     ETL                      ETL      04.04.2020
+tr.po                               done     ETL                      ETL      04.04.2020
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -1327,15 +1375,20 @@ mapscripts
 =================================== ======== ============ =========== ======== ============= =============================
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
-adlernest.script                    done     ETL                      ETL      26.01.2014
-braundorf_b4.script                 done     ETL                      ETL      26.01.2014
-et_beach.script                     done     ETL                      ETL      26.01.2014
-et_ice.script                       done     ETL                      ETL      26.01.2014
-frostbite.script                    done     ETL                      ETL      26.01.2014
-radar.script                        done     ETL                      ETL      26.01.2014
-supply.script                       done     ETL                      ETL      26.01.2014
-sw_goldrush_te.script               done     ETL                      ETL      26.01.2014
-tc_base.script                      done     ETL                      ETL      26.01.2014
+adlernest.script                    done     ETL                      ETL      25.05.2018
+braundorf_b4.script                 done     ETL                      ETL      25.05.2018
+et_beach.script                     done     ETL                      ETL      25.05.2018
+et_ice.script                       done     ETL                      ETL      25.05.2018
+etsbay.script						done     ETL                      ETL      28.02.2019
+frostbite.script                    done     ETL                      ETL      25.05.2018
+industry2.script					done	 ETL					  ETL	   28.02.2019
+radar.script                        done     ETL                      ETL      25.05.2018
+supply.script                       done     ETL                      ETL      25.05.2018
+sw_goldrush_te.script               done     ETL                      ETL      25.05.2018
+tc_base.script                      done     ETL                      ETL      25.05.2018
+v2_factory.script                   done     ETL                      ETL      28.02.2019
+v2base.script                       done     ETL                      ETL      28.02.2019
+v2bast_te.script                    done     ETL                      ETL      28.02.2019
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -1345,107 +1398,107 @@ materials
 =================================== ======== ============ =========== ======== ============= =============================
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
-_lights.shader 	                  done     ETL                      ETL      17.04.2017
-_unsorted.shader 	                  done     ETL                      ETL      17.04.2017
-aa_readme.txt 	                     done     ETL                      ETL      17.04.2017
-alpha.shader 	                     done     ETL                      ETL      17.04.2017
-alpha_sd.shader 	                  done     ETL                      ETL      17.04.2017
-assault.shader 	                  done     ETL                      ETL      17.04.2017
-assault_rock.shader 	               done     ETL                      ETL      17.04.2017
-awf_props.shader 	                  done     ETL                      ETL      17.04.2017
-battery.shader 	                  done     ETL                      ETL      29.05.2018
-battery_wall.shader 	               done     ETL                      ETL      10.12.2017
+_lights.shader 	                    done     ETL                      ETL      17.04.2017
+_unsorted.shader 	                done     ETL                      ETL      17.04.2017
+aa_readme.txt 	                    done     ETL                      ETL      17.04.2017
+alpha.shader 	                    done     ETL                      ETL      17.04.2017
+alpha_sd.shader 	                done     ETL                      ETL      17.04.2017
+assault.shader 	                    done     ETL                      ETL      17.04.2017
+assault_rock.shader 	            done     ETL                      ETL      17.04.2017
+awf_props.shader 	                done     ETL                      ETL      17.04.2017
+battery.shader 	                    done     ETL                      ETL      29.05.2018
+battery_wall.shader 	            done     ETL                      ETL      10.12.2017
 broken_castle.shader 	            done     ETL                      ETL      02.06.2017
-bunker_sd.shader 	                  done     ETL                      ETL      10.12.2017
-castle_door.shader 	               done     ETL                      ETL      17.04.2017
-castle_floor.shader 	               done     ETL                      ETL      17.04.2017
+bunker_sd.shader 	                done     ETL                      ETL      10.12.2017
+castle_door.shader 	                done     ETL                      ETL      17.04.2017
+castle_floor.shader 	            done     ETL                      ETL      17.04.2017
 castle_window.shader 	            done     ETL                      ETL      17.04.2017
-castle_wood.shader 	               done     ETL                      ETL      17.04.2017
+castle_wood.shader 	                done     ETL                      ETL      17.04.2017
 cathedrale_wall.shader              done     ETL                      ETL      17.04.2017
-chat.shader 	                     done     ETL                      ETL      17.04.2017
-chat_window.shader 	               done     ETL                      ETL      17.04.2017
-chat_wood.shader 	                  done     ETL                      ETL      17.04.2017
-chateau.shader 	                  done     ETL                      ETL      17.04.2017
-common.shader 	                     done     ETL                      ETL      17.04.2017
+chat.shader 	                    done     ETL                      ETL      17.04.2017
+chat_window.shader 	                done     ETL                      ETL      17.04.2017
+chat_wood.shader 	                done     ETL                      ETL      17.04.2017
+chateau.shader 	                    done     ETL                      ETL      17.04.2017
+common.shader 	                    done     ETL                      ETL      17.04.2017
 decals.shader                       done     ETL                      ETL      17.04.2017
-doors.shader 	                     done     ETL                      ETL      17.04.2017
+doors.shader 	                    done     ETL                      ETL      17.04.2017
 egypt_door_sd.shader 	            done     ETL                      ETL      17.04.2017
 egypt_floor_sd.shader 	            done     ETL                      ETL      10.12.2017
 egypt_props_sd.shader 	            done     ETL                      ETL      17.04.2017
 egypt_rock_sd.shader 	            done     ETL                      ETL      17.04.2017
 egypt_trim_sd.shader 	            done     ETL                      ETL      17.04.2017
 egypt_walls_sd.shader 	            done     ETL                      ETL      29.04.2018
-egypt_windows_sd.shader 	         done     ETL                      ETL      17.05.2018
+egypt_windows_sd.shader 	        done     ETL                      ETL      17.05.2018
 egypt_wood_sd.shader 	            done     ETL                      ETL      17.04.2017
-factory_sd.shader 	               done     ETL                      ETL      17.04.2017
-fueldump.shader 	                  done     ETL                      ETL      28.05.2018
-gfx_2d.shader 	                     done     ETL                      ETL      17.04.2017
+factory_sd.shader 	                done     ETL                      ETL      17.04.2017
+fueldump.shader 	                done     ETL                      ETL      28.05.2018
+gfx_2d.shader 	                    done     ETL                      ETL      17.04.2017
 gfx_clipboard.shader 	            done     ETL                      ETL      17.04.2017
-gfx_damage.shader 	               done     ETL                      ETL      17.04.2017
-gfx_hud.shader 	                  done     ETL                      ETL      17.04.2017
+gfx_damage.shader 	                done     ETL                      ETL      17.04.2017
+gfx_hud.shader 	                    done     ETL                      ETL      17.04.2017
 gfx_limbo.shader                    done     ETL                      ETL      17.04.2017
-gfx_misc.shader 	                  done     ETL                      ETL      17.04.2017
-goldrush.shader 	                  done     ETL                      ETL      28.05.2018
-icons.shader 	                     done     ETL                      ETL      17.04.2017
-legacy.shader 	                     done     ETL                      ETL      10.12.2017
+gfx_misc.shader 	                done     ETL                      ETL      17.04.2017
+goldrush.shader 	                done     ETL                      ETL      28.05.2018
+icons.shader 	                    done     ETL                      ETL      17.04.2017
+legacy.shader 	                    done     ETL                      ETL      10.12.2017
 legacy_r2_light.shader 	            done     ETL                      ETL      17.04.2017
-legacy_ui_assets.shader 	         done     ETL                      ETL      20.05.2017
-levelshots.shader 	               done     ETL                      ETL      17.04.2017
-liquids.shader 	                  done     ETL                      ETL      17.04.2017
-liquids_sd.shader 	               done     ETL                      ETL      29.05.2018
-mapfx.shader 	                     done     ETL                      ETL      17.04.2017
-metal_misc.shader 	               done     ETL                      ETL      17.04.2017
-metals_sd.shader 	                  done     ETL                      ETL      01.04.2018
-miltary_door.shader 	               done     ETL                      ETL      17.04.2017
-miltary_trim.shader 	               done     ETL                      ETL      17.04.2017
-miltary_wall.shader 	               done     ETL                      ETL      17.04.2017
-models_ammo.shader 	               done     ETL                      ETL      17.04.2017
+legacy_ui_assets.shader 	        done     ETL                      ETL      20.05.2017
+levelshots.shader 	                done     ETL                      ETL      17.04.2017
+liquids.shader 	                    done     ETL                      ETL      17.04.2017
+liquids_sd.shader 	                done     ETL                      ETL      29.05.2018
+mapfx.shader 	                    done     ETL                      ETL      17.04.2017
+metal_misc.shader 	                done     ETL                      ETL      17.04.2017
+metals_sd.shader 	                done     ETL                      ETL      01.04.2018
+miltary_door.shader 	            done     ETL                      ETL      17.04.2017
+miltary_trim.shader 	            done     ETL                      ETL      17.04.2017
+miltary_wall.shader 	            done     ETL                      ETL      17.04.2017
+models_ammo.shader 	                done     ETL                      ETL      17.04.2017
 models_foliage.shader 	            done     ETL                      ETL      29.03.2018
-models_furniture.shader 	         done     ETL                      ETL      17.04.2017
-models_mapobjects.shader 	         done     ETL                      ETL      16.04.2018
-models_multiplayer.shader 	         done     ETL                      ETL      03.06.2018
+models_furniture.shader 	        done     ETL                      ETL      17.04.2017
+models_mapobjects.shader 	        done     ETL                      ETL      16.04.2018
+models_multiplayer.shader 	        done     ETL                      ETL      03.06.2018
 models_players.shader 	            done     ETL                      ETL      16.12.2017
 models_shards.shader 	            done     ETL                      ETL      17.04.2017
 models_weapons2.shader 	            done     ETL                      ETL      03.06.2018
-mp_railgun.shader 	               done     ETL                      ETL      29.05.2018
-mp_siwa.shader 	                  done     ETL                      ETL      03.06.2018
-props.shader 	                     done     ETL                      ETL      10.12.2017
-props_sd.shader 	                  done     ETL                      ETL      17.04.2017
-radar.shader 	                     done     ETL                      ETL      28.05.2018
+mp_railgun.shader 	                done     ETL                      ETL      29.05.2018
+mp_siwa.shader 	                    done     ETL                      ETL      03.06.2018
+props.shader 	                    done     ETL                      ETL      10.12.2017
+props_sd.shader 	                done     ETL                      ETL      17.04.2017
+radar.shader 	                    done     ETL                      ETL      28.05.2018
 railgun_props.shader 	            done     ETL                      ETL      17.04.2017
-railway_sd.shader 	               done     ETL                      ETL      17.04.2017
-rock.shader 	                     done     ETL                      ETL      17.04.2017
-rubble.shader 	                     done     ETL                      ETL      17.04.2017
-seawall_wall.shader 	               done     ETL                      ETL      10.12.2017
+railway_sd.shader 	                done     ETL                      ETL      17.04.2017
+rock.shader 	                    done     ETL                      ETL      17.04.2017
+rubble.shader 	                    done     ETL                      ETL      17.04.2017
+seawall_wall.shader 	            done     ETL                      ETL      10.12.2017
 sfx.shader 	                        done     ETL                      ETL      17.04.2017
-shadows.shader 	                  done     ETL                      ETL      17.04.2017
-siwa_fx_sd.shader 	               done     ETL                      ETL      17.04.2017
+shadows.shader 	                    done     ETL                      ETL      17.04.2017
+siwa_fx_sd.shader 	                done     ETL                      ETL      17.04.2017
 siwa_props_sd.shader 	            done     ETL                      ETL      01.12.2017
-siwa_skyboxes_sd.shader 	         done     ETL                      ETL      17.04.2017
-skies.shader 	                     done     ETL                      ETL      17.04.2017
-skies_sd.shader 	                  done     ETL                      ETL      17.04.2017
-snow.shader 	                     done     ETL                      ETL      26.03.2018
-snow_sd.shader 	                  done     ETL                      ETL      21.09.2017
-sprites.shader 	                  done     ETL                      ETL      17.04.2017
+siwa_skyboxes_sd.shader 	        done     ETL                      ETL      17.04.2017
+skies.shader 	                    done     ETL                      ETL      17.04.2017
+skies_sd.shader 	                done     ETL                      ETL      17.04.2017
+snow.shader 	                    done     ETL                      ETL      26.03.2018
+snow_sd.shader 	                    done     ETL                      ETL      21.09.2017
+sprites.shader 	                    done     ETL                      ETL      17.04.2017
 swf.shader 	                        done     ETL                      ETL      17.04.2017
-temperate_sd.shader 	               done     ETL                      ETL      10.12.2017
-terrain.shader 	                  done     ETL                      ETL      17.04.2017
-textures.shader 	                  done     ETL                      ETL      17.04.2017
+temperate_sd.shader 	            done     ETL                      ETL      10.12.2017
+terrain.shader 	                    done     ETL                      ETL      17.04.2017
+textures.shader 	                done     ETL                      ETL      17.04.2017
 tobruk_wall_sd.shader 	            done     ETL                      ETL      17.04.2017
-tobruk_windows_sd.shader 	         done     ETL                      ETL      17.04.2017
-town_props.shader 	               done     ETL                      ETL      17.04.2017
+tobruk_windows_sd.shader 	        done     ETL                      ETL      17.04.2017
+town_props.shader 	                done     ETL                      ETL      17.04.2017
 town_roof.shader                    done     ETL                      ETL      17.04.2017
-town_wall.shader 	                  done     ETL                      ETL      17.04.2017
-town_window.shader 	               done     ETL                      ETL      17.04.2017
-town_wood.shader 	                  done     ETL                      ETL      17.04.2017
-tree.shader 	                     done     ETL                      ETL      17.04.2017
+town_wall.shader 	                done     ETL                      ETL      17.04.2017
+town_window.shader 	                done     ETL                      ETL      17.04.2017
+town_wood.shader 	                done     ETL                      ETL      17.04.2017
+tree.shader 	                    done     ETL                      ETL      17.04.2017
 ui_assets.shader                    done     ETL                      ETL      17.04.2017
-ui_assets2.shader 	               done     ETL                      ETL      17.04.2017
-villa_sd.shader 	                  done     ETL                      ETL      17.04.2017
-village.shader 	                  done     ETL                      ETL      30.03.2018
-wood.shader 	                     done     ETL                      ETL      18.11.2017
+ui_assets2.shader 	                done     ETL                      ETL      17.04.2017
+villa_sd.shader 	                done     ETL                      ETL      17.04.2017
+village.shader 	                    done     ETL                      ETL      30.03.2018
+wood.shader 	                    done     ETL                      ETL      18.11.2017
 xlab_door.shader                    done     ETL                      ETL      17.04.2017
-xlab_props.shader 	               done     ETL                      ETL      17.04.2017
+xlab_props.shader 	                done     ETL                      ETL      17.04.2017
 xlab_wall.shader                    done     ETL                      ETL      17.04.2017
 =================================== ======== ============ =========== ======== ============= =============================
 
@@ -1703,6 +1756,21 @@ File                                Status   Author       Resources   Origin   L
 loudspeaker2.jpg                    missing                           pak0
 radar_01.tga                        missing                           pak0
 tele.jpg                            missing                           pak0
+=================================== ======== ============ =========== ======== ============= =============================
+
+
+etl_plane
+^^^^^^^^^^^
+
+=================================== ======== ============ =========== ======== ============= =============================
+File                                Status   Author       Resources   Origin   Last Updated  Notes
+=================================== ======== ============ =========== ======== ============= =============================
+b-25.md3                            done     ETL                      ETL      28.02.2019
+b-25.tga                            done     ETL                      ETL      28.02.2019
+bomb.md3                            done     ETL                      ETL      28.02.2019
+bomb.tga                            done     ETL                      ETL      28.02.2019
+junker88.md3                        done     ETL                      ETL      28.02.2019
+junker88.tga                        done     ETL                      ETL      28.02.2019
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -2527,6 +2595,15 @@ v_satchel_hand.md3                  missing                           pak0
 weapon.cfg                          done     ETL                      pak0     27.03.2016
 =================================== ======== ============ =========== ======== ============= =============================
 
+
+satchel_det
+^^^^^^^
+
+=================================== ======== ============ =========== ======== ============= =============================
+File                                Status   Author       Resources   Origin   Last Updated  Notes
+=================================== ======== ============ =========== ======== ============= =============================
+weapon.cfg							done	 ETL					  ETL      24.07.2019
+=================================== ======== ============ =========== ======== ============= =============================
 
 secretdocs
 ^^^^^^^^^^
@@ -3369,6 +3446,26 @@ mauserif5.jpg                       missing                           pak0
 =================================== ======== ============ =========== ======== ============= =============================
 
 
+mp34
+^^^^
+
+=================================== ======== ============ =========== ======== ============= =============================
+File                                Status   Author       Resources   Origin   Last Updated  Notes
+=================================== ======== ============ =========== ======== ============= =============================
+mp34.tga                            done     ETL                      ETL      02.01.2019
+mp34_3rd.md3                        done     ETL                      ETL      02.01.2019
+mp34_pickup.md3                     done     ETL                      ETL      02.01.2019
+mp34stock.jpg                       done     ETL                      ETL      02.01.2019
+mp34stock_alpha.jpg                 done     ETL                      ETL      02.01.2019
+v_mp34.md3                          done     ETL                      ETL      02.01.2019
+v_mp34_barrel.md3                   done     ETL                      ETL      02.01.2019
+v_mp34_barrel2.md3                  done     ETL                      ETL      02.01.2019
+v_mp34_barrel3.md3                  done     ETL                      ETL      02.01.2019
+v_mp34_hand.md3                     done     ETL                      ETL      02.01.2019
+weapon.cfg                          done     ETL                      ETL      02.01.2019
+=================================== ======== ============ =========== ======== ============= =============================
+
+
 mp40
 ^^^^
 
@@ -3553,8 +3650,11 @@ gfx_misc.shader                     missing                           pak0
 goldrush.arena                      missing                           pak0
 goldrush.shader                     missing                           pak0
 icons.shader                        missing                           pak0
-legacy.shader                       done     ETL                      ETL      24.02.2018
-legacy_ui_assets.shader             done     ETL                      ETL      18.10.2013
+legacy.shader                       done     ETL                      ETL      29.03.2020
+legacy_models_mapobjects.shader     done     ETL                      ETL      28.02.2019
+legacy_r2_light.shader              done	 ETL					  ETL      02.01.2019
+legacy_ui_assets.shader             done     ETL                      ETL      25.05.2018
+legacy_weapons.shader               done     ETL                      ETL      16.07.2019
 levelshots.shader                   missing                           pak0
 lights.shader                       missing                           pak0
 liquids.shader                      missing                           pak0
@@ -3628,6 +3728,32 @@ xlab_wall.shader                    missing                           pak0
 _unsorted.shader                    missing                           pak0
 =================================== ======== ============ =========== ======== ============= =============================
 
+
+simpleicons
+=====
+
+=================================== ======== ============ =========== ======== ============= =============================
+File                                Status   Author       Resources   Origin   Last Updated  Notes
+=================================== ======== ============ =========== ======== ============= =============================
+ammopack.tga						done     ETL					  ETL	   04.12.2019
+bazooka.tga                         done     ETL					  ETL	   04.12.2019
+browning.tga                        done     ETL					  ETL	   04.12.2019
+carbine.tga                         done     ETL					  ETL	   04.12.2019
+fg42.tga                            done     ETL					  ETL	   04.12.2019
+flamethrower.tga                    done     ETL					  ETL	   04.12.2019
+garand.tga                          done     ETL					  ETL	   04.12.2019
+k43.tga                             done     ETL					  ETL	   04.12.2019
+kar98.tga                           done     ETL					  ETL	   04.12.2019
+medheal.tga                         done     ETL					  ETL	   04.12.2019
+mg42.tga                            done     ETL					  ETL	   04.12.2019
+mortar.tga                          done     ETL					  ETL	   04.12.2019
+mp34.tga                            done     ETL					  ETL	   04.12.2019
+mp40.tga                            done     ETL					  ETL	   04.12.2019
+objective.tga                       done     ETL					  ETL	   04.12.2019
+panzerfaust.tga                     done     ETL					  ETL	   04.12.2019
+sten.tga                            done     ETL					  ETL	   04.12.2019
+thompson.tga                        done     ETL					  ETL	   04.12.2019
+=================================== ======== ============ =========== ======== ============= =============================
 
 sound
 =====
@@ -3991,6 +4117,29 @@ medic.wav                           missing                           pak0
 =================================== ======== ============ =========== ======== ============= =============================
 
 
+hitsounds
+----
+
+=================================== ======== ============ =========== ======== ============= =============================
+File                                Status   Author       Resources   Origin   Last Updated  Notes
+=================================== ======== ============ =========== ======== ============= =============================
+hit.wav						        done     ETL					  ETL      25.05.2018
+hithead.wav                         done     ETL					  ETL      25.05.2018
+hitteam.wav                         done     ETL					  ETL      25.05.2018
+=================================== ======== ============ =========== ======== ============= =============================
+
+
+items
+----
+
+=================================== ======== ============ =========== ======== ============= =============================
+File                                Status   Author       Resources   Origin   Last Updated  Notes
+=================================== ======== ============ =========== ======== ============= =============================
+cold_pickup.wav						done     ETL					  ETL      25.05.2018
+hot_pickup.wav                      done     ETL					  ETL      25.05.2018
+=================================== ======== ============ =========== ======== ============= =============================
+
+
 maps
 ----
 
@@ -4034,6 +4183,7 @@ am_pkup.wav                         missing                           pak0
 bag_toss.wav                        missing                           pak0
 body_pickup.wav                     missing                           pak0
 health_pickup.wav                   missing                           pak0
+pm.wav							    ETL                               ETL      25.05.2018
 rank_up.wav                         missing                           pak0
 referee.wav                         missing                           pak0
 skill_up.wav                        missing                           pak0
@@ -4054,6 +4204,17 @@ doors
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
 default_door_locked.wav             missing                           pak0
+door1_close.wav                     done     ETL                      ETL      25.05.2018
+door1_closeq.wav                    done     ETL                      ETL      25.05.2018
+door1_endc.wav                      done     ETL                      ETL      25.05.2018
+door1_endcq.wav                     done     ETL                      ETL      25.05.2018
+door1_endo.wav                      done     ETL                      ETL      25.05.2018
+door1_endoq.wav                     done     ETL                      ETL      25.05.2018
+door1_locked.wav                    done     ETL                      ETL      25.05.2018
+door1_loopc.wav                     done     ETL                      ETL      25.05.2018
+door1_loopo.wav                     done     ETL                      ETL      25.05.2018
+door1_open.wav                      done     ETL                      ETL      25.05.2018
+door1_openq.wav                     done     ETL                      ETL      25.05.2018
 door2_close.wav                     missing                           pak0
 door2_locked.wav                    missing                           pak0
 door2_open.wav                      missing                           pak0
@@ -4077,6 +4238,41 @@ door6_locked.wav                    missing                           pak0
 door6_loopc.wav                     missing                           pak0
 door6_loopo.wav                     missing                           pak0
 door6_open.wav                      missing                           pak0
+door2_closeq.wav                    done     ETL                      ETL      25.05.2018
+door2_endc.wav                      done     ETL                      ETL      25.05.2018
+door2_endcq.wav                     done     ETL                      ETL      25.05.2018
+door2_endo.wav                      done     ETL                      ETL      25.05.2018
+door2_endoq.wav                     done     ETL                      ETL      25.05.2018
+door2_loopc.wav                     done     ETL                      ETL      25.05.2018
+door2_loopo.wav                     done     ETL                      ETL      25.05.2018
+door2_openq.wav                     done     ETL                      ETL      25.05.2018
+door3_close.wav                     done     ETL                      ETL      25.05.2018
+door3_closeq.wav                    done     ETL                      ETL      25.05.2018
+door3_endc.wav                      done     ETL                      ETL      25.05.2018
+door3_endcq.wav                     done     ETL                      ETL      25.05.2018
+door3_endo.wav                      done     ETL                      ETL      25.05.2018
+door3_endoq.wav                     done     ETL                      ETL      25.05.2018
+door3_locked.wav                    done     ETL                      ETL      25.05.2018
+door3_loopc.wav                     done     ETL                      ETL      25.05.2018
+door3_loopo.wav                     done     ETL                      ETL      25.05.2018
+door3_open.wav                      done     ETL                      ETL      25.05.2018
+door3_openq.wav                     done     ETL                      ETL      25.05.2018
+door4_endo.wav                      done     ETL                      ETL      25.05.2018
+door4_endoq.wav                     done     ETL                      ETL      25.05.2018
+door4_loopc.wav                     done     ETL                      ETL      25.05.2018
+door4_loopo.wav                     done     ETL                      ETL      25.05.2018
+door5_closeq.wav                    done     ETL                      ETL      25.05.2018
+door5_endcq.wav                     done     ETL                      ETL      25.05.2018
+door5_endo.wav                      done     ETL                      ETL      25.05.2018
+door5_endoq.wav                     done     ETL                      ETL      25.05.2018
+door5_loopc.wav                     done     ETL                      ETL      25.05.2018
+door5_loopo.wav                     done     ETL                      ETL      25.05.2018
+door5_openq.wav                     done     ETL                      ETL      25.05.2018
+door6_closeq.wav                    done     ETL                      ETL      25.05.2018
+door6_endcq.wav                     done     ETL                      ETL      25.05.2018
+door6_endo.wav                      done     ETL                      ETL      25.05.2018
+door6_endoq.wav                     done     ETL                      ETL      25.05.2018
+door6_openq.wav                     done     ETL                      ETL      25.05.2018
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -4133,6 +4329,28 @@ File                                Status   Author       Resources   Origin   L
 allies_win.wav                      missing                           pak0
 axis_win.wav                        missing                           pak0
 menu_server.wav                     missing                           pak0
+=================================== ======== ============ =========== ======== ============= =============================
+
+
+multiplayer
+-----
+
+=================================== ======== ============ =========== ======== ============= =============================
+File                                Status   Author       Resources   Origin   Last Updated  Notes
+=================================== ======== ============ =========== ======== ============= =============================
+hurt_barbwire.wav                   done	 ETL                      ETL      25.05.2018
+=================================== ======== ============ =========== ======== ============= =============================
+
+
+osp
+-----
+
+=================================== ======== ============ =========== ======== ============= =============================
+File                                Status   Author       Resources   Origin   Last Updated  Notes
+=================================== ======== ============ =========== ======== ============= =============================
+fight.wav                           done	 ETL                      ETL      25.05.2018
+goat.wav                            done	 ETL                      ETL      25.05.2018
+prepare.wav                         done	 ETL                      ETL      25.05.2018
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -4247,6 +4465,7 @@ misc
 =================================== ======== ============ =========== ======== ============= =============================
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
+20mm_fire.wav						done     ETL					  ETL      25.05.2018
 radar_end.wav                       missing                           pak0
 radar_loop.wav                      missing                           pak0
 radar_start.wav                     missing                           pak0
@@ -5134,6 +5353,18 @@ shell_stone3.wav                    missing                           pak0
 shell_wood1.wav                     missing                           pak0
 shell_wood2.wav                     missing                           pak0
 shell_wood3.wav                     missing                           pak0
+sg_shell_metal1.wav				    done     ETL					  ETL	   25.05.2018
+sg_shell_metal2.wav                 done     ETL					  ETL	   25.05.2018
+sg_shell_metal3.wav                 done     ETL					  ETL	   25.05.2018
+sg_shell_soft1.wav                  done     ETL					  ETL	   25.05.2018
+sg_shell_soft2.wav                  done     ETL					  ETL	   25.05.2018
+sg_shell_soft3.wav                  done     ETL					  ETL	   25.05.2018
+sg_shell_stone1.wav                 done     ETL					  ETL	   25.05.2018
+sg_shell_stone2.wav                 done     ETL					  ETL	   25.05.2018
+sg_shell_stone3.wav                 done     ETL					  ETL	   25.05.2018
+sg_shell_wood1.wav                  done     ETL					  ETL	   25.05.2018
+sg_shell_wood2.wav                  done     ETL					  ETL	   25.05.2018
+sg_shell_wood3.wav                  done     ETL					  ETL	   25.05.2018
 silence_off.wav                     missing                           pak0
 silence_on.wav                      missing                           pak0
 =================================== ======== ============ =========== ======== ============= =============================
@@ -5154,6 +5385,16 @@ mortar_fire.wav                     missing                           pak0
 mortar_fly.wav                      missing                           pak0
 mortar_off.wav                      missing                           pak0
 mortar_on.wav                       missing                           pak0
+=================================== ======== ============ =========== ======== ============= =============================
+
+
+mp34
+^^^^
+
+=================================== ======== ============ =========== ======== ============= =============================
+File                                Status   Author       Resources   Origin   Last Updated  Notes
+=================================== ======== ============ =========== ======== ============= =============================
+mp34_fire.wav                       done     ETL          NQ          ETL      02.01.2019
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -5234,8 +5475,10 @@ alarm_01.wav                        missing                           pak0
 alarm_02.wav                        missing                           pak0
 beeper.wav                          missing                           pak0
 boardbreak.wav                      missing                           pak0
+brickfall.wav                       done     ETL                      ETL      25.05.2018
 bubbles.wav                         missing                           pak0
 build.wav                           missing                           pak0
+build_abort.wav                     done     ETL                      ETL      25.05.2018
 chaircreak.wav                      missing                           pak0
 crickets_01.wav                     missing                           pak0
 crickets_02.wav                     missing                           pak0
@@ -5248,6 +5491,7 @@ dog_01.wav                          missing                           pak0
 dog_02.wav                          missing                           pak0
 dripping_01.wav                     missing                           pak0
 dripping_02.wav                     missing                           pak0
+fabricbreak.wav                     done     ETL                      ETL      25.05.2018
 fan_fast.wav                        missing                           pak0
 fan_med.wav                         missing                           pak0
 fan_slow.wav                        missing                           pak0
@@ -5260,12 +5504,14 @@ glassbreak2.wav                     missing                           pak0
 glassbreak3.wav                     missing                           pak0
 hum.wav                             missing                           pak0
 icecrack.wav                        missing                           pak0
+jumppad.wav                         done     ETL                      ETL      25.05.2018
 leaves.wav                          missing                           pak0
 lights.wav                          missing                           pak0
 machine_01.wav                      missing                           pak0
 machine_02.wav                      missing                           pak0
 machine_03.wav                      missing                           pak0
 metalbreak.wav                      missing                           pak0
+mg_constructed.wav                  done     ETL                      ETL      25.05.2018
 owl.wav                             missing                           pak0
 parrot.wav                          missing                           pak0
 pigeon.wav                          missing                           pak0
@@ -5282,6 +5528,7 @@ rooster.wav                         missing                           pak0
 steam_01.wav                        missing                           pak0
 steam_02.wav                        missing                           pak0
 steam_03.wav                        missing                           pak0
+stonefall.wav                       done     ETL                      ETL      25.05.2018
 thunder_01.wav                      missing                           pak0
 thunder_02.wav                      missing                           pak0
 thunder_03.wav                      missing                           pak0
@@ -5298,6 +5545,7 @@ wind_forest.wav                     missing                           pak0
 wind_hall.wav                       missing                           pak0
 wind_mountain.wav                   missing                           pak0
 wind_ocean.wav                      missing                           pak0
+wolf.wav                            done     ETL                      ETL      25.05.2018
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -5329,6 +5577,7 @@ fire_sm_c.tga                       missing                           pak0
 fire_sm_d.tga                       missing                           pak0
 fire_sm_e.tga                       missing                           pak0
 fire_sm_f.tga                       missing                           pak0
+fireteam.tga                        done     ETL                      ETL      09.03.2020
 fthrow_bluestream1.jpg              missing                           pak0
 fthrow_firestream2.jpg              missing                           pak0
 icon_shield.tga                     missing                           pak0
@@ -5337,6 +5586,12 @@ landmine_allied.tga                 missing                           pak0
 landmine_axis.tga                   missing                           pak0
 medicrevive.tga                     missing                           pak0
 objective.tga                       missing                           pak0
+objective_both_de.tga               done     ETL                      ETL      09.03.2020
+objective_both_td.tga               done     ETL                      ETL      09.03.2020
+objective_both_te.tga               done     ETL                      ETL      09.03.2020
+objective_dropped.tga               done     ETL                      ETL      09.03.2020
+objective_enemy.tga                 done     ETL                      ETL      09.03.2020
+objective_team.tga                  done     ETL                      ETL      09.03.2020
 oil_PARTICLE.tga                    missing                           pak0
 regroup.tga                         missing                           pak0
 shadow_foot.jpg                     missing                           pak0
@@ -5345,6 +5600,7 @@ smokepuff.tga                       missing                           pak0
 smoketrail2.tga                     missing                           pak0
 spark.tga                           missing                           pak0
 splashalpha.tga                     missing                           pak0
+undercover.tga                      done     ETL                      ETL      09.03.2020
 viewflash_red.jpg                   missing                           pak0
 voiceammo.tga                       missing                           pak0
 voicechat.tga                       missing                           pak0
@@ -6815,12 +7071,16 @@ check_not.tga                       missing                           pak0
 clouds.tga                          missing                           pak0
 et_logo.tga                         missing                           pak0
 et_logo_huge.tga                    missing                           pak0
+etl_logo.tga                        done     ETL                      ETL      05.11.2019
+etl_logo_huge.tga                   done     ETL                      ETL      05.11.2019
 fadebox.tga                         missing                           pak0
 filter_antilag.tga                  missing                           pak0
 filter_balance.tga                  missing                           pak0
+filter_bots.tga                     done     ETL                      ETL      25.05.2018
 filter_emptyfull.tga                missing                           pak0
 filter_ff.tga                       missing                           pak0
 filter_lives.tga                    missing                           pak0
+filter_map.tga                      done     ETL                      ETL      25.05.2018
 filter_pass.tga                     missing                           pak0            
 filter_pb.tga                       missing                           pak0
 filter_weap.tga                     missing                           pak0
@@ -6830,22 +7090,40 @@ gradientbar2.tga                    missing                           pak0
 hudsprint.tga                       missing                           pak0
 icon_etpro.tga                      missing                           pak2
 logo_atvi.tga                       missing                           pak0
+logo_discord.tga                    done     ETL                      ETL      26.04.2020
+logo_etlegacy.tga                   done     ETL                      ETL      26.04.2020
 logo_etpro.tga                      missing                           pak2
+logo_github.tga                     done     ETL                      ETL      26.04.2020
 logo_gm.tga                         missing                           pak0
 logo_id.tga                         missing                           pak0
 logo_nerve.tga                      missing                           pak0
 logo_osp.tga                        missing                           pak0
 logo_pb.tga                         missing                           pak0
 logo_sd.tga                         missing                           pak0
+mod_etjump.tga                      done     ETL                      ETL      26.04.2020
+mod_etmain.tga                      done     ETL                      ETL      25.05.2018
+mod_etnam.tga                       done     ETL                      ETL      25.05.2018
+mod_etpub.tga                       done     ETL                      ETL      25.05.2018
+mod_etrun.tga                       done     ETL                      ETL      25.05.2018
+mod_jaymod.tga                      done     ETL                      ETL      25.05.2018
+mod_legacy.tga                      done     ETL                      ETL      25.05.2018
+mod_nitmod.tga                      done     ETL                      ETL      25.05.2018
+mod_nq.tga                          done     ETL                      ETL      25.05.2018
+mod_silent.tga                      done     ETL                      ETL      25.05.2018
+mod_tc.tga                          done     ETL                      ETL      25.05.2018
+mod_tjmod.tga                       done     ETL                      ETL      25.05.2018
+mod_unknown.tga                     done     ETL                      ETL      25.05.2018
 mp_ammo_blue.tga                    missing                           pak0
 mp_ammo_red.tga                     missing                           pak0
 mp_arrow_blue.tga                   missing                           pak0
 mp_arrow_red.tga                    missing                           pak0
+mp_arrow_spec.tga                   done     ETL                      ETL      25.05.2018
 mp_gun_blue.tga                     missing                           pak0
 mp_gun_red.tga                      missing                           pak0
 mp_health_blue.tga                  missing                           pak0
 mp_health_red.tga                   missing                           pak0
 mp_player_highlight.tga             missing                           pak0
+mp_spec.tga                         done     ETL                      ETL      25.05.2018
 mp_spy_blue.tga                     missing                           pak0
 mp_spy_red.tga                      missing                           pak0
 mp_wrench_blue.tga                  missing                           pak0
