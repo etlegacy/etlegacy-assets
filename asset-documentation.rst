@@ -6304,19 +6304,19 @@ skies_sd
 =================================== ======== ============ =========== ======== ============= =============================
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
-batterysunfog.tga
-battery_clouds.tga
-battery_mask_ydnar.tga
-colditz_mask.tga
-full_moon2.tga
-goldrush_clouds.tga
-goldrush_mask.tga
-siwasun.tga
-siwa_mask.tga
-small_moon.tga
-wurzburg_clouds.tga
-wurzburg_fogmask.tga
-ydnar_lightning.tga
+batterysunfog.tga                   missing                           pak0
+battery_clouds.tga                  missing                           pak0
+battery_mask_ydnar.tga              missing                           pak0             
+colditz_mask.tga                    missing                           pak0             
+full_moon2.tga                      missing                           pak0
+goldrush_clouds.tga                 missing                           pak0
+goldrush_mask.tga                   missing                           pak0
+siwasun.tga                         missing                           pak0
+siwa_mask.tga                       missing                           pak0
+small_moon.tga                      missing                           pak0
+wurzburg_clouds.tga                 missing                           pak0                
+wurzburg_fogmask.tga                missing                           pak0        
+ydnar_lightning.tga                 missing                           pak0
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -6326,12 +6326,12 @@ wurzburg_env
 =================================== ======== ============ =========== ======== ============= =============================
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
-sky_bk.tga
-sky_dn.tga
-sky_ft.tga
-sky_lf.tga
-sky_rt.tga
-sky_up.tga
+sky_bk.tga                          missing                           pak0          
+sky_dn.tga                          missing                           pak0   
+sky_ft.tga                          missing                           pak0
+sky_lf.tga                          missing                           pak0
+sky_rt.tga                          missing                           pak0
+sky_up.tga                          missing                           pak0
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -6341,7 +6341,7 @@ sleepy
 =================================== ======== ============ =========== ======== ============= =============================
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
-wall_c01.jpg
+wall_c01.jpg                        missing                           pak0
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -6351,30 +6351,30 @@ snow
 =================================== ======== ============ =========== ======== ============= =============================
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
-alpha_ice2s.tga
-s_bars_m01.tga
-s_cashudder_c01.jpg
-s_castle_c02.jpg
-s_castle_c16d.jpg
-s_castle_c46_on_grid.jpg
-s_castle_m03a_step.jpg
-s_castle_m03_step.jpg
-s_cathedrale_c06.jpg
-s_cathedrale_c24b.jpg
-s_cwood_mo5c.jpg
-s_diamond_c01a.jpg
-s_dirt_m03i_2.jpg
-s_dirt_m03i_alpha.tga
-s_dirt_m03i_alphatree.tga
-s_door_c10b.jpg
-s_floor_c10_a2.jpg
-s_floor_l_01.jpg
-s_metal_m04dg2.jpg
-s_roof_c04dm.jpg
-s_town_c91.jpg
-s_town_m_c01_trim.jpg
-s_window_c05a.jpg
-s_wood_c13a.jpg
+alpha_ice2s.tga                     missing                           pak0
+s_bars_m01.tga                      missing                           pak0
+s_cashudder_c01.jpg                 missing                           pak0
+s_castle_c02.jpg                    missing                           pak0
+s_castle_c16d.jpg                   missing                           pak0             
+s_castle_c46_on_grid.jpg            missing                           pak0
+s_castle_m03a_step.jpg              missing                           pak0
+s_castle_m03_step.jpg               missing                           pak0
+s_cathedrale_c06.jpg                missing                           pak0
+s_cathedrale_c24b.jpg               missing                           pak0
+s_cwood_mo5c.jpg                    missing                           pak0
+s_diamond_c01a.jpg                  missing                           pak0
+s_dirt_m03i_2.jpg                   missing                           pak0
+s_dirt_m03i_alpha.tga               missing                           pak0
+s_dirt_m03i_alphatree.tga           missing                           pak0
+s_door_c10b.jpg                     missing                           pak0
+s_floor_c10_a2.jpg                  missing                           pak0
+s_floor_l_01.jpg                    missing                           pak0
+s_metal_m04dg2.jpg                  missing                           pak0
+s_roof_c04dm.jpg                    missing                           pak0
+s_town_c91.jpg                      missing                           pak0
+s_town_m_c01_trim.jpg               missing                           pak0          
+s_window_c05a.jpg                   missing                           pak0   
+s_wood_c13a.jpg                     missing                           pak0
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -6384,41 +6384,41 @@ snow_sd
 =================================== ======== ============ =========== ======== ============= =============================
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
-ametal_m03_snow.tga
-ametal_m04a_snow.tga
-ametal_m04a_snowfade.tga
-bigrock_rounded_faint.tga
-bunkertrim3_snow.tga
-bunkertrim_snow.tga
-bunkerwall_lrg02.tga
-coal_snow.tga
-concretec05_snow.tga
-fuse_box_snow.tga
-icelake2.tga
-icelake3.tga
-mesh_c03_snow.tga
-metal_m04g2_snow.tga
-miltary_m04_snow.tga
-mroof_snow.tga
-mxrock4b_snow.tga
-river_edge_snowy.tga
-snow_muddy.jpg
-snow_noisy.tga
-snow_path01.tga
-snow_road01.tga
-snow_track03.tga
-snow_track03_end.tga
-snow_var01.tga
-snow_var01_big.tga
-snow_var02.tga
-sub1_snow.tga
-sub1_snow2.tga
-s_castle_m03a_trim.tga
-s_dirt_m03i_2_big.tga
-s_grass_ml03b_big.jpg
-wood_m05a_snow.tga
-xmetal_m02t_snow.tga
-xmetal_m02_snow.tga
+ametal_m03_snow.tga                 missing                           pak0
+ametal_m04a_snow.tga                missing                           pak0       
+ametal_m04a_snowfade.tga            missing                           pak0   
+bigrock_rounded_faint.tga           missing                           pak0
+bunkertrim3_snow.tga                missing                           pak0
+bunkertrim_snow.tga                 missing                           pak0
+bunkerwall_lrg02.tga                missing                           pak0
+coal_snow.tga                       missing                           pak0
+concretec05_snow.tga                missing                           pak0
+fuse_box_snow.tga                   missing                           pak0
+icelake2.tga                        missing                           pak0
+icelake3.tga                        missing                           pak0
+mesh_c03_snow.tga                   missing                           pak0
+metal_m04g2_snow.tga                missing                           pak0
+miltary_m04_snow.tga                missing                           pak0
+mroof_snow.tga                      missing                           pak0
+mxrock4b_snow.tga                   missing                           pak0
+river_edge_snowy.tga                missing                           pak0
+snow_muddy.jpg                      missing                           pak0
+snow_noisy.tga                      missing                           pak0
+snow_path01.tga                     missing                           pak0
+snow_road01.tga                     missing                           pak0
+snow_track03.tga                    missing                           pak0
+snow_track03_end.tga                missing                           pak0
+snow_var01.tga                      missing                           pak0
+snow_var01_big.tga                  missing                           pak0
+snow_var02.tga                      missing                           pak0
+sub1_snow.tga                       missing                           pak0
+sub1_snow2.tga                      missing                           pak0
+s_castle_m03a_trim.tga              missing                           pak0
+s_dirt_m03i_2_big.tga               missing                           pak0
+s_grass_ml03b_big.jpg               missing                           pak0
+wood_m05a_snow.tga                  missing                           pak0
+xmetal_m02t_snow.tga                missing                           pak0
+xmetal_m02_snow.tga                 missing                           pak0
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -6428,12 +6428,12 @@ stone
 =================================== ======== ============ =========== ======== ============= =============================
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
-mxdebri0_riverbed.tga
-mxrock1aa.jpg
-mxrock3h_snow.tga
-mxrock3_a.jpg
-mxsnow2.tga
-mxsnow3.tga
+mxdebri0_riverbed.tga               missing                           pak0             
+mxrock1aa.jpg                       missing                           pak0
+mxrock3h_snow.tga                   missing                           pak0          
+mxrock3_a.jpg                       missing                           pak0
+mxsnow2.tga                         missing                           pak0
+mxsnow3.tga                         missing                           pak0
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -6443,22 +6443,22 @@ swf
 =================================== ======== ============ =========== ======== ============= =============================
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
-ametal_m08.jpg
-door_loper.jpg
-door_m01aaaaswf.jpg
-door_m01aswf.jpg
-door_m01swf.jpg
-fuse_box.jpg
-fuse_box1a.jpg
-fuse_box2.jpg
-metal_m01.jpg
-metal_m02.jpg
-metal_m03.jpg
-spipe_02.jpg
-spipe_03.jpg
-spipe_04.jpg
-spipe_05a.jpg
-xtrim_cm05.jpg
+ametal_m08.jpg                      missing                           pak0
+door_loper.jpg                      missing                           pak0
+door_m01aaaaswf.jpg                 missing                           pak0
+door_m01aswf.jpg                    missing                           pak0 
+door_m01swf.jpg                     missing                           pak0             
+fuse_box.jpg                        missing                           pak0
+fuse_box1a.jpg                      missing                           pak0
+fuse_box2.jpg                       missing                           pak0       
+metal_m01.jpg                       missing                           pak0
+metal_m02.jpg                       missing                           pak0
+metal_m03.jpg                       missing                           pak0
+spipe_02.jpg                        missing                           pak0
+spipe_03.jpg                        missing                           pak0
+spipe_04.jpg                        missing                           pak0
+spipe_05a.jpg                       missing                           pak0
+xtrim_cm05.jpg                      missing                           pak0
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -6468,22 +6468,22 @@ temperate_sd
 =================================== ======== ============ =========== ======== ============= =============================
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
-dirt3.tga
-dirt_m03icmp_brown.jpg
-dirt_m04cmp_brown.jpg
-grass_dense1.tga
-grass_path1.tga
-master_grass_dirt3.tga
-road_bigpuddle.tga
-road_puddle1.tga
-rocky_sand.tga
-rock_graynoise.tga
-rock_grayvar.tga
-rock_ugly_brown.tga
-sand_bubbles_bright.tga
-sand_disturb_bright.tga
-sand_patchnoise.tga
-sand_wave_bright.tga
+dirt3.tga                           missing                           pak0
+dirt_m03icmp_brown.jpg              missing                           pak0
+dirt_m04cmp_brown.jpg               missing                           pak0
+grass_dense1.tga                    missing                           pak0
+grass_path1.tga                     missing                           pak0
+master_grass_dirt3.tga              missing                           pak0
+road_bigpuddle.tga                  missing                           pak0
+road_puddle1.tga                    missing                           pak0
+rocky_sand.tga                      missing                           pak0
+rock_graynoise.tga                  missing                           pak0
+rock_grayvar.tga                    missing                           pak0
+rock_ugly_brown.tga                 missing                           pak0
+sand_bubbles_bright.tga             missing                           pak0
+sand_disturb_bright.tga             missing                           pak0
+sand_patchnoise.tga                 missing                           pak0
+sand_wave_bright.tga                missing                           pak0
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -6493,8 +6493,8 @@ terrain
 =================================== ======== ============ =========== ======== ============= =============================
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
-dirt_m03g3.tga
-dirt_m03i.jpg
+dirt_m03g3.tga                      missing                           pak0
+dirt_m03i.jpg                       missing                           pak0
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -6504,7 +6504,7 @@ tobruk_roof_sd
 =================================== ======== ============ =========== ======== ============= =============================
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
-tobruk_roof2.jpg
+tobruk_roof2.jpg                    missing                           pak0
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -6514,15 +6514,15 @@ tobruk_wall_sd
 =================================== ======== ============ =========== ======== ============= =============================
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
-tobruk_wall_base1.jpg
-tobruk_wall_base2.jpg
-tobruk_wall_base3.jpg
-tobruk_wall_base4.jpg
-tobruk_wall_base5.jpg
-tobruk_wall_base6.jpg
-tobruk_wall_base7.jpg
-tobruk_wall_base8.jpg
-tobruk_wall_base9.jpg
+tobruk_wall_base1.jpg               missing                           pak0
+tobruk_wall_base2.jpg               missing                           pak0
+tobruk_wall_base3.jpg               missing                           pak0
+tobruk_wall_base4.jpg               missing                           pak0
+tobruk_wall_base5.jpg               missing                           pak0
+tobruk_wall_base6.jpg               missing                           pak0
+tobruk_wall_base7.jpg               missing                           pak0
+tobruk_wall_base8.jpg               missing                           pak0
+tobruk_wall_base9.jpg               missing                           pak0
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -6532,15 +6532,15 @@ tobruk_windows_sd
 =================================== ======== ============ =========== ======== ============= =============================
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
-tobruk_lwind1.jpg
-tobruk_lwind2.jpg
-tobruk_moucha1.tga
-tobruk_mwind1.jpg
-tobruk_mwind2.jpg
-tobruk_shutterbrown.jpg
-tobruk_windows_off.jpg
-tobruk_windows_on1.jpg
-tobruk_windows_on2.jpg
+tobruk_lwind1.jpg                   missing                           pak0
+tobruk_lwind2.jpg                   missing                           pak0
+tobruk_moucha1.tga                  missing                           pak0
+tobruk_mwind1.jpg                   missing                           pak0
+tobruk_mwind2.jpg                   missing                           pak0
+tobruk_shutterbrown.jpg             missing                           pak0
+tobruk_windows_off.jpg              missing                           pak0
+tobruk_windows_on1.jpg              missing                           pak0
+tobruk_windows_on2.jpg              missing                           pak0
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -6550,7 +6550,7 @@ town_floor
 =================================== ======== ============ =========== ======== ============= =============================
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
-floor_d01.jpg
+floor_d01.jpg						missing                           pak0
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -6560,8 +6560,8 @@ town_roof
 =================================== ======== ============ =========== ======== ============= =============================
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
-roof_c02.jpg
-roof_c03a.jpg
+roof_c02.jpg                        missing                           pak0
+roof_c03a.jpg                       missing                           pak0
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -6571,11 +6571,11 @@ town_wall
 =================================== ======== ============ =========== ======== ============= =============================
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
-church_c01dm.jpg
-town_c38a.jpg
-town_c61a.jpg
-town_c91.jpg
-town_m_c01.jpg
+church_c01dm.jpg                    missing                           pak0
+town_c38a.jpg                       missing                           pak0
+town_c61a.jpg                       missing                           pak0
+town_c91.jpg                        missing                           pak0
+town_m_c01.jpg                      missing                           pak0
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -6585,8 +6585,8 @@ town_window
 =================================== ======== ============ =========== ======== ============= =============================
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
-shudder_c04.jpg
-window_c05a.jpg
+shudder_c04.jpg                     missing                           pak0
+window_c05a.jpg                     missing                           pak0
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -6596,8 +6596,8 @@ town_wood
 =================================== ======== ============ =========== ======== ============= =============================
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
-wood_c01.jpg
-wood_c08.jpg
+wood_c01.jpg                        missing                           pak0
+wood_c08.jpg                        missing                           pak0
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -6607,7 +6607,7 @@ tree
 =================================== ======== ============ =========== ======== ============= =============================
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
-trunck3a.jpg
+trunck3a.jpg                        missing                           pak0
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -6617,11 +6617,11 @@ village
 =================================== ======== ============ =========== ======== ============= =============================
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
-vill2_win_m2.tga
-villwin_c08dm.jpg
-villwin_c12m.tga
-villwin_c15.blend.jpg
-villwin_c15.jpg
+vill2_win_m2.tga                    missing                           pak0
+villwin_c08dm.jpg                   missing                           pak0
+villwin_c12m.tga                    missing                           pak0
+villwin_c15.blend.jpg               missing                           pak0
+villwin_c15.jpg                     missing                           pak0
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -6631,7 +6631,7 @@ village_interior
 =================================== ======== ============ =========== ======== ============= =============================
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
-inter_c11_ba.jpg
+inter_c11_ba.jpg                    missing                           pak0
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -6641,21 +6641,21 @@ wood
 =================================== ======== ============ =========== ======== ============= =============================
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
-wood_c01.jpg
-wood_m01_usat.jpg
-wood_m02.jpg
-wood_m02a.jpg
-wood_m05a_usat.jpg
-wood_m05a_usata.jpg
-wood_m05a_usata_dm.jpg
-wood_m06a.jpg
-wood_m12.jpg
-wood_m13.jpg
-wood_m13_usat.tga
-wood_m15.jpg
-wood_m16.jpg
-wood_m16cm.jpg
-wood_m18.jpg
+wood_c01.jpg                        missing                           pak0
+wood_m01_usat.jpg                   missing                           pak0
+wood_m02.jpg                        missing                           pak0
+wood_m02a.jpg                       missing                           pak0
+wood_m05a_usat.jpg                  missing                           pak0
+wood_m05a_usata.jpg                 missing                           pak0
+wood_m05a_usata_dm.jpg              missing                           pak0
+wood_m06a.jpg                       missing                           pak0
+wood_m12.jpg                        missing                           pak0
+wood_m13.jpg                        missing                           pak0
+wood_m13_usat.tga                   missing                           pak0
+wood_m15.jpg                        missing                           pak0
+wood_m16.jpg                        missing                           pak0
+wood_m16cm.jpg                      missing                           pak0
+wood_m18.jpg                        missing                           pak0
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -6665,9 +6665,9 @@ xlab_floor
 =================================== ======== ============ =========== ======== ============= =============================
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
-xfloor_c01.jpg
-xfloor_c05.jpg
-xfloor_c07.jpg
+xfloor_c01.jpg                      missing                           pak0
+xfloor_c05.jpg                      missing                           pak0
+xfloor_c07.jpg                      missing                           pak0
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -6677,14 +6677,14 @@ xlab_props
 =================================== ======== ============ =========== ======== ============= =============================
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
-panel_m01.jpg
-xdrawers_c03.jpg
-xgrid_c01.jpg
-xpanel_c02dm.jpg
-xpanel_c05_light_half.jpg
-xpanel_c08.jpg
-xpanel_c10_light.jpg
-xradio_c02.jpg
+panel_m01.jpg                       missing                           pak0
+xdrawers_c03.jpg                    missing                           pak0
+xgrid_c01.jpg                       missing                           pak0
+xpanel_c02dm.jpg                    missing                           pak0
+xpanel_c05_light_half.jpg           missing                           pak0
+xpanel_c08.jpg                      missing                           pak0
+xpanel_c10_light.jpg                missing                           pak0
+xradio_c02.jpg                      missing                           pak0
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -6694,18 +6694,18 @@ xlab_wall
 =================================== ======== ============ =========== ======== ============= =============================
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
-xconcrete_c54.jpg
-xconcrete_c54_c.jpg
-xconcrete_c58.jpg
-xconcrete_c58m.jpg
-xmetal_c03.jpg
-xmetal_m02a.tga
-xmetal_m03l.tga
-xtrim_c04.jpg
-xtrim_c06.jpg
-XTRIM_C07.jpg
-xwall_c09.jpg
-xwall_c10.jpg
+xconcrete_c54.jpg                   missing                           pak0
+xconcrete_c54_c.jpg                 missing                           pak0
+xconcrete_c58.jpg                   missing                           pak0
+xconcrete_c58m.jpg                  missing                           pak0
+xmetal_c03.jpg                      missing                           pak0
+xmetal_m02a.tga                     missing                           pak0
+xmetal_m03l.tga                     missing                           pak0
+xtrim_c04.jpg                       missing                           pak0
+xtrim_c06.jpg                       missing                           pak0
+XTRIM_C07.jpg                       missing                           pak0
+xwall_c09.jpg                       missing                           pak0
+xwall_c10.jpg                       missing                           pak0
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -6805,61 +6805,61 @@ assets
 =================================== ======== ============ =========== ======== ============= =============================
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
-3squares.tga
-3_cursor3.tga
-background_mask.tga
-blackgrad.tga
-check.tga
-check_no.tga
-check_not.tga
-clouds.tga
-et_logo.tga
-et_logo_huge.tga
-fadebox.tga
-filter_antilag.tga
-filter_balance.tga
-filter_emptyfull.tga
-filter_ff.tga
-filter_lives.tga
-filter_pass.tga
-filter_pb.tga
-filter_weap.tga
-gammabar.tga
-gradientbar1.tga
-gradientbar2.tga
-hudsprint.tga
-icon_etpro.tga                       missing                           pak2
-logo_atvi.tga
-logo_etpro.tga                       missing                           pak2
-logo_gm.tga
-logo_id.tga
-logo_nerve.tga
-logo_osp.tga
-logo_pb.tga
-logo_sd.tga
-mp_ammo_blue.tga
-mp_ammo_red.tga
-mp_arrow_blue.tga
-mp_arrow_red.tga
-mp_gun_blue.tga
-mp_gun_red.tga
-mp_health_blue.tga
-mp_health_red.tga
-mp_player_highlight.tga
-mp_spy_blue.tga
-mp_spy_red.tga
-mp_wrench_blue.tga
-mp_wrench_red.tga
-radio_tower.tga
-ring.tga
-scrollbar.tga
-scrollbar_arrow_dwn_a.tga
-scrollbar_arrow_left.tga
-scrollbar_arrow_right.tga
-scrollbar_arrow_up_a.tga
-scrollbar_thumb.tga
-slider2.tga
-sliderbutt_1.tga
+3squares.tga                        missing                           pak0
+3_cursor3.tga                       missing                           pak0
+background_mask.tga                 missing                           pak0
+blackgrad.tga                       missing                           pak0
+check.tga                           missing                           pak0
+check_no.tga                        missing                           pak0
+check_not.tga                       missing                           pak0
+clouds.tga                          missing                           pak0
+et_logo.tga                         missing                           pak0
+et_logo_huge.tga                    missing                           pak0
+fadebox.tga                         missing                           pak0
+filter_antilag.tga                  missing                           pak0
+filter_balance.tga                  missing                           pak0
+filter_emptyfull.tga                missing                           pak0
+filter_ff.tga                       missing                           pak0
+filter_lives.tga                    missing                           pak0
+filter_pass.tga                     missing                           pak0            
+filter_pb.tga                       missing                           pak0
+filter_weap.tga                     missing                           pak0
+gammabar.tga                        missing                           pak0
+gradientbar1.tga                    missing                           pak0
+gradientbar2.tga                    missing                           pak0
+hudsprint.tga                       missing                           pak0
+icon_etpro.tga                      missing                           pak2
+logo_atvi.tga                       missing                           pak0
+logo_etpro.tga                      missing                           pak2
+logo_gm.tga                         missing                           pak0
+logo_id.tga                         missing                           pak0
+logo_nerve.tga                      missing                           pak0
+logo_osp.tga                        missing                           pak0
+logo_pb.tga                         missing                           pak0
+logo_sd.tga                         missing                           pak0
+mp_ammo_blue.tga                    missing                           pak0
+mp_ammo_red.tga                     missing                           pak0
+mp_arrow_blue.tga                   missing                           pak0
+mp_arrow_red.tga                    missing                           pak0
+mp_gun_blue.tga                     missing                           pak0
+mp_gun_red.tga                      missing                           pak0
+mp_health_blue.tga                  missing                           pak0
+mp_health_red.tga                   missing                           pak0
+mp_player_highlight.tga             missing                           pak0
+mp_spy_blue.tga                     missing                           pak0
+mp_spy_red.tga                      missing                           pak0
+mp_wrench_blue.tga                  missing                           pak0
+mp_wrench_red.tga                   missing                           pak0
+radio_tower.tga                     missing                           pak0
+ring.tga                            missing                           pak0
+scrollbar.tga                       missing                           pak0
+scrollbar_arrow_dwn_a.tga           missing                           pak0
+scrollbar_arrow_left.tga            missing                           pak0
+scrollbar_arrow_right.tga           missing                           pak0
+scrollbar_arrow_up_a.tga            missing                           pak0
+scrollbar_thumb.tga                 missing                           pak0
+slider2.tga                         missing                           pak0
+sliderbutt_1.tga                    missing                           pak0
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -6869,11 +6869,11 @@ portraits
 =================================== ======== ============ =========== ======== ============= =============================
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
-allies_win_flag.jpg
-axis_win_flag.jpg
-text_allies.tga
-text_axis.tga
-text_win.tga
+allies_win_flag.jpg                 missing                           pak0
+axis_win_flag.jpg                   missing                           pak0
+text_allies.tga                     missing                           pak0
+text_axis.tga                       missing                           pak0
+text_win.tga                        missing                           pak0
 =================================== ======== ============ =========== ======== ============= =============================
 
 
@@ -6883,11 +6883,11 @@ assets2
 =================================== ======== ============ =========== ======== ============= =============================
 File                                Status   Author       Resources   Origin   Last Updated  Notes
 =================================== ======== ============ =========== ======== ============= =============================
-maptrim_edge.tga
-maptrim_long.tga
-maptrim_long2.tga
-stamp_complete.tga
-stamp_failed.tga
+maptrim_edge.tga                    missing                           pak0
+maptrim_long.tga                    missing                           pak0
+maptrim_long2.tga                   missing                           pak0
+stamp_complete.tga                  missing                           pak0
+stamp_failed.tga                    missing                           pak0
 =================================== ======== ============ =========== ======== ============= =============================
 
 
