@@ -20,7 +20,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'ET:Legacy assets'
-copyright = '2018, ET:Legacy Team'
+copyright = '2024, ET:Legacy Team'
 author = 'ET:Legacy Team'
 
 # The short X.Y version
